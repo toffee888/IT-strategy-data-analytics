@@ -1,0 +1,2008 @@
+rank,name,number_students,student_staff_ratio,intl_students,overall_score,teaching_score,research_score,citations_score,industry_income_score,international_outlook_score,tahun
+1,University of Oxford,20835,10.7,42%,96.0,,,98.0,74.4,96.3,2022
+2,California Institute of Technology,2233,6.3,34%,95.0,,,97.8,90.4,83.8,2022
+3,Harvard University,21574,9.5,24%,95.0,,,99.2,48.9,79.8,2022
+4,Stanford University,16319,7.3,23%,95.0,,,99.9,91.0,79.7,2022
+5,University of Cambridge,19680,11.1,39%,95.0,,,96.2,56.7,95.8,2022
+6,Massachusetts Institute of Technology,11459,8.4,33%,95.0,,,99.7,93.7,89.9,2022
+7,Princeton University,7753,7.5,23%,94.0,,,99.0,88.8,80.7,2022
+8,"University of California, Berkeley",40306,18.9,23%,92.0,,,99.1,84.7,77.6,2022
+9,Yale University,13317,5.9,21%,91.0,,,97.0,56.2,69.9,2022
+10,The University of Chicago,14895,6.1,33%,90.0,,,98.3,56.3,74.4,2022
+11,Columbia University,21608,4.6,35%,90.0,,,97.3,48.0,79.8,2022
+12,Imperial College London,17715,11.2,59%,89.0,,,97.6,70.8,97.5,2022
+13,Johns Hopkins University,16552,4.3,28%,88.0,,,97.2,93.7,74.6,2022
+14,University of Pennsylvania,21211,6.4,22%,88.0,,,97.1,77.6,69.7,2022
+15,ETH Zurich,20428,14.4,41%,88.0,,,90.7,62.5,97.9,2022
+16,Peking University,31606,10.2,19%,88.0,,,81.7,93.1,65.1,2022
+17,Tsinghua University,38221,11.5,13%,88.0,,,86.8,100.0,50.6,2022
+18,University of Toronto,75821,25.5,25%,87.0,,,92.6,61.2,89.1,2022
+19,UCL,35760,10.6,57%,87.0,,,96.9,44.7,96.7,2022
+20,"University of California, Los Angeles",42054,10.0,17%,87.0,,,96.0,56.5,65.1,2022
+21,National University of Singapore,31819,18.8,25%,85.0,,,87.3,75.4,94.4,2022
+22,Cornell University,23600,10.3,25%,85.0,,,97.2,38.3,75.4,2022
+23,Duke University,15785,4.2,22%,84.0,,,95.6,99.0,66.6,2022
+24,University of Michigan-Ann Arbor,44663,8.1,17%,83.0,,,94.0,48.9,59.5,2022
+25,Northwestern University,18735,13.0,19%,83.0,,,97.6,81.6,65.3,2022
+26,New York University,45424,11.0,35%,82.0,,,94.7,41.4,72.3,2022
+27,London School of Economics and Political Science,10910,12.1,72%,81.0,,,94.4,35.8,92.7,2022
+28,Carnegie Mellon University,14163,13.5,47%,81.0,,,99.0,59.0,80.8,2022
+29,University of Washington,52059,11.6,17%,80.0,,,99.0,46.3,61.7,2022
+30,University of Edinburgh,31630,12.1,44%,79.0,,,95.6,40.2,95.2,2022
+31,University of Hong Kong,18037,18.3,43%,79.0,,,95.0,58.5,98.8,2022
+32,LMU Munich,34274,33.7,18%,79.0,,,90.3,100.0,69.1,2022
+33,University of Melbourne,52098,26.5,50%,78.0,,,88.4,74.9,94.0,2022
+34,"University of California, San Diego",36256,12.2,29%,78.0,,,97.9,96.6,68.1,2022
+35,King’s College London,28250,12.0,49%,76.0,,,96.9,43.7,95.9,2022
+36,The University of Tokyo,25959,10.6,14%,76.0,,,58.2,88.1,42.0,2022
+37,University of British Columbia,54744,18.9,33%,76.0,,,89.4,47.4,94.9,2022
+38,Technical University of Munich,32672,38.7,33%,76.0,,,85.5,100.0,76.1,2022
+39,Karolinska Institute,7937,9.6,24%,74.0,,,94.2,70.5,86.2,2022
+40,École Polytechnique Fédérale de Lausanne,11266,12.3,62%,74.0,,,85.5,74.9,98.3,2022
+41,Paris Sciences et Lettres – PSL Research University Paris,20547,15.1,25%,74.0,,,80.1,78.7,80.5,2022
+42,Universität Heidelberg,19530,13.9,19%,74.0,,,95.5,54.2,69.6,2022
+43,KU Leuven,46327,36.3,16%,74.0,,,86.2,99.2,74.2,2022
+44,McGill University,31581,12.6,32%,73.0,,,83.9,45.3,91.5,2022
+45,Georgia Institute of Technology,27838,25.7,25%,73.0,,,91.4,71.4,77.7,2022
+46,"Nanyang Technological University, Singapore",23951,14.7,24%,73.0,,,85.1,87.0,93.9,2022
+47,University of Texas at Austin,49845,16.7,10%,73.0,,,89.4,50.1,39.8,2022
+48,University of Illinois at Urbana-Champaign,47202,18.3,23%,73.0,,,80.9,50.0,55.4,2022
+49,Chinese University of Hong Kong,18478,19.1,25%,71.0,,,95.0,60.2,95.0,2022
+50,University of Manchester,36545,14.3,43%,71.0,,,89.1,45.6,92.4,2022
+51,Washington University in St Louis,14243,7.9,22%,71.0,,,98.5,44.9,62.1,2022
+52,University of North Carolina at Chapel Hill,31064,8.1,8%,71.0,,,95.6,45.0,41.1,2022
+53,Wageningen University & Research,14871,20.2,27%,70.0,,,95.6,100.0,86.4,2022
+54,Australian National University,18934,17.6,47%,70.0,,,87.8,47.8,96.5,2022
+55,The University of Queensland,41914,35.8,41%,70.0,,,85.8,86.2,93.4,2022
+56,Seoul National University,26871,15.4,11%,70.0,,,68.5,98.2,36.9,2022
+57,Monash University,60211,44.1,45%,70.0,,,87.7,79.2,91.0,2022
+58,The University of Sydney,47956,19.3,47%,70.0,,,90.5,66.1,90.9,2022
+59,University of Wisconsin-Madison,39783,10.3,14%,70.0,,,79.2,47.5,50.4,2022
+60,Fudan University,33140,11.1,12%,70.0,,,79.0,70.7,48.6,2022
+61,Kyoto University,22299,9.2,11%,70.0,,,58.3,80.8,38.2,2022
+62,Boston University,27785,11.0,29%,70.0,,,93.8,46.5,65.5,2022
+63,University of Southern California,42502,13.2,24%,69.0,,,90.3,41.2,65.5,2022
+64,Brown University,9851,10.6,20%,69.0,,,92.9,37.4,61.9,2022
+65,University of Amsterdam,25556,13.1,29%,69.0,,,91.6,41.6,89.8,2022
+66,The Hong Kong University of Science and Technology,10147,21.3,31%,69.0,,,86.6,65.1,97.6,2022
+67,"University of California, Davis",37222,13.2,19%,68.0,,,81.5,50.7,68.9,2022
+68,"University of California, Santa Barbara",25578,28.2,19%,68.0,,,96.6,79.8,73.6,2022
+69,Utrecht University,33569,18.1,11%,68.0,,,90.1,77.0,76.3,2022
+70,UNSW Sydney,48077,40.5,44%,67.0,,,84.1,72.7,95.2,2022
+71,Leiden University,31556,19.4,19%,67.0,,,86.8,71.8,84.1,2022
+72,Erasmus University Rotterdam,28933,29.3,22%,67.0,,,97.0,76.5,88.5,2022
+73,Charité - Universitätsmedizin Berlin,7998,18.7,21%,67.0,,,98.7,92.2,68.1,2022
+74,Humboldt University of Berlin,33868,54.2,18%,66.0,,,73.5,41.6,70.1,2022
+75,Delft University of Technology,20133,17.0,31%,66.0,,,59.4,97.7,93.6,2022
+76,Zhejiang University,40352,11.8,20%,66.0,,,58.6,100.0,61.6,2022
+77,University of Zurich,23714,15.0,22%,66.0,,,89.4,61.9,92.5,2022
+78,University of Tübingen,20438,26.2,14%,65.0,,,82.9,82.7,65.2,2022
+79,University of Warwick,22710,14.2,43%,65.0,,,90.7,44.8,94.5,2022
+80,University of Groningen,29440,23.8,27%,65.0,,,90.6,81.1,88.7,2022
+81,McMaster University,26112,30.2,20%,65.0,,,93.1,98.3,85.1,2022
+82,Emory University,13179,4.4,20%,65.0,,,98.1,48.2,59.7,2022
+83,Free University of Berlin,27018,43.2,23%,65.0,,,72.9,41.9,75.7,2022
+84,Shanghai Jiao Tong University,36638,11.3,10%,65.0,,,59.3,100.0,47.0,2022
+85,Ohio State University (Main campus),55809,12.4,13%,64.0,,,86.1,53.2,60.6,2022
+86,University of Glasgow,27625,13.9,40%,64.0,,,94.0,40.7,93.1,2022
+87,University of Minnesota,61321,12.0,10%,64.0,,,81.7,80.4,40.8,2022
+88,University of Montreal,36524,19.6,23%,64.0,,,81.7,69.5,85.7,2022
+89,University of Science and Technology of China,16718,7.3,5%,64.0,,,72.8,70.3,34.5,2022
+90,Sorbonne University,42330,14.2,21%,64.0,,,76.6,38.2,70.4,2022
+91,Hong Kong Polytechnic University,21979,26.4,29%,63.0,,,83.7,46.0,97.1,2022
+92,Institut Polytechnique de Paris,6087,6.9,40%,63.0,,,69.0,77.1,94.5,2022
+93,University of Bristol,24110,14.4,30%,63.0,,,94.7,43.7,89.1,2022
+94,"University of Maryland, College Park",34017,16.7,11%,63.0,,,89.8,39.3,42.9,2022
+95,Michigan State University,45689,16.0,14%,63.0,,,77.2,37.7,62.0,2022
+96,University of Copenhagen,30326,4.2,18%,63.0,,,88.8,54.4,86.8,2022
+97,Ghent University,38984,35.7,11%,63.0,,,79.2,83.3,62.4,2022
+98,"University of California, Irvine",35944,17.1,28%,62.0,,,93.8,52.0,73.2,2022
+99,Dartmouth College,6378,7.6,15%,62.0,,,93.6,38.9,41.7,2022
+100,Korea Advanced Institute of Science and Technology (KAIST),9504,10.3,10%,62.0,,,59.3,100.0,38.0,2022
+101,University of Bern,11556,16.6,16%,62.0,,,88.2,90.6,87.3,2022
+102,University of Helsinki,22628,15.7,6%,62.0,,,88.5,37.8,57.3,2022
+103,University of Basel,9440,12.3,30%,62.0,,,89.5,99.9,97.0,2022
+104,Aarhus University,26521,13.6,9%,62.0,,,82.4,74.9,76.9,2022
+105,University of Birmingham,31365,14.9,32%,62.0,,,93.3,40.6,91.7,2022
+106,Nanjing University,37137,17.1,9%,62.0,,,74.0,86.8,56.6,2022
+107,Purdue University West Lafayette,43411,16.6,21%,62.0,,,59.6,68.9,70.9,2022
+108,University of Freiburg,21416,39.7,12%,61.0,,,82.2,97.2,61.4,2022
+109,RWTH Aachen University,45628,55.5,25%,61.0,,,64.1,98.7,62.0,2022
+110,University of Sheffield,27265,15.3,38%,61.0,,,86.3,48.8,87.8,2022
+111,University of Adelaide,22061,30.6,32%,61.0,,,94.3,65.5,93.7,2022
+112,University of Bonn,27743,49.8,16%,61.0,,,85.2,55.5,67.1,2022
+113,National Taiwan University (NTU),24810,11.4,12%,61.0,,,64.8,75.4,46.9,2022
+114,Vanderbilt University,12366,3.0,16%,61.0,,,94.1,56.9,48.7,2022
+115,Vrije Universiteit Amsterdam,26593,18.6,14%,61.0,,,87.8,59.3,75.4,2022
+116,Lund University,28498,11.2,19%,61.0,,,83.1,82.0,79.9,2022
+117,Université Paris-Saclay,40884,12.7,19%,60.0,,,80.2,56.4,68.2,2022
+118,Queen Mary University of London,19975,13.5,46%,60.0,,,98.1,42.7,97.1,2022
+119,University of Göttingen,30610,26.6,14%,60.0,,,84.9,37.7,62.2,2022
+120,University of Oslo,21413,13.2,19%,60.0,,,89.5,44.3,80.4,2022
+121,Penn State (Main campus),46513,14.1,16%,60.0,,,75.3,40.7,47.5,2022
+122,Lancaster University,13510,12.3,37%,60.0,,,93.9,36.4,94.6,2022
+123,Sungkyunkwan University (SKKU),23104,19.2,19%,60.0,,,60.7,99.4,56.3,2022
+124,University of Southampton,21815,14.1,36%,60.0,,,90.6,43.4,94.5,2022
+125,University of Alberta,33475,21.9,28%,60.0,,,71.9,64.7,88.9,2022
+126,Case Western Reserve University,10898,9.4,23%,59.0,,,91.9,41.7,53.8,2022
+127,University of Leeds,33320,14.6,32%,59.0,,,81.1,39.8,90.3,2022
+128,Maastricht University,18159,18.0,55%,59.0,,,76.1,84.6,98.1,2022
+129,University of Virginia (Main campus),25377,9.0,13%,59.0,,,90.5,43.1,51.0,2022
+130,Georgetown University,16703,8.6,20%,59.0,,,88.8,70.2,48.9,2022
+131,Uppsala University,26917,16.5,17%,59.0,,,78.4,71.8,71.4,2022
+132,Arizona State University (Tempe),48255,19.7,18%,59.0,,,80.9,38.5,62.8,2022
+133,University of Hamburg,30953,59.8,13%,59.0,,,74.9,93.8,58.7,2022
+134,The University of Western Australia,18683,21.3,30%,59.0,,,88.0,65.0,95.5,2022
+135,Rice University,6885,9.2,28%,59.0,,,87.2,44.2,77.8,2022
+136,University of Auckland,32983,22.7,32%,58.0,,,84.8,69.4,94.6,2022
+137,University of Vienna,33852,38.3,29%,58.0,,,65.4,37.8,95.4,2022
+138,Radboud University Nijmegen,21818,17.7,15%,58.0,,,85.9,44.4,74.8,2022
+139,Technical University of Berlin,22118,55.0,27%,58.0,,,64.1,96.9,66.8,2022
+140,University of Pittsburgh-Pittsburgh campus,26841,5.6,12%,58.0,,,91.7,42.6,43.6,2022
+141,University of Nottingham,31360,14.8,30%,58.0,,,80.1,40.5,89.2,2022
+142,University of Rochester,10177,6.7,36%,58.0,,,86.4,50.5,73.1,2022
+143,University of Antwerp,15347,30.8,17%,58.0,,,85.4,85.7,70.6,2022
+144,University of Exeter,22740,16.1,28%,58.0,,,93.5,37.5,91.6,2022
+145,University of Technology Sydney,26955,39.6,37%,58.0,,,83.7,55.0,97.2,2022
+146,University of Mannheim,7641,57.5,25%,58.0,,,76.6,60.7,67.5,2022
+147,Newcastle University,24630,14.5,27%,58.0,,,92.8,42.3,87.5,2022
+148,Trinity College Dublin,17495,21.2,32%,58.0,,,79.5,42.1,95.0,2022
+149,Ulm University,10284,27.2,13%,58.0,,,92.4,85.7,56.9,2022
+150,University of Arizona,39616,17.3,10%,58.0,,,82.4,50.5,41.4,2022
+151,City University of Hong Kong,9506,10.7,56%,57.0,,,75.4,46.6,99.7,2022
+152,University of Sussex,17405,17.6,37%,57.0,,,95.1,36.2,93.8,2022
+153,Yonsei University (Seoul campus),18521,14.7,21%,57.0,,,55.7,96.9,58.6,2022
+154,University of Florida,47007,16.3,9%,57.0,,,62.0,58.4,42.7,2022
+155,Université Paris Cité,62366,17.0,19%,57.0,,,86.5,36.3,67.7,2022
+156,Pompeu Fabra University,11863,22.9,13%,57.0,,,94.2,47.8,66.8,2022
+157,Wuhan University,54421,15.2,7%,57.0,,,92.3,80.9,39.8,2022
+158,University of Aberdeen,13105,16.8,44%,57.0,,,94.0,47.1,95.8,2022
+159,University of Colorado Boulder,35491,16.6,10%,57.0,,,88.1,43.2,47.2,2022
+160,Université Catholique de Louvain,26424,39.1,20%,57.0,,,73.2,62.5,80.9,2022
+161,Durham University,17725,15.0,33%,57.0,,,69.7,37.8,93.8,2022
+162,University of Ottawa,35791,25.4,22%,57.0,,,83.3,50.0,82.1,2022
+163,Southern University of Science and Technology (SUSTech),4245,8.4,1%,57.0,,,98.5,78.5,60.4,2022
+164,University of Würzburg,23374,35.6,10%,57.0,,,85.6,73.9,62.4,2022
+165,Bielefeld University,25182,70.6,8%,57.0,,,94.4,42.4,48.1,2022
+166,Indiana University,66716,12.9,14%,56.0,,,74.7,52.0,54.0,2022
+167,"Northeastern University, US",20910,14.1,36%,56.0,,,97.4,37.8,76.2,2022
+168,University of York,17300,14.7,26%,56.0,,,79.1,37.1,86.7,2022
+169,Autonomous University of Barcelona,31595,12.7,16%,56.0,,,90.6,42.9,66.9,2022
+170,University of Canberra,9893,35.4,29%,56.0,,,98.6,44.2,89.8,2022
+171,University of Bologna,68370,24.3,12%,56.0,,,82.7,45.3,52.1,2022
+172,University of Cologne,32405,28.9,18%,56.0,,,77.1,76.9,66.7,2022
+173,TU Dresden,30519,32.3,17%,56.0,,,69.3,97.4,59.3,2022
+174,Tufts University,11152,9.9,16%,56.0,,,91.6,39.5,50.4,2022
+175,University of Lausanne,13016,9.5,23%,56.0,,,77.1,78.1,92.0,2022
+176,Stockholm University,28072,19.6,10%,56.0,,,84.9,36.5,69.4,2022
+177,University of Liverpool,25910,14.6,35%,55.0,,,88.5,39.1,93.6,2022
+178,Ulsan National Institute of Science and Technology (UNIST),3657,13.9,10%,55.0,,,85.4,91.8,51.0,2022
+179,Karlsruhe Institute of Technology,23224,22.6,24%,55.0,,,61.3,93.3,71.7,2022
+180,Huazhong University of Science and Technology,56709,16.2,5%,55.0,,,92.7,89.8,27.9,2022
+181,University of East Anglia,15760,13.5,26%,55.0,,,97.9,35.9,87.5,2022
+182,University of Cape Town,21757,13.3,16%,55.0,,,85.5,56.4,80.1,2022
+183,University of Notre Dame,12234,10.8,13%,55.0,,,70.7,39.7,59.0,2022
+184,University of Gothenburg,21033,10.6,13%,55.0,,,90.5,42.7,66.1,2022
+185,University of Leicester,15030,14.1,31%,55.0,,,94.2,39.9,91.0,2022
+186,Pohang University of Science and Technology (POSTECH),3183,10.1,3%,55.0,,,65.4,98.0,31.1,2022
+187,Technical University of Denmark,9321,6.6,23%,55.0,,,72.4,86.0,92.2,2022
+188,Cardiff University,26620,14.7,28%,55.0,,,89.1,39.9,87.0,2022
+189,King Abdulaziz University,32034,7.8,22%,55.0,,,92.4,74.0,93.6,2022
+190,Rutgers University – New Brunswick,44870,10.8,17%,55.0,,,70.4,47.2,52.8,2022
+191,Macquarie University,30249,69.6,30%,54.0,,,71.4,63.3,89.5,2022
+192,University of Barcelona,45382,16.1,11%,54.0,,,90.4,47.1,59.4,2022
+193,Queensland University of Technology,36366,40.2,18%,54.0,,,86.8,50.0,84.6,2022
+194,Texas A&M University,62790,21.6,8%,54.0,,,64.6,46.5,56.1,2022
+195,Medical University of Graz,3733,13.3,26%,54.0,,,95.9,66.7,78.0,2022
+196,University of Erlangen-Nuremberg,30747,44.7,13%,54.0,,,71.5,88.7,52.8,2022
+197,University of Geneva,17744,8.2,39%,54.0,,,83.1,51.6,98.6,2022
+198,University of Hohenheim,8614,38.5,11%,54.0,,,97.5,48.5,51.4,2022
+199,Sapienza University of Rome,71992,30.6,9%,54.0,,,70.9,55.9,44.3,2022
+200,Scuola Normale Superiore di Pisa,581,6.9,12%,54.0,,,67.8,36.9,55.4,2022
+201,Aalborg University,16519,12.8,13%,54.78,,,79.3,49.8,78.5,2022
+202,Aalto University,12815,19.4,24%,54.72,,,71.6,54.2,83.7,2022
+203,Alfaisal University,2724,10.1,34%,54.67,,,99.0,41.7,97.3,2022
+204,Auckland University of Technology,18528,17.4,50%,54.61,,,98.9,37.0,96.2,2022
+205,University of Bath,14655,15.7,34%,54.56,,,78.9,38.7,92.9,2022
+206,University of Bergen,14327,12.3,13%,54.5,,,91.6,37.5,78.7,2022
+207,Brighton and Sussex Medical School,975,10.3,17%,54.44,,,100.0,34.8,80.6,2022
+208,University of Calgary,33099,18.2,21%,54.39,,,80.4,65.6,80.4,2022
+209,"University of California, Santa Cruz",19700,24.1,13%,54.33,,,96.7,42.1,65.6,2022
+210,Copenhagen Business School,16637,27.5,25%,54.28,,,86.2,42.4,94.5,2022
+211,University of Dundee,13015,18.2,24%,54.22,,,89.1,48.9,83.2,2022
+212,Eindhoven University of Technology,11326,24.6,22%,54.17,,,56.1,99.9,83.8,2022
+213,Friedrich Schiller University Jena,16964,25.3,15%,54.12,,,73.5,57.1,60.5,2022
+214,George Washington University,23375,12.7,18%,54.06,,,79.0,36.0,57.9,2022
+215,Griffith University,35020,29.0,18%,54.01,,,80.4,50.6,82.8,2022
+216,University of Konstanz,11453,50.2,13%,53.96,,,59.4,74.8,69.7,2022
+217,Korea University,22799,13.4,23%,53.9,,,63.4,91.9,50.9,2022
+218,KTH Royal Institute of Technology,13422,16.7,21%,53.85,,,56.0,69.8,90.2,2022
+219,La Trobe University,26097,33.8,39%,53.8,,,86.3,46.7,89.8,2022
+220,Université Libre de Bruxelles,25743,44.8,31%,53.75,,,78.6,43.8,88.9,2022
+221,University of Macau,9874,15.1,38%,53.69,,,71.2,45.7,99.4,2022
+222,University of Massachusetts,62595,13.2,15%,53.64,,,90.2,52.6,64.4,2022
+223,Medical University of Innsbruck,3168,12.1,43%,53.59,,,88.4,91.4,87.2,2022
+224,Medical University of Vienna,7232,8.9,30%,53.54,,,92.7,61.9,79.8,2022
+225,University of Miami,16479,10.3,16%,53.49,,,75.9,47.5,59.5,2022
+226,University of Münster,28539,25.5,7%,53.44,,,80.7,48.1,48.7,2022
+227,University of Otago,18690,20.5,21%,53.39,,,77.5,39.6,90.1,2022
+228,University of Padua,48651,21.9,8%,53.34,,,80.3,40.9,49.4,2022
+229,Queen’s University Belfast,18485,16.0,37%,53.29,,,80.3,41.3,97.2,2022
+230,RCSI University of Medicine and Health Sciences,2488,24.9,66%,53.24,,,84.0,52.6,94.9,2022
+231,University of Reading,15435,15.8,31%,53.19,,,78.8,40.4,92.6,2022
+232,"St George’s, University of London",3485,13.4,21%,53.14,,,99.1,39.8,77.4,2022
+233,Sant’Anna School of Advanced Studies – Pisa,706,10.3,21%,53.09,,,70.5,89.2,57.8,2022
+234,University of São Paulo,82323,16.5,3%,53.04,,,43.3,42.3,35.9,2022
+235,Simon Fraser University,27015,27.9,31%,52.99,,,81.5,49.0,92.1,2022
+236,University of South Florida,39779,21.4,13%,52.94,,,85.8,91.2,55.1,2022
+237,University of St Andrews,9500,12.2,47%,52.89,,,60.2,37.7,95.5,2022
+238,University of Surrey,14455,16.0,36%,52.84,,,75.0,43.0,94.6,2022
+239,Taipei Medical University,6140,9.9,10%,52.8,,,73.4,96.9,42.9,2022
+240,Tel Aviv University,22809,22.2,7%,52.75,,,68.4,43.1,56.4,2022
+241,Tilburg University,9944,24.8,18%,52.7,,,63.3,51.0,81.9,2022
+242,Tohoku University,17888,12.2,14%,52.65,,,37.8,97.2,49.5,2022
+243,University of Twente,8981,14.9,37%,52.61,,,57.0,86.9,93.8,2022
+244,University College Dublin,23066,23.0,31%,52.56,,,71.8,48.7,93.6,2022
+245,Vita-Salute San Raffaele University,3114,10.6,4%,52.51,,,98.6,36.0,42.8,2022
+246,University of Waterloo,33613,23.8,22%,52.46,,,67.7,47.1,87.1,2022
+247,Western University,28301,28.5,22%,52.42,,,72.6,80.2,85.6,2022
+248,Western Sydney University,35766,37.8,23%,52.37,,,88.7,42.4,87.9,2022
+249,University of Wollongong,18222,30.2,30%,52.33,,,77.3,55.8,94.7,2022
+250,Australian Catholic University,23750,42.9,15%,52.28,,,95.9,36.6,80.2,2022
+251,Beijing Normal University,23424,14.5,12%,52.23,,,56.0,71.1,45.7,2022
+252,Boston College,12958,15.1,12%,52.19,,,64.4,35.1,46.4,2022
+253,Brandeis University,5425,12.2,28%,52.14,,,99.0,35.6,57.5,2022
+254,University at Buffalo,27114,17.9,16%,52.1,,,71.4,47.4,64.8,2022
+255,"University of California, Riverside",23155,17.7,14%,52.05,,,84.1,40.9,65.0,2022
+256,Chalmers University of Technology,9573,13.8,18%,52.01,,,63.3,65.5,77.5,2022
+257,University of Colorado Denver/Anschutz Medical Campus,17224,3.9,8%,51.96,,,94.8,42.0,31.0,2022
+258,Curtin University,30221,20.7,32%,51.92,,,82.5,43.5,95.5,2022
+259,Dalhousie University,16077,13.8,28%,51.87,,,77.5,43.3,89.0,2022
+260,Deakin University,42675,33.6,28%,51.83,,,79.3,42.8,89.2,2022
+261,University of Duisburg-Essen,41728,45.0,19%,51.79,,,80.3,67.2,61.1,2022
+262,Heinrich Heine University Düsseldorf,29297,36.1,12%,51.74,,,78.6,43.7,59.6,2022
+263,École des Ponts ParisTech,2096,11.7,45%,51.7,,,87.4,59.6,83.8,2022
+264,Flinders University,16976,28.2,36%,51.65,,,83.3,40.7,89.9,2022
+265,Florida State University,39380,24.7,7%,51.61,,,70.1,40.8,47.3,2022
+266,George Mason University,31652,18.2,11%,51.57,,,84.9,36.0,48.5,2022
+267,University of Hawai’i at Mānoa,14789,10.7,11%,51.53,,,67.1,39.1,66.9,2022
+268,Howard University,8453,8.0,8%,51.48,,,95.7,34.8,35.4,2022
+269,University of Iowa,29591,11.5,9%,51.44,,,77.6,48.6,47.4,2022
+270,James Cook University,10794,20.1,12%,51.4,,,88.6,45.5,78.7,2022
+271,University of Kiel,27750,22.5,9%,51.35,,,85.0,34.8,57.7,2022
+272,Kyung Hee University,20599,17.5,25%,51.31,,,64.6,89.7,63.7,2022
+273,Lappeenranta-Lahti University of Technology LUT,4333,29.6,15%,51.27,,,84.1,54.9,61.2,2022
+274,Université Laval,28662,17.1,14%,51.23,,,67.7,66.4,71.0,2022
+275,Linköping University,15873,14.6,14%,51.19,,,77.9,60.7,69.0,2022
+276,University of Luxembourg,4890,19.1,52%,51.15,,,65.7,47.3,99.5,2022
+277,Macau University of Science and Technology,11113,25.7,88%,51.1,,,82.3,46.4,99.9,2022
+278,University of Navarra,11545,14.7,26%,51.06,,,85.1,65.9,71.7,2022
+279,University of Newcastle,23706,29.0,19%,51.02,,,78.9,61.4,85.6,2022
+280,University of New Mexico (Main campus),19227,17.5,5%,50.98,,,80.1,42.8,34.1,2022
+281,Oregon Health and Science University,3017,1.0,3%,50.94,,,99.1,52.6,28.6,2022
+282,University of Oulu,9756,25.1,6%,50.9,,,76.2,51.6,57.1,2022
+283,University of Potsdam,14844,41.1,14%,50.86,,,65.0,66.0,59.3,2022
+284,Queen’s University,25289,25.9,16%,50.82,,,60.2,79.1,71.1,2022
+285,Ruhr University Bochum,38893,50.4,15%,50.78,,,61.6,58.1,54.0,2022
+286,Sejong University,12063,20.1,12%,50.74,,,90.2,48.0,53.2,2022
+287,Semmelweis University,9887,9.2,33%,50.7,,,81.0,41.4,77.8,2022
+288,University of Southern Denmark,18822,10.5,16%,50.66,,,80.2,73.9,81.1,2022
+289,Stellenbosch University,24733,26.1,8%,50.62,,,78.7,79.5,54.3,2022
+290,Sun Yat-sen University,56430,15.7,6%,50.58,,,77.7,60.6,33.5,2022
+291,Swansea University,17590,15.7,22%,50.54,,,93.8,39.0,83.0,2022
+292,Tampere University,15438,20.9,6%,50.5,,,84.4,59.6,52.5,2022
+293,University of Tartu,9087,12.2,12%,50.46,,,89.3,43.3,62.6,2022
+294,University College Cork,17397,20.3,20%,50.42,,,88.1,49.2,83.7,2022
+295,University of Utah,30794,14.7,7%,50.38,,,81.8,51.2,33.1,2022
+296,Virginia Polytechnic Institute and State University,34950,18.3,14%,50.34,,,74.3,48.4,56.4,2022
+297,Vrije Universiteit Brussel,13301,32.4,23%,50.3,,,63.9,60.8,76.7,2022
+298,University of the Witwatersrand,26873,24.3,8%,50.27,,,66.2,100.0,73.4,2022
+299,Aix-Marseille University,69951,17.0,12%,50.23,,,74.4,39.7,60.9,2022
+300,American University of Beirut,8988,8.6,22%,50.19,,,89.2,49.7,77.5,2022
+301,Anglia Ruskin University (ARU),18885,24.1,39%,50.15,,,99.7,35.1,89.9,2022
+302,Autonomous University of Madrid,29813,13.4,15%,50.11,,,83.8,38.3,55.1,2022
+303,University of Bordeaux,54346,22.7,14%,50.07,,,79.1,39.0,60.1,2022
+304,"University of California, Merced",8459,21.4,10%,50.04,,,94.9,40.9,44.0,2022
+305,University of Cape Coast,24628,33.4,0%,50.0,,,100.0,66.2,44.7,2022
+306,Central South University,54903,19.9,3%,49.96,,,65.6,96.0,25.0,2022
+307,"China Medical University, Taiwan",7971,17.4,10%,49.92,,,80.8,95.7,44.1,2022
+308,University of Delaware,21916,16.6,10%,49.89,,,68.8,94.6,49.4,2022
+309,East China Normal University,27424,14.5,14%,49.85,,,59.0,57.2,62.8,2022
+310,École Normale Supérieure de Lyon,2272,8.6,11%,49.81,,,52.6,64.3,64.7,2022
+311,University of Essex,13490,16.6,40%,49.78,,,63.5,35.9,96.3,2022
+312,Goethe University Frankfurt,45179,18.5,15%,49.74,,,73.7,43.5,61.0,2022
+313,Hebrew University of Jerusalem,16237,11.5,5%,49.7,,,51.8,42.6,59.6,2022
+314,Hofstra University,9844,13.3,8%,49.67,,,94.6,34.8,30.2,2022
+315,University of Illinois Chicago,28089,11.5,19%,49.63,,,63.5,44.3,51.7,2022
+316,Indian Institute of Science,4199,9.3,1%,49.59,,,31.5,88.1,24.1,2022
+317,Johannes Gutenberg University of Mainz,31240,25.1,12%,49.56,,,78.2,56.3,58.6,2022
+318,University of Malaya,17390,8.9,18%,49.52,,,61.9,47.1,84.0,2022
+319,University of Manitoba,28888,28.9,19%,49.48,,,74.4,35.6,55.9,2022
+320,University of Milan,44959,20.6,6%,49.45,,,82.6,39.8,43.5,2022
+321,University of Milan-Bicocca,27635,29.2,5%,49.41,,,91.8,39.2,45.4,2022
+322,Montpellier University,39909,19.9,15%,49.38,,,70.4,38.7,62.5,2022
+323,Nankai University,30456,12.3,9%,49.34,,,78.7,45.5,41.3,2022
+324,National Yang Ming Chiao Tung University,16870,12.2,11%,49.31,,,50.0,72.8,40.0,2022
+325,North Carolina State University,30917,16.0,14%,49.27,,,60.5,46.2,53.6,2022
+326,Nova Southeastern University,17431,16.1,6%,49.24,,,96.5,34.8,29.7,2022
+327,Osaka University,22451,7.8,11%,49.2,,,33.9,90.2,38.4,2022
+328,Qatar University,8899,8.8,36%,49.17,,,69.0,50.7,99.1,2022
+329,Reykjavík University,2574,22.3,8%,49.13,,,100.0,36.7,69.1,2022
+330,RMIT University,32743,23.3,34%,49.1,,,69.8,46.0,93.9,2022
+331,University of Rome II – Tor Vergata,25683,32.8,16%,49.06,,,68.5,48.4,62.1,2022
+332,Rush University,2728,2.3,1%,49.03,,,90.9,45.0,21.6,2022
+333,University of St Gallen,7851,12.1,33%,48.99,,,78.4,49.1,95.6,2022
+334,University of South Australia,22377,32.2,22%,48.96,,,68.1,84.3,88.4,2022
+335,University of Stirling,9750,16.5,26%,48.92,,,80.9,35.5,84.7,2022
+336,Stony Brook University,24830,10.7,22%,48.89,,,77.2,36.2,70.2,2022
+337,University of Stuttgart,16344,28.5,19%,48.86,,,49.8,93.8,53.1,2022
+338,Università della Svizzera italiana,3097,11.6,67%,48.82,,,83.6,58.9,99.5,2022
+339,Swedish University of Agricultural Sciences,3906,4.4,7%,48.79,,,74.1,92.0,51.5,2022
+340,Swinburne University of Technology,16186,25.1,29%,48.75,,,76.7,42.2,81.8,2022
+341,University of Tasmania,18610,22.3,37%,48.72,,,70.3,47.0,91.3,2022
+342,Technical University of Darmstadt,16009,38.0,17%,48.69,,,46.8,88.4,58.5,2022
+343,Temple University,36423,12.9,8%,48.65,,,79.4,34.8,38.9,2022
+344,The University of Tennessee-Knoxville,26721,16.6,4%,48.62,,,78.1,42.6,46.8,2022
+345,Tokyo Institute of Technology,9835,9.6,15%,48.59,,,33.2,80.7,46.2,2022
+346,Tongji University,30525,10.9,17%,48.55,,,41.7,98.8,60.2,2022
+347,University of Victoria,22550,26.5,21%,48.52,,,73.7,45.2,88.6,2022
+348,Wake Forest University,8054,4.1,10%,48.49,,,85.6,45.4,33.7,2022
+349,William & Mary,8272,11.3,9%,48.45,,,78.9,36.2,36.9,2022
+350,Babol Noshirvani University of Technology,5745,27.0,0%,48.42,,,99.4,37.2,20.7,2022
+351,University of Bayreuth,8541,25.3,15%,48.39,,,55.7,57.3,60.6,2022
+352,"Birkbeck, University of London",8405,19.5,39%,48.36,,,64.1,35.1,89.9,2022
+353,Bournemouth University,13790,17.7,19%,48.32,,,74.6,35.1,82.1,2022
+354,University of Bremen,13816,22.9,16%,48.29,,,56.6,53.7,62.0,2022
+355,University of Brescia,14784,24.6,8%,48.26,,,93.9,39.6,44.7,2022
+356,Universiti Brunei Darussalam,3786,10.8,17%,48.23,,,83.9,36.9,88.2,2022
+357,Brunel University London,12515,17.8,38%,48.19,,,69.0,36.3,96.5,2022
+358,Catholic University of Portugal,11233,22.8,21%,48.16,,,98.3,36.6,62.0,2022
+359,"City, University of London",14990,17.8,50%,48.13,,,70.9,36.2,95.2,2022
+360,"Colorado State University, Fort Collins",26464,16.2,6%,48.1,,,77.3,40.8,39.2,2022
+361,Drexel University,19984,11.4,16%,48.07,,,76.2,42.5,51.7,2022
+362,University of Georgia,37190,16.8,7%,48.03,,,53.2,38.2,47.0,2022
+363,University of Greifswald,10019,20.7,7%,48.0,,,74.7,42.3,48.7,2022
+364,Université Grenoble Alpes,50732,16.9,17%,47.97,,,58.0,38.7,68.7,2022
+365,University of Hail,19032,11.2,10%,47.94,,,100.0,40.9,82.0,2022
+366,Hanyang University,20009,15.0,21%,47.91,,,44.0,93.8,64.3,2022
+367,Harokopio University of Athens,3697,55.2,4%,47.88,,,96.3,37.3,45.2,2022
+368,Hasselt University,5528,30.4,13%,47.85,,,57.5,58.2,69.4,2022
+369,Illinois Institute of Technology,5851,10.6,42%,47.82,,,62.9,38.6,74.1,2022
+370,IMT Atlantique,1546,8.2,39%,47.78,,,54.3,95.8,77.2,2022
+371,Indian Institute of Technology Ropar,1876,10.5,0%,47.75,,,99.7,37.7,18.9,2022
+372,JSS Academy of Higher Education and Research,7518,9.4,8%,47.72,,,100.0,35.8,32.4,2022
+373,University of Jyväskylä,10277,14.2,4%,47.69,,,75.4,36.3,51.5,2022
+374,University of Kent,17280,18.0,30%,47.66,,,64.5,35.4,91.5,2022
+375,Khalifa University,2947,9.5,21%,47.63,,,51.9,100.0,92.1,2022
+376,King Fahd University of Petroleum and Minerals,6706,7.6,11%,47.6,,,77.9,74.2,77.6,2022
+377,King Saud University,34952,10.1,11%,47.57,,,70.9,82.6,82.3,2022
+378,University of Klagenfurt,3173,9.0,25%,47.54,,,74.6,36.8,90.3,2022
+379,Kurdistan University of Medical Sciences,2958,10.6,3%,47.51,,,100.0,36.4,22.3,2022
+380,University of KwaZulu-Natal,37005,30.6,3%,47.48,,,66.7,39.7,53.3,2022
+381,University of Liège,21160,25.7,21%,47.45,,,60.2,99.6,71.6,2022
+382,Loughborough University,15555,13.8,27%,47.42,,,61.1,38.6,86.6,2022
+383,Mazandaran University of Medical Sciences,8734,17.9,0%,47.39,,,87.6,40.9,19.7,2022
+384,Nagoya University,15564,10.0,12%,47.36,,,41.4,97.9,35.4,2022
+385,University of Galway,14799,27.0,18%,47.33,,,66.7,48.8,81.5,2022
+386,National Tsing Hua University,13827,16.6,12%,47.3,,,50.0,70.7,42.9,2022
+387,University of Oregon,22034,10.5,8%,47.27,,,85.3,36.4,35.3,2022
+388,University of Passau,9915,76.6,13%,47.24,,,56.3,46.5,58.4,2022
+389,University of Pavia,19849,34.8,9%,47.21,,,72.4,46.5,46.7,2022
+390,Politecnico di Milano,37680,25.6,17%,47.18,,,57.8,80.1,60.8,2022
+391,"Royal Holloway, University of London",10175,14.6,36%,47.15,,,67.3,37.6,91.8,2022
+392,Shenzhen University,36401,14.5,1%,47.12,,,89.4,53.6,36.7,2022
+393,SUNY University at Albany,16110,16.8,9%,47.09,,,84.3,43.5,49.9,2022
+394,Syracuse University,20573,15.0,21%,47.06,,,69.7,35.8,49.8,2022
+395,University of Texas at Dallas,25464,22.9,20%,47.03,,,80.6,40.7,56.6,2022
+396,University of Trento,13782,19.8,7%,47.01,,,69.5,43.1,56.6,2022
+397,University of Turku,12851,15.5,6%,46.98,,,75.3,37.0,54.1,2022
+398,UiT The Arctic University of Norway,14505,10.4,10%,46.95,,,87.9,37.8,68.8,2022
+399,Umeå University,17495,12.6,11%,46.92,,,78.2,36.6,64.0,2022
+400,United Arab Emirates University,7121,8.4,17%,46.89,,,73.3,65.9,88.8,2022
+401,Washington State University,29326,19.3,7%,46.86,,,71.3,50.3,50.1,2022
+402,Addis Ababa University,46864,16.6,0%,46.83,,,95.2,41.5,47.0,2022
+403,University of Alaska Fairbanks,3125,7.8,6%,46.8,,,73.7,46.9,57.9,2022
+404,An-Najah National University,23053,21.3,9%,46.78,,,100.0,36.0,63.7,2022
+405,Aston University,11515,17.9,24%,46.75,,,66.0,36.7,91.6,2022
+406,Aswan University,29353,45.0,2%,46.72,,,100.0,34.8,47.9,2022
+407,Bangor University,8800,15.6,23%,46.69,,,68.1,35.2,81.9,2022
+408,University of Campinas,29466,16.5,3%,46.66,,,36.2,47.7,33.0,2022
+409,Cankaya University,7716,26.5,1%,46.64,,,100.0,36.0,46.0,2022
+410,Claude Bernard University Lyon 1,27767,13.0,14%,46.61,,,61.2,40.6,58.5,2022
+411,Colorado School of Mines,6226,17.4,10%,46.58,,,66.3,46.8,39.0,2022
+412,University of Connecticut,28024,13.1,12%,46.55,,,61.4,38.2,54.5,2022
+413,University of Côte d’Azur,31638,18.3,21%,46.52,,,72.1,35.6,76.2,2022
+414,University of Crete,13620,27.2,4%,46.5,,,87.1,39.5,48.2,2022
+415,University of Cyprus,6588,19.9,12%,46.47,,,65.5,49.1,82.1,2022
+416,University of Denver,9624,12.7,7%,46.44,,,72.2,35.9,27.9,2022
+417,Durban University of Technology,26543,37.7,1%,46.41,,,99.9,37.8,39.1,2022
+418,Duy Tan University,21519,23.6,0%,46.39,,,100.0,35.9,49.4,2022
+419,École des Mines de Saint-Étienne,1039,8.5,24%,46.36,,,54.2,71.5,71.4,2022
+420,Edith Cowan University,18086,30.5,29%,46.33,,,73.2,38.8,86.5,2022
+421,University of Ferrara,18093,28.9,6%,46.3,,,71.0,41.4,44.6,2022
+422,University of Florence,36629,21.3,10%,46.28,,,66.8,44.7,46.1,2022
+423,Free University of Bozen-Bolzano,4195,11.2,15%,46.25,,,77.8,36.5,76.7,2022
+424,University of Fribourg,10687,25.4,17%,46.22,,,59.2,50.3,85.8,2022
+425,University of Genoa,23225,18.9,9%,46.2,,,65.1,45.3,44.8,2022
+426,Georgia State University,32290,15.5,6%,46.17,,,65.8,36.0,44.5,2022
+427,"Goldsmiths, University of London",9325,15.5,37%,46.14,,,64.7,34.8,81.0,2022
+428,Hong Kong Baptist University,7075,10.1,58%,46.11,,,54.3,37.7,98.7,2022
+429,Hunan University,40198,18.6,3%,46.09,,,84.9,54.5,25.6,2022
+430,University of Ibadan,35083,22.6,1%,46.06,,,91.2,35.3,32.2,2022
+431,University of Iceland,9023,15.5,11%,46.03,,,66.9,69.5,62.6,2022
+432,Indian Institute of Technology Indore,1832,11.4,0%,46.01,,,66.7,38.1,22.4,2022
+433,University of Innsbruck,13517,22.2,43%,45.98,,,52.9,53.6,95.9,2022
+434,University of Insubria,9207,26.5,6%,45.95,,,90.7,36.7,41.1,2022
+435,Iowa State University,31013,17.9,11%,45.93,,,58.9,51.1,56.3,2022
+436,Constructor University,1571,21.9,78%,45.9,,,46.6,53.1,92.4,2022
+437,Jordan University of Science and Technology,22656,14.5,13%,45.88,,,99.2,43.3,58.3,2022
+438,Justus Liebig University Giessen,27666,42.8,10%,45.85,,,59.1,42.4,52.8,2022
+439,University of Kansas,24581,9.6,9%,45.82,,,67.3,45.7,48.7,2022
+440,University of Kragujevac,15717,12.5,0%,45.8,,,97.9,35.6,33.9,2022
+441,Leibniz University Hannover,21640,41.9,18%,45.77,,,50.1,52.4,54.2,2022
+442,Institut Agro,2221,11.3,17%,45.75,,,60.9,46.6,60.8,2022
+443,Liverpool John Moores University,20660,16.9,16%,45.72,,,78.7,35.3,75.6,2022
+444,University of Marburg,24198,32.4,13%,45.69,,,64.3,42.1,55.1,2022
+445,Middlesex University,15645,18.2,46%,45.67,,,77.0,35.2,89.5,2022
+446,Missouri University of Science and Technology,8898,22.8,11%,45.64,,,63.7,59.1,64.1,2022
+447,University of Modena and Reggio Emilia,19907,28.3,5%,45.62,,,72.4,49.0,38.9,2022
+448,University of Naples Federico II,51444,19.7,2%,45.59,,,76.7,41.4,32.3,2022
+449,National and Kapodistrian University of Athens,64946,33.2,11%,45.57,,,81.1,68.6,55.2,2022
+450,University of Nebraska-Lincoln,24563,16.2,11%,45.54,,,62.8,38.6,54.9,2022
+451,Northumbria University,21530,16.3,19%,45.51,,,80.7,35.5,77.0,2022
+452,Norwegian University of Science and Technology,35400,14.9,8%,45.49,,,62.8,38.8,65.6,2022
+453,NOVA University of Lisbon,20396,17.9,21%,45.46,,,70.4,49.7,63.6,2022
+454,"University of Occupational and Environmental Health, Japan",1170,2.5,1%,45.44,,,97.8,40.5,20.2,2022
+455,Örebro University,9623,15.1,6%,45.41,,,89.0,36.2,58.3,2022
+456,University of Peradeniya,16647,11.1,1%,45.39,,,100.0,35.6,41.3,2022
+457,University of Pisa,33780,21.4,6%,45.36,,,70.6,41.8,41.3,2022
+458,University of Plymouth,16505,17.6,15%,45.34,,,79.2,35.2,72.4,2022
+459,Pontificia Universidad Católica de Chile,29756,15.3,7%,45.31,,,66.4,73.0,58.2,2022
+460,University of Porto,33120,16.3,19%,45.29,,,64.0,40.8,60.8,2022
+461,Universitat Ramon Llull,14309,21.4,17%,45.26,,,82.0,38.1,65.9,2022
+462,Royal Veterinary College,2260,10.8,25%,45.24,,,75.8,48.0,90.7,2022
+463,University of Salerno,25911,27.5,3%,45.21,,,85.1,37.8,35.2,2022
+464,Sciences Po,12543,45.0,37%,45.19,,,57.3,36.9,83.7,2022
+465,Sharif University of Technology,8253,21.3,2%,45.16,,,50.7,94.5,29.9,2022
+466,University of Sharjah,12370,17.6,59%,45.14,,,80.2,38.8,98.8,2022
+467,Sichuan University,51121,16.4,6%,45.11,,,47.7,91.7,38.9,2022
+468,SOAS University of London,4635,12.0,54%,45.09,,,34.7,34.9,79.6,2022
+469,University of South Carolina-Columbia,32997,15.9,6%,45.07,,,62.5,36.4,46.4,2022
+470,South China University of Technology,41095,13.3,5%,45.04,,,67.8,82.8,33.8,2022
+471,Southern Medical University,20167,10.8,6%,45.02,,,60.1,42.6,24.5,2022
+472,University of Southern Queensland,11841,26.5,18%,44.99,,,74.2,38.9,79.3,2022
+473,SRUC (Scotland’s Rural College),1480,5.8,11%,44.97,,,81.9,41.8,59.0,2022
+474,University of Stavanger,11560,12.1,12%,44.94,,,83.4,41.7,76.1,2022
+475,University of Strathclyde,19335,18.2,27%,44.92,,,54.2,49.5,88.2,2022
+476,University of Tabuk,30590,15.6,1%,44.9,,,92.5,35.7,72.9,2022
+477,Technion Israel Institute of Technology,14482,20.9,9%,44.87,,,52.7,36.8,70.1,2022
+478,Tianjin University,27355,9.0,12%,44.85,,,46.2,95.4,38.6,2022
+479,Ton Duc Thang University,26833,22.3,1%,44.82,,,99.3,38.4,62.6,2022
+480,TU Dortmund University,25126,84.6,10%,44.8,,,49.8,48.5,42.9,2022
+481,Tulane University,11336,8.0,12%,44.78,,,68.1,36.8,44.4,2022
+482,University of Turin,57586,28.6,6%,44.75,,,76.4,43.8,41.8,2022
+483,TU Wien,10296,18.7,30%,44.73,,,41.2,68.3,87.0,2022
+484,University of Vaasa,3690,21.9,4%,44.7,,,76.8,37.3,63.7,2022
+485,University of Valencia,50601,14.3,13%,44.68,,,75.5,37.5,49.6,2022
+486,Verona University,18825,24.6,4%,44.66,,,76.1,45.8,42.4,2022
+487,University of Vic – Central University of Catalonia,6344,14.5,20%,44.63,,,90.0,37.0,60.3,2022
+488,Victoria University,16680,48.1,31%,44.61,,,63.4,43.9,87.8,2022
+489,University of Waikato,10617,18.8,33%,44.59,,,64.4,46.7,95.3,2022
+490,Wayne State University,22598,11.8,6%,44.56,,,73.1,48.2,36.2,2022
+491,University of the West of England,23320,15.5,21%,44.54,,,87.3,35.2,70.0,2022
+492,The University of the West Indies,24281,16.4,1%,44.52,,,91.7,35.5,57.7,2022
+493,Xiamen University,42141,15.0,4%,44.49,,,74.0,52.0,33.5,2022
+494,Xi’an Jiaotong University,38879,12.5,7%,44.47,,,44.8,75.8,39.7,2022
+495,Yokohama City University,5054,5.9,2%,44.45,,,93.0,43.2,22.3,2022
+496,York University,43258,29.0,27%,44.42,,,59.3,43.1,73.5,2022
+497,Aberystwyth University,6445,17.0,23%,44.4,,,63.0,38.6,79.0,2022
+498,Alagappa University,4548,13.0,0%,44.38,,,75.2,35.2,31.0,2022
+499,American University,12683,12.0,11%,44.35,,,65.4,41.4,34.3,2022
+500,Amirkabir University of Technology,11550,22.0,2%,44.33,,,50.4,73.3,34.3,2022
+501,University of L’Aquila,17308,36.4,5%,44.31,,,66.6,43.8,34.8,2022
+502,"Asia University, Taiwan",11616,30.3,9%,44.29,,,52.1,100.0,51.9,2022
+503,Universidad Autónoma de Chile,27027,23.7,1%,44.26,,,96.7,34.8,51.7,2022
+504,University of Bari Aldo Moro,29565,21.2,1%,44.24,,,81.2,35.9,33.2,2022
+505,Beihang University,30837,12.9,7%,44.22,,,43.5,97.5,32.5,2022
+506,Beijing University of Chemical Technology,25497,20.9,4%,44.19,,,71.9,58.4,23.1,2022
+507,Birmingham City University,21705,16.8,24%,44.17,,,81.2,34.9,66.9,2022
+508,Bond University,3386,10.5,46%,44.15,,,62.4,36.4,89.1,2022
+509,Bucharest University of Economic Studies,22287,15.9,4%,44.13,,,93.1,35.8,22.6,2022
+510,University of Camerino (Unicam),8052,27.3,10%,44.1,,,73.5,46.1,48.9,2022
+511,University of Canterbury,14606,18.3,25%,44.08,,,55.0,38.8,93.5,2022
+512,Capital Medical University,13823,5.0,5%,44.06,,,77.3,35.2,23.8,2022
+513,Centrale Nantes,1777,16.4,49%,44.04,,,40.7,76.9,85.5,2022
+514,CEU Universities,18259,11.5,20%,44.01,,,92.7,38.5,50.0,2022
+515,Charles Darwin University,6665,30.6,28%,43.99,,,55.9,46.8,79.4,2022
+516,Charles University,47182,13.0,22%,43.97,,,52.0,35.2,63.8,2022
+517,Clark University,3020,11.4,22%,43.95,,,68.5,34.8,57.1,2022
+518,Complutense University of Madrid,66338,22.0,12%,43.93,,,53.3,38.1,43.9,2022
+519,University of Costa Rica,35071,15.0,2%,43.9,,,91.0,34.8,48.2,2022
+520,Cyprus University of Technology,3153,16.6,13%,43.88,,,70.0,37.0,78.4,2022
+521,University of Desarrollo,15787,19.3,4%,43.86,,,89.4,38.0,50.4,2022
+522,Diego Portales University,17649,15.5,2%,43.84,,,86.2,34.8,51.4,2022
+523,Dublin City University,13315,23.6,12%,43.82,,,54.9,41.0,70.7,2022
+524,University of Eastern Finland,11688,18.3,6%,43.79,,,65.0,38.8,50.5,2022
+525,Eastern Mediterranean University,16073,28.5,78%,43.77,,,68.8,39.6,89.2,2022
+526,Edinburgh Napier University,10810,18.5,32%,43.75,,,72.3,35.2,85.1,2022
+527,University of Electronic Science and Technology of China,35342,15.6,4%,43.73,,,64.0,76.0,35.8,2022
+528,Federal University of Toulouse Midi-Pyrénées,105857,19.6,14%,43.71,,,63.8,36.9,63.3,2022
+529,Ferhat Abbas Sétif University 1,34622,22.5,1%,43.69,,,93.8,34.8,40.8,2022
+530,Florida International University,34729,23.0,9%,43.66,,,62.4,35.6,40.3,2022
+531,University of Guelph,22571,27.4,10%,43.64,,,48.7,48.4,60.6,2022
+532,Gwangju Institute of Science and Technology (GIST),1884,10.3,7%,43.62,,,33.2,75.9,39.9,2022
+533,Harbin Institute of Technology,30575,10.2,8%,43.6,,,44.4,44.2,33.0,2022
+534,Heriot-Watt University,9495,18.3,36%,43.58,,,53.2,45.0,94.2,2022
+535,Hokkaido University,18085,8.2,11%,43.56,,,31.3,66.3,41.0,2022
+536,University of International Business and Economics,15985,17.7,17%,43.53,,,66.9,36.7,59.3,2022
+537,Iran University of Medical Sciences,8344,8.2,4%,43.51,,,60.8,40.8,24.1,2022
+538,"Islamic Azad University, Najafabad Branch (IAUN)",21181,53.9,1%,43.49,,,98.3,37.1,22.4,2022
+539,Jagiellonian University,36354,10.0,11%,43.47,,,66.5,35.7,40.6,2022
+540,Kafrelsheikh University,57421,24.5,2%,43.45,,,93.1,37.5,47.6,2022
+541,Keele University,9120,15.0,17%,43.43,,,64.2,35.7,71.5,2022
+542,University of Kentucky,26483,11.5,4%,43.41,,,56.7,39.2,38.8,2022
+543,Koç University,5521,15.4,7%,43.39,,,50.5,70.6,51.0,2022
+544,Kyushu University,18608,7.7,14%,43.36,,,34.0,77.4,42.4,2022
+545,University of Lagos,32732,19.7,0%,43.34,,,90.3,35.9,32.1,2022
+546,University of Lille,69090,28.8,15%,43.32,,,61.9,41.6,63.3,2022
+547,Lincoln University,2633,14.7,47%,43.3,,,51.6,53.3,96.0,2022
+548,University of Lincoln,13925,15.4,12%,43.28,,,79.9,35.5,73.3,2022
+549,University of Lisbon,49198,17.9,18%,43.26,,,56.2,42.0,60.6,2022
+550,Mansoura University,154957,24.2,3%,43.24,,,88.5,38.8,47.0,2022
+551,Maynooth University,10712,27.6,12%,43.22,,,61.5,37.7,79.0,2022
+552,University of Messina,15479,24.7,3%,43.2,,,68.1,36.6,31.4,2022
+553,Mizzou - University of Missouri,25147,11.8,5%,43.18,,,56.3,39.4,43.9,2022
+554,University of Mohaghegh Ardabili,10633,26.7,0%,43.16,,,87.6,35.6,22.8,2022
+555,University of Montana,7962,14.9,2%,43.13,,,64.0,35.6,28.6,2022
+556,Murdoch University,17261,37.3,41%,43.11,,,58.5,46.2,92.6,2022
+557,University of Nairobi,52678,34.5,2%,43.09,,,96.7,34.8,47.1,2022
+558,University of Nebraska Medical Center,3146,2.1,7%,43.07,,,71.5,38.7,44.1,2022
+559,New Jersey Institute of Technology,9447,14.3,26%,43.05,,,61.8,38.5,85.5,2022
+560,Northern Arizona University,30512,26.9,5%,43.03,,,86.3,35.4,35.1,2022
+561,North-West University,40262,25.4,3%,43.01,,,75.5,39.1,49.0,2022
+562,Northwestern Polytechnical University,31033,13.2,3%,42.99,,,49.6,81.5,37.4,2022
+563,Nottingham Trent University,27220,14.9,20%,42.97,,,77.0,35.5,78.2,2022
+564,Oklahoma State University,21626,14.8,6%,42.95,,,67.5,38.1,45.6,2022
+565,University of Perugia,25301,24.9,7%,42.93,,,77.2,43.1,48.3,2022
+566,Polytechnic University of Bari,9639,41.5,1%,42.91,,,79.2,55.5,34.6,2022
+567,Pontifical Javeriana University,28885,15.3,1%,42.89,,,88.2,35.1,44.0,2022
+568,University of Portsmouth,21690,16.1,27%,42.87,,,70.6,35.6,90.0,2022
+569,Quaid-i-Azam University,9785,16.4,1%,42.85,,,73.6,36.1,46.4,2022
+570,Rensselaer Polytechnic Institute,7800,15.6,20%,42.83,,,52.2,52.0,57.4,2022
+571,Riga Stradiņš University,8083,17.7,29%,42.81,,,82.1,38.9,73.9,2022
+572,Sabancı University,3700,20.9,9%,42.79,,,42.8,99.1,57.5,2022
+573,Saint Louis University,10742,7.1,7%,42.77,,,61.5,37.3,33.8,2022
+574,University of Sannio,2896,15.0,2%,42.75,,,81.1,54.1,29.5,2022
+575,University of Saskatchewan,17896,18.2,21%,42.73,,,45.5,75.8,73.7,2022
+576,University of Sassari,14500,35.6,2%,42.71,,,65.8,37.9,38.1,2022
+577,Southeast University,35213,11.8,5%,42.69,,,46.8,95.8,37.9,2022
+578,Southwestern University of Finance and Economics,23302,16.7,3%,42.67,,,87.0,37.8,41.8,2022
+579,University of Strasbourg,49511,19.6,20%,42.65,,,60.3,42.0,72.5,2022
+580,Suez Canal University,36423,11.0,1%,42.63,,,90.4,37.2,46.8,2022
+581,Sumy State University,8472,9.7,20%,42.61,,,79.9,40.7,53.1,2022
+582,Universiti Teknologi Petronas,5412,14.4,16%,42.59,,,41.8,73.7,73.8,2022
+583,Thapar Institute of Engineering and Technology,8934,16.1,1%,42.57,,,85.0,35.1,21.5,2022
+584,Tokyo Medical and Dental University (TMDU),3027,4.3,10%,42.55,,,41.3,70.9,29.3,2022
+585,University of Trieste,16432,24.7,8%,42.53,,,66.2,36.9,47.8,2022
+586,University of Tsukuba,15853,12.8,17%,42.51,,,37.9,48.1,42.5,2022
+587,University of Tuscia,6989,20.3,3%,42.49,,,85.2,38.8,37.2,2022
+588,University of Urbino Carlo Bo,14956,41.2,6%,42.47,,,78.7,41.3,50.4,2022
+589,Urmia University of Medical Sciences,2706,7.4,2%,42.45,,,77.5,43.4,17.6,2022
+590,Victoria University of Wellington,17933,19.0,22%,42.43,,,51.9,52.5,88.8,2022
+591,University of the West of Scotland,13015,23.0,24%,42.41,,,74.5,35.4,79.2,2022
+592,Zhejiang Normal University,23861,10.4,10%,42.39,,,85.0,62.5,32.8,2022
+593,Abdul Wali Khan University Mardan,10669,21.4,0%,42.38,,,80.9,34.8,45.9,2022
+594,Åbo Akademi University,5309,17.5,14%,42.36,,,42.5,37.9,66.8,2022
+595,Ahvaz Jundishapur University of Medical Sciences (AJUMS),8259,11.5,1%,42.34,,,62.9,35.5,16.1,2022
+596,The University of Aizu,1197,11.7,7%,42.32,,,52.3,35.9,72.8,2022
+597,Ajou University,9073,17.2,11%,42.3,,,39.3,77.8,38.1,2022
+598,The University of Alabama,35800,21.6,4%,42.28,,,59.0,36.3,30.1,2022
+599,University of Alabama in Huntsville,8258,18.1,6%,42.26,,,53.9,72.0,42.3,2022
+600,University of Alcalá,17995,11.9,23%,42.24,,,53.8,40.5,63.1,2022
+601,Aristotle University of Thessaloniki,49057,30.1,5%,42.22,,,63.8,42.7,41.5,2022
+602,University of Arkansas,25527,20.0,5%,42.2,,,45.1,38.1,30.1,2022
+603,Auburn University,27469,18.8,10%,42.18,,,47.5,41.8,48.1,2022
+604,Azarbaijan Shahid Madani University,7121,26.3,0%,42.16,,,76.8,36.7,23.4,2022
+605,University of the Balearic Islands,17449,17.9,3%,42.15,,,62.1,34.9,45.4,2022
+606,Banaras Hindu University,13900,8.8,3%,42.13,,,58.4,34.9,18.9,2022
+607,Bar-Ilan University,16498,16.5,5%,42.11,,,39.4,46.9,51.7,2022
+608,Beijing Institute of Technology,33771,13.8,6%,42.09,,,43.2,99.9,25.5,2022
+609,University of Beira Interior,7417,16.2,20%,42.07,,,52.6,37.5,57.4,2022
+610,University of Bergamo,22957,61.9,7%,42.05,,,55.4,40.3,35.3,2022
+611,Bilkent University,9961,14.3,9%,42.03,,,45.2,48.1,63.1,2022
+612,Université Bourgogne Franche-Comté (UBFC),65746,36.6,12%,42.01,,,70.4,41.0,56.0,2022
+613,University of Bradford,8245,18.5,28%,42.0,,,49.3,37.9,79.8,2022
+614,University of Brighton,16095,17.7,22%,41.98,,,54.4,35.2,76.6,2022
+615,Ca’ Foscari University of Venice,16804,25.7,11%,41.96,,,33.5,40.9,58.8,2022
+616,Cairo University,231150,38.6,3%,41.94,,,55.6,35.6,36.9,2022
+617,University of Calabria,26513,31.6,3%,41.92,,,62.3,35.5,38.2,2022
+618,Carleton University,28693,29.6,21%,41.9,,,52.3,40.3,71.6,2022
+619,University of Catania,25486,20.2,3%,41.88,,,70.4,36.1,31.4,2022
+620,University of Central Florida,61044,36.3,4%,41.87,,,56.6,45.5,34.5,2022
+621,Institute of Chemical Technology,2470,24.7,0%,41.85,,,36.8,51.0,14.6,2022
+622,China Agricultural University,21855,11.8,1%,41.83,,,52.7,54.5,24.2,2022
+623,Chongqing University,40613,19.9,6%,41.81,,,46.9,86.6,25.8,2022
+624,Chung-Ang University,18066,23.0,21%,41.79,,,27.5,76.9,53.5,2022
+625,University of Coimbra,21845,18.4,20%,41.77,,,45.4,47.0,60.0,2022
+626,Concordia University,35698,33.6,33%,41.75,,,42.4,37.1,85.0,2022
+627,Covenant University,8156,15.2,0%,41.74,,,56.7,44.7,31.0,2022
+628,Coventry University,30825,15.6,46%,41.72,,,47.7,35.0,92.7,2022
+629,CY Cergy Paris University,14768,19.7,25%,41.7,,,49.2,41.0,88.5,2022
+630,Dalian University of Technology,40469,15.3,3%,41.68,,,42.1,73.5,31.1,2022
+631,Delhi Technological University,9939,22.2,3%,41.66,,,78.2,42.2,16.3,2022
+632,De Montfort University,21890,19.6,33%,41.65,,,51.1,34.9,86.5,2022
+633,University of Derby,14940,14.8,16%,41.63,,,59.2,35.2,67.3,2022
+634,University of Deusto,9135,20.2,11%,41.61,,,56.9,40.5,45.6,2022
+635,Eötvös Loránd University,29639,16.6,12%,41.59,,,50.4,35.3,53.8,2022
+636,Ewha Womans University,14876,18.0,15%,41.57,,,29.4,79.1,46.1,2022
+637,Federal University of Minas Gerais,43886,12.9,2%,41.55,,,50.0,39.3,29.5,2022
+638,Universidade Federal do Rio Grande do Sul,41073,14.7,1%,41.54,,,49.5,46.7,28.1,2022
+639,Universidade Federal de Sergipe,26079,15.2,0%,41.52,,,87.0,34.8,22.2,2022
+640,Federation University Australia,12946,23.2,56%,41.5,,,51.2,39.5,78.8,2022
+641,Gabriele d‘Annunzio University,24189,35.0,2%,41.48,,,72.7,36.1,38.7,2022
+642,University of Girona,13903,21.1,14%,41.47,,,56.0,37.9,53.0,2022
+643,Glasgow Caledonian University,13510,22.9,18%,41.45,,,61.0,35.3,66.0,2022
+644,Government College University Faisalabad,20583,28.6,0%,41.43,,,73.9,34.8,43.0,2022
+645,University of Granada,50604,13.6,10%,41.41,,,55.1,35.1,50.1,2022
+646,University of Graz,19211,20.8,16%,41.39,,,53.6,36.8,79.2,2022
+647,Graz University of Technology,6386,9.4,22%,41.38,,,47.2,71.6,81.2,2022
+648,University of Greenwich,14195,17.9,41%,41.36,,,60.3,35.8,93.5,2022
+649,Guangdong University of Technology,44296,18.4,0%,41.34,,,67.0,42.4,25.9,2022
+650,Guangzhou University,34472,16.9,0%,41.32,,,75.7,38.2,28.8,2022
+651,Hacettepe University,49026,21.3,3%,41.31,,,61.1,37.0,24.3,2022
+652,University of Haifa,16228,9.5,6%,41.29,,,64.5,35.7,39.7,2022
+653,Hamburg University of Technology,4931,32.0,24%,41.27,,,45.1,95.6,57.5,2022
+654,Hazara University Mansehra,9830,23.0,0%,41.25,,,74.8,34.8,42.2,2022
+655,University of Hertfordshire,17770,14.6,31%,41.24,,,51.1,35.3,84.3,2022
+656,University of Houston,47002,26.6,8%,41.22,,,50.0,36.6,43.5,2022
+657,Huazhong Agricultural University,27746,17.6,2%,41.2,,,61.7,42.8,25.1,2022
+658,University of Huddersfield,14350,19.9,26%,41.18,,,49.9,37.5,81.3,2022
+659,University of Hull,13440,17.3,19%,41.17,,,56.6,36.5,77.8,2022
+660,University of Idaho,9565,15.8,8%,41.15,,,47.1,36.5,48.4,2022
+661,Indian Institute of Technology Gandhinagar,1590,15.5,0%,41.13,,,54.0,55.1,25.0,2022
+662,Indraprastha Institute of Information Technology Delhi,2122,26.2,1%,41.11,,,64.2,63.5,31.9,2022
+663,"International Institute of Information Technology, Hyderabad",1557,17.5,8%,41.1,,,63.8,58.8,31.6,2022
+664,"International Islamic University, Islamabad",23174,25.2,8%,41.08,,,68.9,34.8,51.7,2022
+665,Iran University of Science and Technology,15004,33.9,1%,41.06,,,47.6,90.7,19.1,2022
+666,ISCTE-University Institute of Lisbon,9118,23.0,15%,41.04,,,39.6,40.8,53.8,2022
+667,Istanbul Technical University,25640,21.0,12%,41.03,,,27.6,100.0,36.9,2022
+668,Jamia Millia Islamia,10451,9.3,2%,41.01,,,63.5,36.6,25.8,2022
+669,Jawaharlal Nehru University,8805,14.2,3%,40.99,,,37.2,36.3,19.2,2022
+670,Jinan University,35781,14.4,31%,40.98,,,52.8,41.3,56.8,2022
+671,University of Johannesburg,28273,24.7,15%,40.96,,,35.6,42.5,74.3,2022
+672,Johannes Kepler University of Linz,6644,10.2,13%,40.94,,,42.8,55.6,71.5,2022
+673,University of Kaiserslautern,9131,31.1,22%,40.92,,,33.9,70.8,55.3,2022
+674,Kansai Medical University,958,1.2,2%,40.91,,,80.2,36.1,17.6,2022
+675,University of Kashan,8556,27.9,3%,40.89,,,74.7,36.7,20.7,2022
+676,Kashan University of Medical Sciences and Health Services,3148,13.3,3%,40.87,,,73.4,35.3,22.4,2022
+677,Universiti Kebangsaan Malaysia,17165,10.3,16%,40.86,,,44.6,38.3,64.3,2022
+678,Keio University,34319,10.1,9%,40.84,,,41.6,45.0,34.7,2022
+679,Kerman University of Medical Sciences,5202,3.6,2%,40.82,,,62.8,41.7,18.6,2022
+680,Kobe University,15642,10.4,7%,40.81,,,41.8,46.0,30.9,2022
+681,Konkuk University,13316,24.5,17%,40.79,,,31.1,47.2,50.8,2022
+682,University of Kurdistan,11853,33.7,4%,40.77,,,76.7,38.9,26.8,2022
+683,Kyungpook National University,19332,19.9,12%,40.76,,,27.0,86.5,41.7,2022
+684,University of La Laguna,18316,12.7,4%,40.74,,,64.7,36.4,48.0,2022
+685,University of Latvia,12054,34.2,7%,40.72,,,50.3,45.9,53.7,2022
+686,Lehigh University,6400,10.7,19%,40.71,,,53.4,38.0,65.0,2022
+687,University of Limerick,14951,24.7,16%,40.69,,,52.8,38.4,80.0,2022
+688,Lithuanian University of Health Sciences,6720,9.2,17%,40.67,,,75.0,35.1,53.2,2022
+689,University of Lorraine,60673,19.4,17%,40.66,,,57.5,38.1,66.3,2022
+690,Louisiana State University,28656,19.9,6%,40.64,,,49.4,36.1,39.0,2022
+691,Lviv Polytechnic National University,21334,10.0,1%,40.62,,,69.6,35.8,24.5,2022
+692,Mae Fah Luang University,14136,21.7,5%,40.61,,,63.3,36.0,53.0,2022
+693,Mahatma Gandhi University,1643,15.4,1%,40.59,,,35.1,57.0,20.8,2022
+694,Mahidol University,29160,9.5,5%,40.57,,,42.8,76.1,46.1,2022
+695,Makerere University,32113,22.0,3%,40.56,,,48.0,52.3,57.2,2022
+696,University of Malakand,7256,24.5,1%,40.54,,,67.0,35.4,40.3,2022
+697,Manchester Metropolitan University,28520,14.7,18%,40.52,,,64.1,35.3,70.3,2022
+698,Marche Polytechnic University,10398,19.4,5%,40.51,,,67.7,43.8,32.8,2022
+699,"University of Maryland, Baltimore County",11663,17.1,9%,40.49,,,61.2,35.7,38.3,2022
+700,Mashhad University of Medical Sciences,9013,9.5,4%,40.47,,,60.1,34.8,23.7,2022
+701,Massey University,18701,16.9,32%,40.46,,,39.9,41.8,93.1,2022
+702,Memorial University of Newfoundland,15698,14.6,22%,40.44,,,46.4,59.6,80.7,2022
+703,Middle East Technical University,18346,23.9,9%,40.42,,,32.9,99.8,41.1,2022
+704,University of Missouri-St Louis,6639,15.7,5%,40.41,,,53.5,44.9,39.9,2022
+705,Montana State University,14153,17.6,3%,40.39,,,66.2,43.9,28.3,2022
+706,Monterrey Institute of Technology,15897,15.3,10%,40.38,,,46.8,66.5,59.6,2022
+707,Nanjing Medical University,20278,8.7,4%,40.36,,,40.4,36.3,20.6,2022
+708,Nantes Université,36227,23.8,11%,40.34,,,55.1,41.0,52.5,2022
+709,National Cheng Kung University (NCKU),19932,15.0,13%,40.33,,,25.2,100.0,39.1,2022
+710,National Institute of Applied Sciences of Lyon (INSA Lyon),6344,20.2,28%,40.31,,,30.8,84.8,71.0,2022
+711,National Taiwan Normal University,10455,12.0,23%,40.29,,,29.3,85.2,54.4,2022
+712,National Taiwan University of Science and Technology (Taiwan Tech),8815,18.5,19%,40.28,,,36.9,64.8,50.3,2022
+713,University of Neuchâtel,4099,11.1,20%,40.26,,,46.7,37.7,88.1,2022
+714,University of New Brunswick UNB,8628,14.3,13%,40.25,,,46.5,50.1,71.6,2022
+715,University of Nicosia,4662,11.8,53%,40.23,,,58.5,35.7,94.7,2022
+716,Nippon Medical School,869,0.9,1%,40.21,,,64.7,35.1,18.2,2022
+717,Northern Illinois University,14266,15.5,6%,40.2,,,50.0,35.6,48.1,2022
+718,Norwegian University of Life Sciences,6185,7.0,19%,40.18,,,62.5,40.5,78.8,2022
+719,Ohio University (Main campus),23940,21.7,4%,40.17,,,48.8,36.7,31.2,2022
+720,Ontario Tech University,8924,29.0,7%,40.15,,,51.4,37.4,60.8,2022
+721,The Open University,63445,31.8,8%,40.13,,,62.8,35.1,57.8,2022
+722,Open University of Catalonia,27406,87.9,6%,40.12,,,70.9,35.7,46.6,2022
+723,Oran 1 University,26452,19.6,1%,40.1,,,56.6,35.3,39.5,2022
+724,Oxford Brookes University,13115,14.8,25%,40.09,,,49.3,35.3,81.0,2022
+725,University of Palermo,31324,21.6,1%,40.07,,,60.1,35.5,31.4,2022
+726,Panjab University,16047,15.0,1%,40.06,,,52.6,35.4,16.5,2022
+727,Panthéon-Sorbonne University – Paris 1,34721,28.0,21%,40.04,,,14.6,35.0,62.5,2022
+728,University of Parma,27015,31.1,6%,40.02,,,69.8,40.9,37.7,2022
+729,Parthenope University of Naples,11140,32.2,2%,40.01,,,69.1,36.7,26.9,2022
+730,Universidad Peruana Cayetano Heredia,7638,8.7,1%,39.99,,,78.3,35.7,47.5,2022
+731,University of Peshawar,6064,9.3,0%,39.98,,,57.2,34.8,38.8,2022
+732,University of the Philippines,44310,9.8,1%,39.96,,,74.3,41.7,33.1,2022
+733,Universitat Politècnica de Catalunya,23211,10.5,13%,39.95,,,48.1,42.6,57.7,2022
+734,Polytechnic University of Turin,29711,30.7,16%,39.93,,,56.5,52.7,51.2,2022
+735,University of Pretoria,36337,22.4,7%,39.91,,,35.8,42.4,54.9,2022
+736,Prince Sattam Bin Abdulaziz University,26682,11.9,2%,39.9,,,62.7,35.4,73.2,2022
+737,Universiti Putra Malaysia,19674,11.9,25%,39.88,,,29.6,64.9,77.3,2022
+738,Université du Québec,52387,18.9,13%,39.87,,,35.5,42.5,72.5,2022
+739,University of Regensburg,21376,9.8,8%,39.85,,,65.0,35.1,55.2,2022
+740,University of Regina,13324,23.9,24%,39.84,,,61.0,37.1,67.1,2022
+741,Renmin University of China,27810,13.7,6%,39.82,,,50.5,40.6,40.3,2022
+742,University of Rhode Island,16615,15.2,3%,39.81,,,66.2,34.9,43.0,2022
+743,University of Rome III,32067,47.1,5%,39.79,,,48.0,40.8,41.5,2022
+744,Roskilde University,6409,16.9,16%,39.77,,,38.9,41.5,59.5,2022
+745,Rovira i Virgili University,12744,12.5,13%,39.76,,,62.1,38.3,54.9,2022
+746,Sahand University of Technology,5331,28.8,0%,39.74,,,56.0,52.4,16.8,2022
+747,Universiti Sains Malaysia,21550,10.6,15%,39.73,,,39.9,45.2,57.3,2022
+748,San Diego State University,31221,28.1,8%,39.71,,,69.5,35.4,34.6,2022
+749,Saveetha Institute of Medical and Technical Sciences,11080,6.9,1%,39.7,,,86.9,35.7,26.2,2022
+750,Shahid Beheshti University of Medical Sciences,12340,8.3,3%,39.68,,,41.5,50.9,20.0,2022
+751,Shanghai University,37347,14.3,6%,39.67,,,39.5,73.6,34.0,2022
+752,Shiraz University of Technology,1561,15.5,0%,39.65,,,68.7,40.5,25.9,2022
+753,University of Siegen,12590,26.9,13%,39.64,,,44.5,39.7,53.6,2022
+754,University of Siena,12772,17.5,8%,39.62,,,62.8,39.3,43.6,2022
+755,"Soochow University, China",46800,16.2,7%,39.61,,,68.3,61.9,28.3,2022
+756,Southern Cross University,11141,32.2,31%,39.59,,,57.0,44.4,71.4,2022
+757,Stevens Institute of Technology,6265,16.8,34%,39.58,,,62.3,37.4,72.6,2022
+758,University of the Sunshine Coast,10427,30.3,18%,39.56,,,48.3,43.2,71.9,2022
+759,SUNY Binghamton University,18442,22.9,12%,39.55,,,59.6,38.5,38.1,2022
+760,University of Tabriz,19598,25.4,4%,39.53,,,61.4,40.6,30.3,2022
+761,Tabriz University of Medical Sciences,8684,9.9,2%,39.52,,,55.6,34.9,21.5,2022
+762,Tallinn University of Technology,9162,13.1,16%,39.5,,,48.2,51.7,72.7,2022
+763,Tehran University of Medical Sciences,11543,6.4,8%,39.49,,,48.0,42.1,27.2,2022
+764,Universiti Teknologi Malaysia,19192,11.5,18%,39.47,,,39.4,47.5,62.6,2022
+765,University of Texas at Arlington,33391,27.6,12%,39.46,,,54.7,41.6,44.5,2022
+766,The University of Texas at San Antonio,27066,25.2,3%,39.44,,,70.3,37.1,38.9,2022
+767,Texas Tech University,34018,19.2,8%,39.43,,,48.0,36.1,52.8,2022
+768,Tokyo Metropolitan University,8911,10.6,5%,39.41,,,59.4,39.3,27.8,2022
+769,University of Toledo,18217,14.9,10%,39.4,,,48.2,40.5,47.0,2022
+770,TU Braunschweig,19960,10.0,15%,39.38,,,56.2,44.7,56.5,2022
+771,University of Udine,11879,17.7,6%,39.37,,,69.0,39.4,39.8,2022
+772,University of Ulsan,12872,11.6,5%,39.35,,,64.7,72.9,24.4,2022
+773,Ulster University,17415,18.0,9%,39.34,,,47.5,37.1,77.7,2022
+774,Umm Al-Qura University,30043,8.3,10%,39.32,,,36.0,59.3,81.6,2022
+775,Universiti Utara Malaysia,12463,11.4,30%,39.31,,,42.4,38.2,70.2,2022
+776,University of Warsaw,37541,12.1,10%,39.29,,,44.1,35.9,44.1,2022
+777,Wenzhou University,16820,14.5,4%,39.28,,,75.7,38.5,24.5,2022
+778,Wenzhou Medical University,17300,10.9,6%,39.26,,,76.0,36.7,28.7,2022
+779,University of the Western Cape,23498,34.8,5%,39.25,,,63.0,34.8,62.8,2022
+780,University of Windsor,13853,31.1,28%,39.23,,,33.2,48.5,87.3,2022
+781,University of Wisconsin-Milwaukee,19860,19.1,5%,39.22,,,59.7,36.9,33.7,2022
+782,Worcester Polytechnic Institute,5982,12.9,19%,39.2,,,50.1,37.0,52.6,2022
+783,University of Wuppertal,15834,40.4,11%,39.19,,,50.8,48.1,47.6,2022
+784,University of Wyoming,10787,14.7,6%,39.17,,,54.3,36.9,35.8,2022
+785,Xi’an Jiaotong-Liverpool University,12566,19.6,7%,39.16,,,71.8,36.1,75.8,2022
+786,Zayed University,7844,14.9,2%,39.14,,,64.9,35.9,74.0,2022
+787,University of the Aegean,19954,60.7,1%,39.13,,,49.5,53.4,37.5,2022
+788,"University of Agriculture, Faisalabad",26990,38.8,0%,39.12,,,44.9,48.9,42.8,2022
+789,Al-Balqa Applied University,29814,30.6,6%,39.1,,,58.2,44.2,48.1,2022
+790,University of Algarve,8264,13.7,21%,39.09,,,40.3,36.1,68.1,2022
+791,Aligarh Muslim University,22215,13.8,2%,39.07,,,47.4,39.3,25.3,2022
+792,Amedeo Avogadro University of Eastern Piedmont,13677,36.9,7%,39.06,,,57.4,34.9,40.8,2022
+793,American University in Cairo,5904,14.0,5%,39.04,,,22.5,36.0,63.4,2022
+794,American University of Sharjah,4476,11.7,77%,39.03,,,35.9,35.5,93.8,2022
+795,Amrita Vishwa Vidyapeetham,14994,11.4,10%,39.01,,,43.5,58.8,40.5,2022
+796,"University of the Andes, Colombia",15280,12.6,2%,39.0,,,39.2,39.3,55.5,2022
+797,Anna University,14966,17.2,1%,38.99,,,39.5,44.6,15.4,2022
+798,Arts et Métiers,6018,16.0,17%,38.97,,,25.7,65.3,66.2,2022
+799,Athens University of Economics and Business,9180,47.6,5%,38.96,,,45.2,38.5,47.9,2022
+800,University of Aveiro,12068,14.8,10%,38.94,,,42.4,37.5,50.0,2022
+801,Bahçeşehir University,17859,46.3,17%,38.93,,,45.0,51.6,47.1,2022
+802,University of the Basque Country,42869,15.1,5%,38.91,,,50.2,37.8,44.6,2022
+803,Baylor University,18242,15.6,7%,38.9,,,42.4,35.3,34.6,2022
+804,University of Bedfordshire,10425,21.9,48%,38.89,,,39.6,35.2,79.2,2022
+805,University of Belgrade,94316,19.1,5%,38.87,,,40.8,40.9,41.7,2022
+806,Ben-Gurion University of the Negev,16252,20.2,2%,38.86,,,31.9,50.0,37.3,2022
+807,Benha University,115000,22.2,4%,38.84,,,54.6,35.4,43.7,2022
+808,Beni-Suef University,80402,29.0,1%,38.83,,,68.9,34.8,44.6,2022
+809,Bharathiar University,3698,14.6,0%,38.81,,,33.7,34.9,22.5,2022
+810,"Birla Institute of Technology and Science, Pilani",14849,17.5,2%,38.8,,,53.6,36.0,18.8,2022
+811,Boğaziçi University,13108,23.6,3%,38.79,,,34.7,60.8,39.1,2022
+812,Carlos III University of Madrid,17820,11.1,16%,38.77,,,28.4,40.5,62.3,2022
+813,University of Central Lancashire,17645,13.4,20%,38.76,,,45.4,35.2,68.1,2022
+814,Central Queensland University,16886,21.1,37%,38.74,,,52.0,37.9,63.1,2022
+815,Chang Gung University,7232,12.4,6%,38.73,,,30.8,81.4,27.8,2022
+816,Chapman University,9060,12.7,7%,38.72,,,38.7,35.1,41.3,2022
+817,Charles Sturt University,23264,23.1,27%,38.7,,,41.7,35.5,70.3,2022
+818,University of Chile,37264,15.4,5%,38.69,,,36.7,40.3,50.4,2022
+819,"China University of Geosciences, Beijing",16408,14.7,1%,38.67,,,37.2,46.7,25.1,2022
+820,"China University of Geosciences, Wuhan",29999,16.0,4%,38.66,,,55.3,51.1,29.0,2022
+821,China University of Mining and Technology,49032,19.0,2%,38.65,,,48.5,60.6,19.5,2022
+822,"China University of Petroleum, Beijing",16139,16.5,6%,38.63,,,36.3,99.2,24.3,2022
+823,Chulalongkorn University,34719,11.1,3%,38.62,,,30.9,63.7,37.9,2022
+824,Clarkson University,4466,15.7,10%,38.6,,,43.0,39.6,50.8,2022
+825,Clemson University,22785,16.0,7%,38.59,,,41.2,39.9,42.2,2022
+826,University of Clermont Auvergne,35613,20.5,14%,38.58,,,51.4,36.4,59.8,2022
+827,University of Colombo,30227,31.1,0%,38.56,,,52.3,34.9,37.6,2022
+828,COMSATS University Islamabad,35851,14.2,1%,38.55,,,61.3,34.9,46.1,2022
+829,University of Córdoba,17605,14.6,9%,38.53,,,51.4,37.4,46.3,2022
+830,Creighton University,8749,13.5,4%,38.52,,,34.1,36.1,25.5,2022
+831,University of Debrecen,28593,16.8,22%,38.51,,,32.3,40.6,61.1,2022
+832,University of Delhi,25543,23.4,1%,38.49,,,34.7,34.8,17.8,2022
+833,University of Dhaka,207118,16.5,3%,38.48,,,61.8,35.2,42.6,2022
+834,Donghua University,22434,14.4,6%,38.47,,,49.6,67.2,32.5,2022
+835,East China University of Science and Technology,27720,16.5,2%,38.45,,,38.1,56.9,20.0,2022
+836,University of East London,10770,19.4,36%,38.44,,,32.3,35.0,80.9,2022
+837,École Centrale de Lyon,2088,15.2,24%,38.42,,,21.2,60.5,69.3,2022
+838,Edge Hill University,11150,14.6,6%,38.41,,,60.8,34.8,45.6,2022
+839,Estonian University of Life Sciences,2285,6.5,13%,38.4,,,51.3,38.0,66.9,2022
+840,European University of Madrid,10576,10.6,32%,38.38,,,56.2,35.0,59.8,2022
+841,Universidade Federal de Santa Catarina,38086,15.6,3%,38.37,,,47.1,44.4,30.9,2022
+842,Universidade Federal de São Paulo (UNIFESP),18588,9.9,1%,38.36,,,46.5,35.3,29.2,2022
+843,Florida Agricultural and Mechanical University,9667,18.1,1%,38.34,,,33.2,35.4,31.6,2022
+844,Florida Atlantic University,25416,19.2,9%,38.33,,,43.7,40.4,46.5,2022
+845,Florida Institute of Technology,5400,15.6,30%,38.31,,,32.9,39.4,54.9,2022
+846,University of Foggia,10702,32.6,1%,38.3,,,53.7,38.0,25.7,2022
+847,University of Fortaleza (UNIFOR),20775,17.5,0%,38.29,,,65.2,34.8,35.6,2022
+848,Fujita Health University,3112,3.2,1%,38.27,,,59.2,37.1,22.5,2022
+849,Fuzhou University,37509,15.8,1%,38.26,,,55.0,58.5,28.8,2022
+850,Hiroshima University,15048,8.7,12%,38.25,,,30.4,49.5,40.0,2022
+851,Reichman University,7601,14.9,26%,38.23,,,57.0,34.8,65.6,2022
+852,Imam Abdulrahman Bin Faisal University,24510,8.2,3%,38.22,,,45.0,35.1,70.2,2022
+853,"Indian Institute of Science Education and Research, Pune",1440,10.7,0%,38.21,,,34.0,36.5,24.3,2022
+854,Indian Institute of Science Education and Research Kolkata,1477,12.5,0%,38.19,,,56.3,38.8,19.6,2022
+855,Indian Institute of Technology Patna,1810,14.4,0%,38.18,,,47.5,35.1,16.9,2022
+856,University of Indonesia,39418,9.6,12%,38.17,,,14.5,80.7,52.9,2022
+857,Universitat Internacional de Catalunya,4881,12.6,35%,38.15,,,54.6,39.7,63.6,2022
+858,University of Ioannina,23134,35.9,4%,38.14,,,60.0,37.7,44.2,2022
+859,Isfahan University of Medical Sciences,10497,10.7,3%,38.13,,,31.0,35.9,20.0,2022
+860,Isfahan University of Technology,10400,22.9,1%,38.11,,,38.3,79.9,26.3,2022
+861,Istanbul University-Cerrahpaşa,26680,24.1,5%,38.1,,,51.7,51.4,22.3,2022
+862,Istanbul Medeniyet University,8661,11.0,2%,38.09,,,66.0,34.8,21.0,2022
+863,Iuliu Haţieganu University of Medicine and Pharmacy Cluj-Napoca,7880,7.7,34%,38.07,,,51.8,35.0,52.0,2022
+864,Jadavpur University,12967,21.3,1%,38.06,,,25.0,43.3,16.0,2022
+865,University of Jaén,14241,16.9,8%,38.05,,,53.0,35.1,44.0,2022
+866,Jaume I University,11745,14.9,10%,38.03,,,49.5,38.1,45.3,2022
+867,Jiangsu University,35947,9.5,6%,38.02,,,56.3,57.8,42.5,2022
+868,Jiangsu Normal University,23006,14.1,2%,38.01,,,62.7,46.9,24.6,2022
+869,The Jikei University School of Medicine,1098,0.9,0%,37.99,,,61.4,38.5,16.5,2022
+870,The University of Jordan,30062,13.7,17%,37.98,,,43.8,39.5,66.9,2022
+871,Juntendo University,5468,4.3,3%,37.97,,,38.5,50.4,22.2,2022
+872,Kalasalingam Academy of Research and Education,7015,8.8,0%,37.95,,,58.3,37.2,23.1,2022
+873,Kansas State University,20529,13.2,8%,37.94,,,43.4,41.4,47.3,2022
+874,Karlstad University,8985,13.3,%,37.93,,,52.5,35.9,39.5,2022
+875,Kent State University,23092,18.3,6%,37.91,,,41.8,35.6,40.2,2022
+876,KIIT University,24680,12.6,5%,37.9,,,45.6,66.2,22.1,2022
+877,Kindai University,33370,14.6,2%,37.89,,,61.3,40.3,25.1,2022
+878,King Khalid University,39668,8.9,9%,37.88,,,46.5,34.8,81.0,2022
+879,King Mongkut’s University of Technology Thonburi,15348,19.8,2%,37.86,,,47.4,72.9,35.0,2022
+880,King Saud bin Abdulaziz University for Health Sciences,12652,12.1,0%,37.85,,,46.9,37.5,67.7,2022
+881,Kingston University,14275,18.4,39%,37.84,,,39.6,35.1,85.7,2022
+882,Kurume University,4997,8.4,2%,37.82,,,56.7,38.0,23.0,2022
+883,Kuwait University,37104,22.6,14%,37.81,,,45.1,36.1,69.1,2022
+884,Lahore University of Management Sciences,4228,14.4,1%,37.8,,,50.9,35.6,46.7,2022
+885,Lakehead University,8254,24.9,18%,37.78,,,45.2,37.0,55.4,2022
+886,Lebanese American University,7425,10.4,18%,37.77,,,29.2,34.8,86.0,2022
+887,Leeds Beckett University,18640,19.3,12%,37.76,,,54.2,35.4,54.0,2022
+888,University of Leoben,2643,4.8,14%,37.75,,,29.1,54.4,69.5,2022
+889,University of Ljubljana,37874,13.3,7%,37.73,,,50.0,41.0,45.3,2022
+890,University of Lleida,9161,15.5,9%,37.72,,,53.9,38.5,41.5,2022
+891,London South Bank University,12145,16.4,33%,37.71,,,43.3,35.4,84.2,2022
+892,University of Malta,10137,11.3,10%,37.69,,,52.9,35.2,59.1,2022
+893,University of Maragheh,3085,20.7,0%,37.68,,,58.7,34.8,23.2,2022
+894,Marquette University,10811,12.3,3%,37.67,,,38.3,37.1,27.2,2022
+895,Masaryk University,30485,18.6,23%,37.66,,,31.4,36.2,64.9,2022
+896,University of Memphis,16109,13.9,3%,37.64,,,45.7,36.3,25.4,2022
+897,Menoufia University,79591,25.9,1%,37.63,,,57.2,36.1,39.7,2022
+898,Metropolitan Autonomous University,59705,20.8,0%,37.62,,,51.4,37.0,25.2,2022
+899,Miguel Hernández University of Elche,12159,17.5,6%,37.6,,,49.3,38.9,38.2,2022
+900,University of Minho,19246,19.0,15%,37.59,,,38.6,52.3,57.1,2022
+901,University of Namur,6727,20.2,12%,37.58,,,40.3,40.8,67.9,2022
+902,Nanjing University of Information Science and Technology,29088,16.9,4%,37.57,,,59.4,43.0,33.2,2022
+903,Nanjing Normal University,30317,12.6,4%,37.55,,,55.6,52.1,26.9,2022
+904,Nanjing Tech University,36816,13.8,3%,37.54,,,57.0,62.7,28.5,2022
+905,National Autonomous University of Mexico,167254,16.8,7%,37.53,,,20.2,63.1,47.3,2022
+906,National Institute of Technology Rourkela,6757,17.4,5%,37.52,,,44.9,36.3,18.4,2022
+907,National University of Sciences and Technology,11375,8.9,5%,37.5,,,46.2,38.1,45.7,2022
+908,National Sun Yat-Sen University,7991,12.6,10%,37.49,,,25.4,62.5,44.5,2022
+909,National Technical University of Athens,13309,18.9,6%,37.48,,,41.1,53.5,38.3,2022
+910,National Institute of Technology Silchar,3494,12.8,1%,37.47,,,51.7,35.3,14.9,2022
+911,Near East University,20147,18.7,86%,37.45,,,44.3,54.2,95.5,2022
+912,"University of Nevada, Las Vegas",26176,22.9,4%,37.44,,,40.7,35.4,31.1,2022
+913,The New School,10379,10.5,35%,37.43,,,40.4,39.8,50.7,2022
+914,New Mexico State University (Main campus),12401,16.0,6%,37.41,,,43.8,38.9,38.1,2022
+915,Niigata University,12061,7.8,3%,37.4,,,52.3,41.2,24.5,2022
+916,Normandy University,68075,21.8,12%,37.39,,,36.7,35.8,55.8,2022
+917,University of North Carolina at Charlotte,27133,19.9,7%,37.38,,,65.2,34.8,33.5,2022
+918,University of North Carolina at Greensboro,18077,19.4,4%,37.36,,,50.7,35.6,24.1,2022
+919,"Northeastern University, China",38205,14.7,2%,37.35,,,28.7,92.9,37.6,2022
+920,Northeast Normal University,30340,18.8,5%,37.34,,,49.1,38.4,24.8,2022
+921,University of Northern British Columbia (UNBC),2918,14.8,9%,37.33,,,43.5,35.2,40.8,2022
+922,NorthWest A&F University,29511,14.5,1%,37.31,,,51.2,58.6,25.7,2022
+923,Old Dominion University,18713,17.9,3%,37.3,,,43.7,34.8,31.1,2022
+924,University of Oviedo,20844,12.9,3%,37.29,,,47.0,38.8,34.6,2022
+925,Palacký University Olomouc,17818,14.2,13%,37.28,,,41.6,35.9,59.2,2022
+926,University of Patras,25870,27.2,5%,37.27,,,47.0,40.3,38.2,2022
+927,University of Pécs,17223,11.4,24%,37.25,,,39.1,36.8,56.5,2022
+928,Universiti Pendidikan Sultan Idris,6312,10.5,16%,37.24,,,29.0,99.9,51.4,2022
+929,Polytechnic University of Valencia,22562,10.8,16%,37.23,,,39.9,47.4,53.2,2022
+930,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),14332,20.7,3%,37.22,,,28.0,100.0,37.8,2022
+931,Pontifical Catholic University of Rio Grande do Sul (PUCRS),15149,22.1,1%,37.2,,,46.9,61.3,31.2,2022
+932,Portland State University,19576,18.3,7%,37.19,,,38.5,36.1,30.3,2022
+933,Pusan National University,21447,16.5,5%,37.18,,,24.3,45.6,26.0,2022
+934,Qingdao University,44244,17.7,1%,37.17,,,64.0,38.6,20.1,2022
+935,University of Rennes 1,29058,18.8,12%,37.15,,,46.0,39.7,57.1,2022
+936,Rochester Institute of Technology,14383,15.6,17%,37.14,,,42.4,36.2,41.1,2022
+937,University of Roehampton,7670,15.8,31%,37.13,,,38.3,35.0,80.6,2022
+938,Toronto Metropolitan University,35543,42.5,7%,37.12,,,36.3,37.7,56.4,2022
+939,University of Salamanca,28269,17.3,18%,37.11,,,34.7,37.5,55.1,2022
+940,University of Salento,13085,22.4,1%,37.09,,,52.1,36.9,28.5,2022
+941,University of Salford,17450,18.7,19%,37.08,,,42.1,36.3,71.6,2022
+942,Universidad San Francisco de Quito,8466,10.6,4%,37.07,,,46.6,35.2,64.8,2022
+943,University of Santiago de Compostela,24795,14.9,9%,37.06,,,47.6,39.0,46.0,2022
+944,Savitribai Phule Pune University,5078,12.0,2%,37.04,,,32.8,36.2,16.4,2022
+945,University of Science and Technology Beijing,27845,16.2,4%,37.03,,,35.0,63.7,21.9,2022
+946,Shahid Beheshti University,18483,21.6,2%,37.02,,,40.5,50.4,21.6,2022
+947,Shanghai University of Finance and Economics (SUFE),16012,15.3,4%,37.01,,,38.9,39.0,42.8,2022
+948,Shantou University,12543,12.9,1%,37.0,,,53.9,38.9,39.0,2022
+949,Sheffield Hallam University,25535,16.8,11%,36.98,,,46.8,35.2,54.0,2022
+950,Shiraz University,13572,19.5,1%,36.97,,,37.1,44.4,22.1,2022
+951,Shiraz University of Medical Sciences,10710,10.9,2%,36.96,,,41.0,34.8,18.9,2022
+952,Sidi Mohamed Ben Abdellah University,87745,51.7,2%,36.95,,,54.9,34.8,23.0,2022
+953,University of South Africa,193543,204.1,5%,36.94,,,28.4,35.6,37.4,2022
+954,University of South Bohemia in České Budějovice,8952,14.1,6%,36.92,,,41.4,34.8,49.4,2022
+955,South China Normal University,30027,16.6,4%,36.91,,,48.3,52.2,32.3,2022
+956,University of South Dakota,7669,17.9,3%,36.9,,,33.9,35.7,25.3,2022
+957,South Valley University,47430,58.1,0%,36.89,,,50.1,35.0,44.6,2022
+958,St Francis Xavier University,4387,17.3,6%,36.88,,,48.7,35.7,54.5,2022
+959,Sultan Qaboos University,6755,7.4,4%,36.86,,,43.4,39.3,74.4,2022
+960,Symbiosis International University,17363,12.9,11%,36.85,,,53.0,35.1,30.4,2022
+961,University of Szeged,19108,12.1,21%,36.84,,,42.3,37.9,60.1,2022
+962,Technical University of Crete,6875,31.3,4%,36.83,,,55.0,39.6,43.6,2022
+963,Technical University of Madrid,38794,15.4,15%,36.82,,,40.9,44.2,52.2,2022
+964,"University of Technology, Iraq",9309,6.4,0%,36.8,,,53.1,35.3,26.3,2022
+965,University of Tehran,43998,21.0,2%,36.79,,,46.5,34.8,26.6,2022
+966,Teikyo University,23015,16.1,4%,36.78,,,69.0,35.8,21.6,2022
+967,Universiti Tenaga Nasional (UNITEN),5644,13.0,8%,36.77,,,46.9,91.0,48.5,2022
+968,University of Texas at El Paso,17877,23.2,8%,36.76,,,38.5,34.8,42.7,2022
+969,University of Texas Rio Grande Valley,26512,21.7,3%,36.74,,,53.2,35.2,34.5,2022
+970,University of Thessaly,18036,30.1,2%,36.73,,,57.5,38.6,39.8,2022
+971,University of Trás-os-Montes and Alto Douro,6687,11.5,6%,36.72,,,33.6,34.8,43.4,2022
+972,Tribhuvan University,428485,31.4,0%,36.71,,,67.8,34.8,45.6,2022
+973,Veltech University,6804,14.3,2%,36.7,,,59.0,36.2,25.2,2022
+974,Vilnius University,16815,10.6,9%,36.69,,,41.4,44.2,56.1,2022
+975,VIT University,34526,19.6,2%,36.67,,,45.4,36.8,27.0,2022
+976,Waseda University,47565,14.9,12%,36.66,,,24.4,39.7,44.1,2022
+977,University of Westminster,16145,20.7,50%,36.65,,,38.0,35.4,83.1,2022
+978,Wuhan University of Technology,53791,14.6,3%,36.64,,,46.2,54.5,24.6,2022
+979,Xidian University,36124,16.3,2%,36.63,,,36.9,80.1,21.4,2022
+980,Yasouj University,5898,24.6,0%,36.62,,,63.8,38.0,17.3,2022
+981,Yeungnam University,19589,14.8,5%,36.6,,,50.6,41.1,39.5,2022
+982,Zagazig University,147705,22.4,2%,36.59,,,60.7,34.8,42.1,2022
+983,Zewail City of Science and Technology,958,9.1,0%,36.58,,,54.7,47.6,28.4,2022
+984,Zhejiang University of Finance and Economics,16519,19.8,3%,36.57,,,61.7,35.3,25.9,2022
+985,Acharya Nagarjuna University,4858,9.7,7%,36.56,,,17.6,41.4,23.3,2022
+986,University of A Coruña,14735,12.2,5%,36.55,,,33.6,37.5,33.4,2022
+987,"Adam Mickiewicz University, Poznań",33714,19.9,4%,36.53,,,31.2,37.1,32.0,2022
+988,Aichi Medical University,1304,2.7,1%,36.52,,,35.8,39.6,18.5,2022
+989,Ain Shams University,201733,15.9,3%,36.51,,,43.3,35.9,36.9,2022
+990,Al-Azhar University,376303,34.2,5%,36.5,,,41.5,34.8,47.4,2022
+991,Alexandria University,188711,26.4,4%,36.49,,,43.8,38.6,45.4,2022
+992,University of Almería,12996,18.7,12%,36.48,,,35.2,37.1,43.1,2022
+993,"University of the Andes, Chile",9254,18.9,2%,36.46,,,32.3,36.2,48.1,2022
+994,University of Antioquia,37141,21.2,0%,36.45,,,22.3,76.6,37.6,2022
+995,Assiut University,92965,17.8,1%,36.44,,,40.3,34.8,46.8,2022
+996,Atatürk University,63400,34.6,2%,36.43,,,40.2,36.2,19.1,2022
+997,Atılım University,9421,15.4,5%,36.42,,,36.8,36.1,39.9,2022
+998,Babeş-Bolyai University,36951,22.9,4%,36.41,,,31.2,35.8,44.4,2022
+999,Bandung Institute of Technology (ITB),18239,12.0,2%,36.4,,,16.3,97.5,29.1,2022
+1000,Bangladesh Agricultural University (BAU),8088,14.3,1%,36.38,,,34.5,38.5,46.2,2022
+1001,Beijing Forestry University,20196,15.6,1%,36.37,,,22.6,71.2,20.0,2022
+1002,Beijing Jiaotong University,30608,14.9,7%,36.36,,,21.6,63.7,37.5,2022
+1003,Beijing University of Technology,22746,11.9,2%,36.35,,,19.2,54.5,21.6,2022
+1004,Bezmiâlem Vakif University,3567,11.9,5%,36.34,,,27.6,38.4,21.9,2022
+1005,Bowling Green State University,15268,16.2,4%,36.33,,,45.5,34.8,26.0,2022
+1006,University of Brasília,45425,14.9,2%,36.32,,,35.0,41.7,31.5,2022
+1007,University of Cadiz,18763,17.7,9%,36.3,,,31.7,36.5,39.4,2022
+1008,Canterbury Christ Church University,10920,17.3,13%,36.29,,,28.3,35.0,45.3,2022
+1009,Cardiff Metropolitan University,9060,18.3,20%,36.28,,,37.0,36.0,66.6,2022
+1010,Technical University of Cartagena,4541,10.3,8%,36.27,,,31.1,39.0,36.7,2022
+1011,University of Castilla-La Mancha,21735,12.4,7%,36.26,,,38.0,36.8,39.2,2022
+1012,The Catholic University of Korea,9840,7.4,4%,36.25,,,23.8,39.8,19.9,2022
+1013,Universidad Católica San Antonio de Murcia (UCAM),10828,19.7,12%,36.24,,,28.8,45.2,44.0,2022
+1014,Central University of Finance and Economics,16066,14.4,4%,36.22,,,32.5,40.2,36.9,2022
+1015,Chengdu University,22106,18.1,1%,36.21,,,42.4,37.8,20.7,2022
+1016,Chiang Mai University,33357,14.1,3%,36.2,,,25.9,57.9,34.4,2022
+1017,Chiba University,13868,10.0,5%,36.19,,,31.4,48.9,27.9,2022
+1018,China University of Petroleum (East China),25206,15.0,2%,36.18,,,30.8,89.4,18.5,2022
+1019,China Pharmaceutical University,24013,19.3,2%,36.17,,,40.7,54.3,18.1,2022
+1020,Chonnam National University,22250,17.1,9%,36.16,,,28.2,41.2,30.7,2022
+1021,Chungnam National University,21471,21.1,4%,36.15,,,17.5,45.3,23.5,2022
+1022,Chung Yuan Christian University,15314,32.0,10%,36.13,,,26.5,43.7,41.7,2022
+1023,Comenius University in Bratislava,21008,9.7,13%,36.12,,,35.5,35.1,53.0,2022
+1024,University of Concepción,28260,17.2,2%,36.11,,,28.3,56.1,50.4,2022
+1025,Czech University of Life Sciences Prague (CZU),17460,17.1,21%,36.1,,,31.9,50.4,64.5,2022
+1026,Czech Technical University in Prague,17410,10.0,20%,36.09,,,20.1,49.1,57.3,2022
+1027,Dr B.R. Ambedkar National Institute of Technology Jalandhar,3980,20.7,0%,36.08,,,39.9,35.4,13.8,2022
+1028,Duzce University,21597,35.9,3%,36.07,,,34.6,87.6,20.7,2022
+1029,Universidade Estadual Paulista (Unesp),40396,14.5,3%,36.06,,,18.6,39.6,29.2,2022
+1030,Fayoum University,40988,16.4,1%,36.04,,,49.9,38.9,41.0,2022
+1031,Universidade Federal do ABC (UFABC),17325,23.3,1%,36.03,,,34.0,35.6,35.5,2022
+1032,Federal University of Pelotas,21940,16.3,1%,36.02,,,37.2,34.8,20.5,2022
+1033,Federal University of Rio de Janeiro,53721,13.7,2%,36.01,,,23.1,64.2,29.6,2022
+1034,Federal University of São Carlos,19648,14.8,2%,36.0,,,20.8,41.6,25.7,2022
+1035,Ferdowsi University of Mashhad,23747,29.7,8%,35.99,,,23.7,42.4,27.7,2022
+1036,University of La Frontera,11018,26.2,1%,35.98,,,30.6,34.8,49.6,2022
+1037,Fu Jen Catholic University,18375,24.2,7%,35.97,,,33.0,73.7,30.7,2022
+1038,Gdańsk University of Technology,13778,18.4,5%,35.96,,,35.3,44.6,28.1,2022
+1039,Georgia Southern University,18040,17.3,3%,35.94,,,31.6,40.1,28.7,2022
+1040,University of Ghana,43877,26.7,1%,35.93,,,30.6,46.8,48.8,2022
+1041,Guangxi University,39846,19.0,2%,35.92,,,40.1,43.1,22.0,2022
+1042,University of Guilan,17460,35.2,2%,35.91,,,33.1,37.4,19.1,2022
+1043,Guru Jambheshwar University of Science and Technology,5705,17.5,1%,35.9,,,41.5,34.8,15.3,2022
+1044,Hamamatsu University School of Medicine,1207,3.7,2%,35.89,,,31.9,38.1,20.1,2022
+1045,Université Polytechnique Hauts-de-France,13633,20.9,13%,35.88,,,30.3,36.1,73.9,2022
+1046,Huaqiao University,30864,17.3,16%,35.87,,,39.8,37.1,59.1,2022
+1047,Hyogo College of Medicine,931,2.2,1%,35.86,,,40.9,39.6,16.9,2022
+1048,Ibn Tofaïl University,49037,72.4,2%,35.85,,,40.6,38.2,24.8,2022
+1049,Ilmenau University of Technology,5608,17.8,26%,35.84,,,23.7,51.9,60.5,2022
+1050,Incheon National University,13457,17.5,3%,35.82,,,21.6,37.1,29.1,2022
+1051,Indian Institute of Technology Bhubaneswar,1778,12.7,0%,35.81,,,40.0,36.1,18.8,2022
+1052,Indian Institute of Technology (Indian School of Mines) Dhanbad,7287,21.9,0%,35.8,,,36.7,55.9,15.0,2022
+1053,Indian Institute of Science Education and Research Bhopal,1581,13.2,0%,35.79,,,26.9,35.1,18.8,2022
+1054,Indian Institute of Technology Mandi,1367,10.4,1%,35.78,,,40.3,35.2,22.2,2022
+1055,Inha University,18801,22.4,8%,35.77,,,27.1,64.7,34.7,2022
+1056,The Islamia University of Bahawalpur,29156,24.3,0%,35.76,,,36.7,34.8,40.3,2022
+1057,Istanbul University,84991,35.8,8%,35.75,,,32.9,46.7,30.8,2022
+1058,Jamia Hamdard University,9138,18.8,4%,35.74,,,44.3,38.0,29.2,2022
+1059,University of Jeddah,23342,12.1,2%,35.73,,,38.5,34.8,72.2,2022
+1060,Jeonbuk National University,20488,20.1,6%,35.72,,,27.1,43.7,30.2,2022
+1061,Jianghan University,17855,13.9,2%,35.7,,,51.1,38.7,22.4,2022
+1062,Jilin University,72804,11.0,3%,35.69,,,30.9,42.3,22.2,2022
+1063,Kanazawa University,10392,9.9,6%,35.68,,,25.8,37.8,27.5,2022
+1064,Kaohsiung Medical University,6487,11.8,7%,35.67,,,27.0,52.8,27.6,2022
+1065,Karabük University,47208,45.5,19%,35.66,,,50.9,35.2,37.6,2022
+1066,Kharkiv National University of Radio Electronics,7670,10.9,10%,35.65,,,39.4,35.3,30.5,2022
+1067,King Faisal University,29946,14.3,2%,35.64,,,41.0,39.7,73.7,2022
+1068,King George’s Medical University,3083,7.2,0%,35.63,,,44.7,37.3,15.4,2022
+1069,KL University,17201,14.9,2%,35.62,,,47.9,35.1,16.5,2022
+1070,K.N. Toosi University of Technology,7140,23.5,1%,35.61,,,32.9,42.0,25.7,2022
+1071,Kumamoto University,9935,8.0,8%,35.6,,,27.6,45.2,32.2,2022
+1072,Kwame Nkrumah University of Science and Technology,63628,67.3,1%,35.59,,,34.3,34.9,47.3,2022
+1073,Kyoto Prefectural University of Medicine,1358,3.4,1%,35.58,,,34.6,44.1,17.0,2022
+1074,University of Lahore,29658,14.9,2%,35.57,,,48.2,35.3,45.1,2022
+1075,University of Las Palmas de Gran Canaria,17823,18.2,8%,35.55,,,44.0,34.8,41.5,2022
+1076,Lebanese University,49737,15.5,16%,35.54,,,16.0,34.9,78.2,2022
+1077,University of León,12121,13.2,15%,35.53,,,37.5,37.8,45.6,2022
+1078,Lorestan University,8700,26.0,1%,35.52,,,48.0,35.0,19.1,2022
+1079,Lovely Professional University,31102,15.1,6%,35.51,,,45.8,36.1,22.0,2022
+1080,University of Malaga,35860,12.3,7%,35.5,,,34.3,37.4,40.6,2022
+1081,Universiti Malaysia Perlis,11084,10.7,5%,35.49,,,46.3,35.1,29.3,2022
+1082,Manipal Academy of Higher Education,22337,9.0,12%,35.48,,,22.5,41.5,35.5,2022
+1083,University of Manouba,16874,12.8,2%,35.47,,,34.5,34.8,43.3,2022
+1084,University of Maribor,11732,13.2,7%,35.46,,,28.3,41.3,39.3,2022
+1085,University of Mazandaran,13672,33.2,7%,35.45,,,32.1,37.8,27.2,2022
+1086,Medical University of Bialystok,5284,12.7,7%,35.44,,,24.2,37.3,27.5,2022
+1087,Medical University of Warsaw,10221,6.8,8%,35.43,,,35.5,40.8,28.7,2022
+1088,Minia University,76018,18.7,1%,35.42,,,46.5,34.9,45.0,2022
+1089,Mississippi State University,28074,19.6,3%,35.41,,,38.8,39.8,29.6,2022
+1090,Morgan State University,7118,12.6,10%,35.4,,,39.5,35.1,47.1,2022
+1091,University of Mumbai,13196,23.7,0%,35.39,,,12.4,36.6,15.6,2022
+1092,University of Murcia,27067,15.9,8%,35.37,,,37.1,37.0,40.7,2022
+1093,Nagasaki University,8877,6.7,6%,35.36,,,23.6,39.8,34.4,2022
+1094,Nanjing University of Aeronautics and Astronautics,30713,15.7,3%,35.35,,,20.6,74.8,20.4,2022
+1095,National Central University,11101,9.8,12%,35.34,,,18.2,75.8,45.4,2022
+1096,National Chengchi University,12750,14.9,16%,35.33,,,12.6,42.7,50.0,2022
+1097,National University of Colombia,51722,21.6,1%,35.32,,,41.4,35.3,36.9,2022
+1098,National Dong Hwa University,9907,16.7,8%,35.31,,,26.1,38.3,43.3,2022
+1099,"National Institute of Technology, Tiruchirappalli",6188,15.0,8%,35.3,,,35.4,39.7,23.2,2022
+1100,National University of San Martín,15964,15.8,5%,35.29,,,37.7,35.5,40.7,2022
+1101,National Taipei University of Technology,9882,15.6,11%,35.28,,,24.7,98.0,36.5,2022
+1102,National Yunlin University of Science and Technology,9199,22.4,6%,35.27,,,13.7,95.3,27.0,2022
+1103,Nicolaus Copernicus University in Toruń,23157,15.3,3%,35.26,,,28.0,36.3,29.4,2022
+1104,North China Electric Power University,37957,19.1,3%,35.25,,,29.1,54.3,18.1,2022
+1105,Northwest University,24365,13.4,7%,35.24,,,35.2,39.4,27.3,2022
+1106,Oakland University,15544,18.4,4%,35.23,,,28.1,35.1,33.3,2022
+1107,Óbuda University,12378,50.1,5%,35.22,,,41.0,37.4,38.6,2022
+1108,Ocean University of China,29189,15.5,4%,35.21,,,34.0,43.5,26.2,2022
+1109,Okayama University,13145,10.3,9%,35.2,,,25.2,59.4,31.2,2022
+1110,Osmania University,12584,27.3,3%,35.19,,,30.8,40.0,17.0,2022
+1111,Ozyegin University,6649,21.0,5%,35.18,,,41.3,36.0,47.2,2022
+1112,Pavol Jozef Šafárik University in Košice,7198,10.6,23%,35.17,,,16.3,34.9,64.4,2022
+1113,Universitas Pendidikan Indonesia,34766,22.8,1%,35.16,,,44.1,35.6,17.5,2022
+1114,Polytechnic Institute of Porto,18428,16.4,7%,35.15,,,51.6,35.0,36.5,2022
+1115,Pondicherry University,7080,21.1,1%,35.14,,,18.7,34.8,15.3,2022
+1116,Pontifical Catholic University of Peru,26809,7.1,2%,35.13,,,32.8,35.8,44.3,2022
+1117,Pontifical Catholic University of Valparaíso,17411,25.4,1%,35.11,,,20.4,43.9,49.3,2022
+1118,Pontifícia Universidade Católica do Paraná,13324,14.9,1%,35.1,,,37.4,38.0,27.2,2022
+1119,University of Primorska,5149,15.1,14%,35.09,,,27.3,36.0,64.1,2022
+1120,Public University of Navarre,7498,11.4,8%,35.08,,,40.1,37.6,46.2,2022
+1121,University of Puerto Rico,49505,12.0,0%,35.07,,,42.4,37.1,43.2,2022
+1122,University of the Punjab,27907,23.7,0%,35.06,,,28.8,35.5,35.8,2022
+1123,University Rey Juan Carlos,44197,21.9,8%,35.05,,,39.9,36.5,41.4,2022
+1124,Riga Technical University,10515,32.5,18%,35.04,,,15.8,62.6,57.3,2022
+1125,Rikkyo University,19946,15.5,5%,35.03,,,44.1,35.5,48.8,2022
+1126,Robert Gordon University,8900,18.7,23%,35.02,,,25.9,36.4,77.5,2022
+1127,Rowan University,17576,17.5,3%,35.01,,,42.1,35.5,30.7,2022
+1128,Université Saint-Joseph de Beyrouth,7985,8.3,8%,35.0,,,22.9,40.4,72.2,2022
+1129,Saitama Medical University,1942,1.5,0%,34.99,,,37.5,38.6,15.7,2022
+1130,San Jose State University,29960,28.3,11%,34.98,,,33.3,35.3,42.7,2022
+1131,University of Sargodha,21249,26.5,0%,34.97,,,25.5,35.2,41.5,2022
+1132,SASTRA University,9851,13.6,0%,34.96,,,38.3,43.6,16.9,2022
+1133,Semnan University,14606,14.6,1%,34.95,,,36.2,34.8,18.0,2022
+1134,University of Seoul,9183,16.6,6%,34.94,,,26.8,40.4,29.3,2022
+1135,University of Seville,49826,16.9,11%,34.93,,,34.2,38.4,46.0,2022
+1136,​Shahid Chamran University of Ahvaz,13079,21.7,3%,34.92,,,22.8,92.2,18.6,2022
+1137,Shahrekord University,6954,20.2,0%,34.91,,,47.8,35.9,17.8,2022
+1138,Shahrood University of Technology,8269,22.8,1%,34.9,,,40.0,35.6,24.4,2022
+1139,Shanghai Maritime University,22774,15.8,3%,34.89,,,48.1,49.1,39.0,2022
+1140,Shiga University of Medical Science,1155,3.1,3%,34.88,,,37.0,43.7,21.3,2022
+1141,University of Social Welfare and Rehabilitation Sciences,1732,11.0,2%,34.87,,,33.6,41.4,32.4,2022
+1142,Sogang University,9652,23.5,14%,34.86,,,23.2,50.8,37.6,2022
+1143,University of the South Pacific,11208,31.3,1%,34.85,,,32.7,47.8,66.0,2022
+1144,University of South Wales,15310,15.0,18%,34.84,,,30.9,36.5,65.9,2022
+1145,Southwest Jiaotong University,43424,16.0,2%,34.83,,,26.3,70.2,25.8,2022
+1146,University of Split,19600,17.0,2%,34.82,,,46.4,35.8,38.0,2022
+1147,Sri Venkateswara University,7658,14.4,0%,34.81,,,26.9,35.1,23.6,2022
+1148,Staffordshire University,9120,17.5,12%,34.8,,,42.4,34.9,52.1,2022
+1149,St Marianna University School of Medicine,839,0.9,1%,34.79,,,35.1,34.9,17.4,2022
+1150,SWPS University of Social Sciences and Humanities,13987,36.0,9%,34.78,,,37.8,34.8,54.5,2022
+1151,Tallinn University,4062,10.3,19%,34.77,,,21.4,35.3,69.5,2022
+1152,Tanta University,124548,22.8,1%,34.76,,,51.6,34.8,41.1,2022
+1153,Technological University Dublin,20479,18.9,20%,34.75,,,30.8,35.1,71.3,2022
+1154,University of Technology of Compiègne,4241,15.8,23%,34.74,,,28.6,42.1,83.9,2022
+1155,University of Technology of Troyes,2954,18.3,23%,34.73,,,30.6,43.8,70.4,2022
+1156,Teesside University,12780,19.8,15%,34.72,,,40.8,35.0,61.6,2022
+1157,Texas State University,31600,19.2,1%,34.71,,,29.7,38.0,34.4,2022
+1158,Tezpur University,3985,12.8,0%,34.7,,,21.4,35.8,15.7,2022
+1159,Tokyo University of Agriculture and Technology,5690,15.2,6%,34.69,,,13.9,52.5,28.8,2022
+1160,Tokyo Medical University,1370,1.7,0%,34.68,,,41.2,36.2,18.1,2022
+1161,Tshwane University of Technology,48386,42.4,2%,34.67,,,38.3,40.2,44.5,2022
+1162,University of Tunis El Manar,29049,8.9,2%,34.66,,,24.1,35.0,41.3,2022
+1163,Universiti Tunku Abdul Rahman (UTAR),17727,15.4,4%,34.65,,,34.5,38.4,34.2,2022
+1164,Urmia University,14729,28.9,1%,34.64,,,30.4,40.0,19.3,2022
+1165,"Vietnam National University, Hanoi",41803,14.3,1%,34.63,,,41.5,36.6,45.6,2022
+1166,University of Vigo,17794,15.6,6%,34.62,,,40.3,39.9,43.4,2022
+1167,Vilnius Gediminas Technical University (Vilnius Tech),9164,13.8,12%,34.61,,,36.2,41.7,49.0,2022
+1168,"Visvesvaraya National Institute of Technology, Nagpur",4616,17.2,3%,34.6,,,29.4,56.1,16.7,2022
+1169,University of West Bohemia,10751,14.8,4%,34.59,,,29.9,39.1,30.4,2022
+1170,University of Wolverhampton,14525,17.6,22%,34.58,,,36.7,35.0,67.9,2022
+1171,Xiangtan University,31402,20.9,2%,34.57,,,38.7,38.5,22.3,2022
+1172,Yangzhou University,34393,12.6,4%,34.56,,,46.5,43.3,25.5,2022
+1173,Yıldız Technical University,31369,33.3,6%,34.55,,,23.7,94.0,23.1,2022
+1174,University of Zagreb,57807,15.2,4%,34.54,,,30.3,44.1,35.2,2022
+1175,Zanjan University of Medical Sciences,4677,11.1,1%,34.53,,,30.7,34.8,16.5,2022
+1176,University of Zaragoza,27953,10.0,7%,34.52,,,38.1,38.9,40.6,2022
+1177,Zhejiang University of Technology,31469,14.9,7%,34.52,,,41.9,60.9,25.7,2022
+1178,University of Žilina,7040,12.2,2%,34.51,,,34.9,40.3,32.8,2022
+1179,University of Abou Bekr Belkaïd Tlemcen,42261,21.2,1%,34.5,,,7.7,34.9,34.8,2022
+1180,Acıbadem University,2687,5.9,3%,34.49,,,9.1,38.1,23.8,2022
+1181,Adolfo Ibáñez University,10375,25.4,5%,34.48,,,25.1,36.6,59.6,2022
+1182,AGH University of Science and Technology,21317,14.0,2%,34.47,,,20.3,61.4,23.8,2022
+1183,Universitas Airlangga,27351,9.7,2%,34.46,,,18.3,36.5,34.2,2022
+1184,Akdeniz University,41824,28.1,3%,34.45,,,16.3,35.7,19.6,2022
+1185,Akita University,4970,10.3,3%,34.44,,,10.7,39.0,22.7,2022
+1186,Aksaray University,21939,27.3,7%,34.43,,,22.1,35.1,23.6,2022
+1187,Alexandru Ioan Cuza University,24047,21.5,7%,34.42,,,11.8,34.8,34.5,2022
+1188,Al-Farabi Kazakh National University,23253,5.0,15%,34.41,,,15.3,39.6,70.1,2022
+1189,University of Alicante,24760,16.1,9%,34.4,,,23.5,36.9,39.5,2022
+1190,Alzahra University,9738,22.1,1%,34.39,,,15.1,36.7,19.5,2022
+1191,Amity University,31059,14.5,6%,34.38,,,33.1,36.0,21.2,2022
+1192,Anadolu University,29612,22.9,4%,34.37,,,23.2,38.8,21.3,2022
+1193,"University of the Andes, Venezuela",25198,10.7,2%,34.36,,,11.4,34.8,47.7,2022
+1194,Andhra University,9048,13.2,6%,34.35,,,10.7,38.4,19.6,2022
+1195,Universidad Andrés Bello (UNAB),42408,18.3,2%,34.34,,,33.1,35.0,48.1,2022
+1196,Ankara University,68578,15.8,5%,34.33,,,20.7,36.0,26.4,2022
+1197,Annamalai University,16582,10.9,2%,34.32,,,14.5,35.8,17.6,2022
+1198,Aoyama Gakuin University,19275,11.8,4%,34.31,,,14.9,35.4,30.4,2022
+1199,"Arab Academy for Science, Technology and Maritime Transport",27395,12.5,4%,34.3,,,21.6,34.9,35.9,2022
+1200,Arak University,6680,22.3,2%,34.29,,,19.9,36.0,18.4,2022
+1201,Ariel University,13004,22.8,0%,34.28,,,13.1,36.4,30.1,2022
+1202,Austral University of Chile,16886,17.8,2%,34.27,,,24.9,45.8,51.7,2022
+1203,Universidad Autónoma del Estado de Hidalgo,37188,18.7,1%,34.26,,,10.2,36.7,22.4,2022
+1204,Universidad Autónoma del Estado de Mexico (UAEMex),63490,12.4,0%,34.25,,,6.7,34.9,24.3,2022
+1205,Universidad Autónoma del Estado de Morelos,27141,14.5,0%,34.25,,,6.7,35.2,24.8,2022
+1206,Universidad Autónoma de Nuevo León (UANL),123370,42.9,1%,34.24,,,11.6,35.8,30.4,2022
+1207,Universidad Autónoma de Querétaro,23966,42.4,1%,34.23,,,16.3,37.0,27.4,2022
+1208,Universidad Autónoma de Yucatán,17401,14.1,0%,34.22,,,15.1,45.5,30.4,2022
+1209,Autonomous University of Baja California,65528,21.8,2%,34.21,,,10.5,35.3,32.8,2022
+1210,Autonomous University of Sinaloa,83516,24.6,0%,34.2,,,29.3,52.0,23.8,2022
+1211,Badji Mokhtar University – Annaba,46884,16.1,1%,34.19,,,10.5,35.1,31.9,2022
+1212,University of Baghdad,69750,11.0,0%,34.18,,,14.3,35.4,19.5,2022
+1213,Bahauddin Zakariya University,30872,37.6,0%,34.17,,,34.5,35.0,40.2,2022
+1214,Baku State University,22039,17.2,2%,34.16,,,6.6,34.8,41.1,2022
+1215,Banasthali University,10387,17.5,5%,34.15,,,19.5,40.5,21.2,2022
+1216,Bangladesh University of Engineering and Technology,5941,12.9,0%,34.14,,,27.8,35.2,23.8,2022
+1217,Başkent University,13545,12.7,2%,34.13,,,5.0,34.8,20.1,2022
+1218,University of Basrah,42808,15.3,0%,34.12,,,14.5,34.8,31.2,2022
+1219,University of Béjaïa,41728,24.3,1%,34.11,,,14.8,34.8,42.8,2022
+1220,Benemérita Universidad Autónoma de Puebla,79502,44.3,0%,34.1,,,12.2,34.8,29.0,2022
+1221,BINUS University,15287,13.9,4%,34.09,,,13.3,38.6,25.3,2022
+1222,University of Bío-Bío,12933,25.7,1%,34.08,,,9.3,34.8,47.8,2022
+1223,University of Birjand,12059,24.1,2%,34.08,,,14.6,35.2,20.1,2022
+1224,University of Biskra,33639,23.8,1%,34.07,,,12.9,34.8,34.8,2022
+1225,Blida 1 University,32458,22.4,1%,34.06,,,15.6,35.0,37.7,2022
+1226,Bolu Abant Izzet Baysal University,22855,22.7,2%,34.05,,,17.5,35.0,21.1,2022
+1227,University of Botswana,12975,17.1,4%,34.04,,,26.0,35.2,66.1,2022
+1228,University of Brawijaya,50677,16.7,1%,34.03,,,7.8,37.8,21.9,2022
+1229,Brno University of Technology,17671,16.8,22%,34.02,,,19.9,43.4,56.4,2022
+1230,Bu-Ali Sina University,11049,25.3,1%,34.01,,,26.2,35.8,19.6,2022
+1231,University of Bucharest,30096,51.7,2%,34.0,,,16.1,38.1,30.0,2022
+1232,Budapest University of Technology and Economics,19351,17.5,12%,33.99,,,20.5,44.6,39.5,2022
+1233,Burapha University,33104,23.1,1%,33.98,,,9.8,34.9,25.1,2022
+1234,University of Burgos,7504,13.6,4%,33.97,,,25.7,37.8,36.5,2022
+1235,Bursa Uludağ University,34973,21.9,10%,33.96,,,12.1,40.9,28.2,2022
+1236,University of Calcutta,19004,24.6,1%,33.95,,,14.9,43.5,16.4,2022
+1237,University of Carthage,28985,9.4,1%,33.94,,,19.4,36.4,43.9,2022
+1238,Catholic University of the North,11359,17.3,2%,33.94,,,25.4,34.9,54.4,2022
+1239,University of Caxias do Sul,14389,25.3,0%,33.93,,,11.0,35.3,18.2,2022
+1240,Ceará State University,15719,13.2,0%,33.92,,,6.8,36.0,18.5,2022
+1241,Chang Gung University of Science and Technology,6318,26.4,1%,33.91,,,26.4,48.1,18.9,2022
+1242,Chaoyang University of Technology,15858,40.6,6%,33.9,,,8.8,43.9,30.2,2022
+1243,"University of Chemistry and Technology, Prague",3842,8.5,23%,33.89,,,16.5,41.6,51.4,2022
+1244,University of Chester,10740,18.4,13%,33.88,,,20.8,37.2,53.4,2022
+1245,Chiba Institute of Technology,9981,23.3,2%,33.87,,,6.6,39.0,17.9,2022
+1246,Chubu University,11974,22.1,2%,33.86,,,16.4,37.0,29.8,2022
+1247,Chungbuk National University,17669,13.9,6%,33.85,,,19.4,41.0,26.6,2022
+1248,Chuo University,25729,37.3,4%,33.84,,,12.9,37.9,25.0,2022
+1249,Cochin University of Science and Technology,3545,17.3,1%,33.83,,,12.4,35.9,15.9,2022
+1250,University of Colorado Colorado Springs,12807,22.0,2%,33.83,,,23.8,35.9,26.2,2022
+1251,Comillas Pontifical University,10003,21.8,6%,33.82,,,19.1,44.1,39.1,2022
+1252,Corvinus University of Budapest,12722,26.7,20%,33.81,,,22.1,35.0,48.4,2022
+1253,Cracow University of Technology,13092,12.1,2%,33.8,,,26.7,39.4,20.1,2022
+1254,Cukurova University,42177,18.6,4%,33.79,,,17.8,38.5,21.4,2022
+1255,Damghan University,4706,27.7,0%,33.78,,,33.1,36.2,19.4,2022
+1256,University of Dar es Salaam,34259,20.5,0%,33.77,,,16.1,35.0,47.4,2022
+1257,De La Salle University,12386,15.3,3%,33.76,,,21.8,34.8,26.0,2022
+1258,Del Rosario University,10487,11.8,2%,33.75,,,25.2,38.2,47.9,2022
+1259,Democritus University of Thrace,28311,46.6,2%,33.74,,,33.2,36.0,31.8,2022
+1260,Dicle University,26024,15.8,2%,33.73,,,6.8,99.9,16.3,2022
+1261,Diponegoro University,38567,13.7,2%,33.72,,,11.7,43.4,26.6,2022
+1262,Dokkyo Medical University,1352,1.3,1%,33.72,,,13.6,38.0,16.8,2022
+1263,Dokuz Eylül University,58563,18.3,2%,33.71,,,24.8,37.6,20.0,2022
+1264,Doshisha University,28074,18.6,4%,33.7,,,5.7,36.0,28.4,2022
+1265,Dumlupinar University,45945,48.8,2%,33.69,,,23.7,35.8,17.2,2022
+1266,Dunarea de Jos University of Galati,12570,16.3,22%,33.68,,,7.4,34.9,39.3,2022
+1267,EAFIT University,14890,24.6,3%,33.67,,,8.6,36.3,41.3,2022
+1268,Prague University of Economics and Business,13685,27.2,22%,33.66,,,5.2,35.8,43.4,2022
+1269,Ege University,46825,26.7,2%,33.65,,,15.7,40.3,20.6,2022
+1270,Ehime University,9267,13.4,2%,33.64,,,19.2,44.3,26.6,2022
+1271,The University of Electro-Communications,4745,15.7,6%,33.63,,,10.5,43.1,31.3,2022
+1272,University of Engineering & Technology (UET) Lahore,13377,13.1,3%,33.62,,,31.2,34.8,45.5,2022
+1273,Erciyes University,47075,34.5,3%,33.62,,,20.2,79.3,21.7,2022
+1274,Erzincan Binali Yıldırım University,14053,23.6,1%,33.61,,,30.5,34.8,16.2,2022
+1275,Escuela Politécnica Nacional,7207,12.2,1%,33.6,,,23.3,35.9,52.6,2022
+1276,Escuela Superior Politécnica del Litoral,11522,11.9,1%,33.59,,,30.3,35.2,54.7,2022
+1277,Eskişehir Osmangazi University,31086,20.1,3%,33.58,,,14.8,35.0,18.8,2022
+1278,Universidade do Estado do Rio de Janeiro (UERJ),22427,8.8,0%,33.57,,,16.3,39.6,22.9,2022
+1279,Universidade do Estado de Santa Catarina,11718,11.3,1%,33.56,,,25.3,35.0,17.3,2022
+1280,Universidade Estadual de Maringá,20594,10.8,1%,33.55,,,13.1,35.1,18.7,2022
+1281,Universidade Estadual do Oeste do Paraná (Unioeste),12689,10.8,0%,33.54,,,5.7,42.8,16.5,2022
+1282,Universidade Federal da Bahia,44829,17.5,0%,33.54,,,22.7,35.1,23.7,2022
+1283,Universidade Federal do Ceará (UFC),36593,15.6,1%,33.53,,,17.8,36.1,26.4,2022
+1284,Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA),4996,14.1,2%,33.52,,,16.3,34.8,20.1,2022
+1285,Universidade Federal do Triângulo Mineiro,6404,12.3,0%,33.51,,,21.8,36.2,19.7,2022
+1286,Federal University of Espírito Santo,23782,13.3,1%,33.5,,,19.2,35.7,24.1,2022
+1287,Federal University of Goiás,31274,15.1,0%,33.49,,,15.7,39.2,22.4,2022
+1288,Universidade Federal da Grande Dourados,7805,13.1,0%,33.48,,,7.9,34.8,16.9,2022
+1289,Federal University of Itajubá,8264,15.5,1%,33.47,,,20.8,38.3,24.3,2022
+1290,Universidade Federal de Juiz de Fora,21068,15.7,1%,33.46,,,24.9,35.4,21.8,2022
+1291,Federal University of Lavras,14034,17.3,1%,33.45,,,15.8,54.0,22.0,2022
+1292,Universidade Federal do Maranhão (UFMA),30123,15.5,0%,33.45,,,16.0,35.6,19.4,2022
+1293,Federal University of Mato Grosso do Sul,25972,16.4,1%,33.44,,,13.0,38.1,20.4,2022
+1294,Universidade Federal de Ouro Preto (UFOP),13861,15.2,1%,33.43,,,19.1,39.6,21.7,2022
+1295,Federal University of Pará,44614,16.2,0%,33.42,,,14.9,38.6,23.6,2022
+1296,Universidade Federal do Paraná (UFPR),33604,13.2,0%,33.41,,,16.3,35.3,23.5,2022
+1297,Federal University of Pernambuco,40890,15.7,1%,33.4,,,16.4,36.3,22.2,2022
+1298,Federal University of Piauí,50150,23.7,0%,33.39,,,10.8,35.6,22.1,2022
+1299,Federal University of Rio Grande do Norte (UFRN),36910,15.5,0%,33.38,,,19.7,37.8,27.4,2022
+1300,Federal Rural University of Pernambuco,17704,14.0,0%,33.38,,,7.2,34.8,18.4,2022
+1301,Universidade Federal Rural do Semi-Arido,7276,10.6,0%,33.37,,,2.4,34.8,15.1,2022
+1302,Federal University of Santa Maria,28337,14.9,0%,33.36,,,18.6,35.7,18.9,2022
+1303,Federal University of Tocantins,16713,15.1,0%,33.35,,,6.3,34.8,18.9,2022
+1304,Federal University of Uberlândia,30236,16.0,1%,33.34,,,26.8,41.7,21.1,2022
+1305,Federal University of Vales do Jequitinhonha e Mucuri,9772,11.9,0%,33.33,,,7.0,34.8,17.0,2022
+1306,Federal University of Viçosa,18394,15.3,1%,33.32,,,16.8,46.3,20.8,2022
+1307,Federico Santa María Technical University,19291,25.7,4%,33.31,,,28.7,41.3,56.1,2022
+1308,Feng Chia University,19510,22.7,8%,33.3,,,14.4,38.8,37.0,2022
+1309,Fluminense Federal University,53054,14.7,1%,33.3,,,14.6,35.4,26.4,2022
+1310,Université Frères Mentouri Constantine 1,34861,20.9,1%,33.29,,,10.3,35.4,38.0,2022
+1311,Universidad de las Fuerzas Armadas – ESPE,21204,16.3,0%,33.28,,,13.2,35.1,42.3,2022
+1312,University of Fukui,5005,7.9,5%,33.27,,,13.0,39.0,24.7,2022
+1313,Fukuoka University,19782,10.5,1%,33.26,,,17.4,37.9,21.6,2022
+1314,Universitas Gadjah Mada,39477,8.2,5%,33.25,,,12.5,67.5,39.6,2022
+1315,Gazi University,40657,20.0,2%,33.24,,,18.9,92.9,17.8,2022
+1316,Gaziantep University,35667,44.5,11%,33.24,,,18.3,35.4,31.1,2022
+1317,University of Gdańsk,19870,20.1,3%,33.23,,,21.5,35.3,33.4,2022
+1318,Gebze Technical University,7551,22.2,2%,33.22,,,23.7,38.5,26.5,2022
+1319,"George Emil Palade University of Medicine, Pharmacy, Science, and Technology of Targu Mures",8892,16.3,9%,33.21,,,18.6,35.0,32.5,2022
+1320,German University in Cairo,13081,13.9,1%,33.2,,,31.0,34.8,44.2,2022
+1321,Gheorghe Asachi Technical University of Iaşi,13442,20.9,7%,33.19,,,14.2,35.6,27.2,2022
+1322,Gifu University,7189,7.5,4%,33.18,,,17.2,39.6,25.2,2022
+1323,GITAM University,20945,13.4,1%,33.17,,,11.7,35.5,19.8,2022
+1324,Government College University Lahore,10715,18.2,1%,33.17,,,16.9,35.1,41.4,2022
+1325,Grand Valley State University,21482,15.5,1%,33.16,,,19.9,34.8,28.8,2022
+1326,Grigore T. Popa University of Medicine and Pharmacy,9568,11.1,26%,33.15,,,16.7,35.1,41.9,2022
+1327,University of Guadalajara,130243,58.0,0%,33.14,,,9.9,34.8,28.0,2022
+1328,University of Guanajuato,27818,19.8,3%,33.13,,,8.6,36.6,33.9,2022
+1329,Gunma University,6288,7.6,4%,33.12,,,18.0,39.1,21.7,2022
+1330,Gyeongsang National University,13502,13.1,4%,33.11,,,18.2,39.8,27.5,2022
+1331,Hakim Sabzevari University,7835,19.6,3%,33.11,,,32.4,35.7,30.1,2022
+1332,Hallym University,8663,10.3,5%,33.1,,,18.0,44.3,22.3,2022
+1333,Hanoi University of Science and Technology,32222,27.9,1%,33.09,,,20.4,43.3,42.4,2022
+1334,Hasanuddin University,31558,15.5,1%,33.08,,,29.5,44.3,26.4,2022
+1335,The Hashemite University,16987,28.4,6%,33.07,,,17.4,44.8,53.4,2022
+1336,Université Hassan 1er,42623,58.3,3%,33.06,,,11.4,34.8,25.7,2022
+1337,Université Hassan II de Casablanca,122959,36.3,2%,33.05,,,29.0,36.7,24.9,2022
+1338,University of Havana,15157,8.9,5%,33.04,,,8.4,40.2,51.7,2022
+1339,Hellenic Open University,20256,7.1,1%,33.04,,,35.1,34.8,26.6,2022
+1340,Helwan University,122967,18.8,2%,33.03,,,26.5,35.2,40.5,2022
+1341,Hosei University,30662,40.9,3%,33.02,,,18.6,36.4,29.1,2022
+1342,University of Hradec Králové,6344,12.2,2%,33.01,,,20.2,36.7,45.7,2022
+1343,Hungarian University of Agriculture and Life Sciences,11524,11.9,14%,33.0,,,16.6,37.3,51.1,2022
+1344,University of Hyogo,6544,12.7,3%,32.99,,,5.5,42.6,20.3,2022
+1345,Ibaraki University,7916,14.4,3%,32.99,,,6.7,40.9,24.5,2022
+1346,Ilia State University,16866,11.3,2%,32.98,,,34.6,34.9,48.4,2022
+1347,University of Ilorin,56941,37.9,0%,32.97,,,16.5,34.8,31.3,2022
+1348,Universidad Industrial de Santander (UIS),20968,13.5,1%,32.96,,,23.0,35.6,35.5,2022
+1349,Instituto Politécnico Nacional (IPN),120639,11.3,0%,32.95,,,13.6,40.7,25.0,2022
+1350,IPB University,22499,7.7,3%,32.94,,,14.6,56.9,42.6,2022
+1351,I-Shou University,12229,28.6,16%,32.93,,,12.4,48.2,41.2,2022
+1352,Istanbul Medipol University,21056,19.0,6%,32.93,,,17.9,36.2,27.6,2022
+1353,Ivane Javakhishvili Tbilisi State University,21081,26.3,3%,32.92,,,4.8,35.2,44.1,2022
+1354,Ivan Franko National University of Lviv,18895,10.3,1%,32.91,,,7.5,35.3,31.8,2022
+1355,Iwate University,5382,13.6,3%,32.9,,,8.3,37.2,24.5,2022
+1356,Izmir Institute of Technology,5342,18.9,3%,32.89,,,19.2,39.8,28.9,2022
+1357,Jan Evangelista Purkyně University,7394,17.8,3%,32.88,,,15.1,37.6,36.2,2022
+1358,Jawaharlal Nehru Technological University Anantapur (JNTUA),5811,16.7,0%,32.87,,,25.1,35.3,15.5,2022
+1359,Jean Moulin University – Lyon 3,29617,41.9,21%,32.87,,,7.4,35.4,54.8,2022
+1360,Jeju National University,12015,18.9,6%,32.86,,,19.2,37.1,23.4,2022
+1361,Kagawa University,6366,9.5,2%,32.85,,,25.7,40.8,29.2,2022
+1362,Kagoshima University,10477,10.0,2%,32.84,,,15.9,41.9,24.7,2022
+1363,Kanagawa University,18137,15.3,4%,32.83,,,9.7,35.5,29.4,2022
+1364,Kanazawa Medical University,1141,2.3,2%,32.82,,,21.5,36.2,20.5,2022
+1365,Kangwon National University,22420,22.3,3%,32.82,,,18.5,37.9,22.9,2022
+1366,Kansai University,30635,11.4,3%,32.81,,,6.4,36.0,26.8,2022
+1367,University of Karachi,43770,50.7,0%,32.8,,,6.8,34.9,37.0,2022
+1368,Karadeniz Technical University,38630,18.3,4%,32.79,,,22.9,34.8,18.5,2022
+1369,Kasetsart University,67633,19.4,1%,32.78,,,12.4,43.5,34.1,2022
+1370,Kaunas University of Technology,9060,14.7,8%,32.77,,,15.2,41.3,41.9,2022
+1371,Kharazmi University,12118,15.4,2%,32.77,,,19.9,36.0,20.8,2022
+1372,Khon Kaen University,35729,19.4,2%,32.76,,,18.7,54.5,31.7,2022
+1373,King Mongkut’s Institute of Technology Ladkrabang,23619,22.0,1%,32.75,,,6.6,87.9,23.2,2022
+1374,King Mongkut's University of Technology North Bangkok,27685,24.6,0%,32.74,,,22.0,39.7,21.7,2022
+1375,Kitasato University,8604,5.3,1%,32.73,,,19.5,40.0,17.4,2022
+1376,Kocaeli University,71135,49.1,2%,32.72,,,8.8,37.7,20.2,2022
+1377,Kochi University,5439,8.1,1%,32.72,,,20.0,39.9,24.4,2022
+1378,Kochi University of Technology,2579,20.3,2%,32.71,,,15.9,40.8,31.8,2022
+1379,Kogakuin University,6218,17.6,1%,32.7,,,14.4,41.5,19.7,2022
+1380,Kookmin University,17796,13.4,11%,32.69,,,15.4,38.3,32.3,2022
+1381,Universiti Kuala Lumpur,15715,12.2,3%,32.68,,,26.1,38.2,36.2,2022
+1382,Kunming University of Science and Technology,44330,18.4,2%,32.67,,,14.4,41.9,17.7,2022
+1383,Kwansei Gakuin University,25641,24.9,3%,32.67,,,21.3,35.5,34.3,2022
+1384,Kyoto Sangyo University,11804,20.8,2%,32.66,,,19.9,34.8,38.5,2022
+1385,Kyoto Institute of Technology,3970,13.4,5%,32.65,,,7.1,43.4,26.9,2022
+1386,Kyushu Institute of Technology (Kyutech),5649,16.2,5%,32.64,,,24.1,51.9,33.9,2022
+1387,Latvia University of Life Sciences and Technologies,3845,23.1,3%,32.63,,,4.9,37.0,22.8,2022
+1388,University of Lethbridge,6989,12.7,11%,32.62,,,19.8,34.8,55.3,2022
+1389,L.N. Gumilyov Eurasian National University,19357,17.4,4%,32.62,,,22.6,34.8,55.2,2022
+1390,University of Łódź,23428,17.4,10%,32.61,,,13.3,35.2,32.3,2022
+1391,Lodz University of Technology,13817,18.3,4%,32.6,,,20.9,42.4,25.8,2022
+1392,Londrina State University,24047,13.8,1%,32.59,,,15.3,53.1,20.1,2022
+1393,Lucian Blaga University of Sibiu,12174,15.8,2%,32.58,,,12.3,35.3,18.4,2022
+1394,University of Lucknow,16419,36.9,0%,32.57,,,14.0,35.5,16.9,2022
+1395,"Lumière University, Lyon 2",25550,49.7,17%,32.57,,,10.4,35.1,58.2,2022
+1396,Mackenzie Presbyterian University,28426,28.3,0%,32.56,,,13.9,44.0,21.8,2022
+1397,Maharaja Sayajirao University of Baroda,28314,47.9,0%,32.55,,,13.3,37.4,16.0,2022
+1398,Mahasarakham University,41162,32.7,1%,32.54,,,7.4,35.3,24.4,2022
+1399,Universiti Malaysia Sarawak (UNIMAS),14365,18.3,8%,32.53,,,13.5,35.8,48.7,2022
+1400,Maria Curie-Skłodowska University (UMCS),19059,13.1,9%,32.53,,,11.7,35.1,28.9,2022
+1401,Marmara University,70356,35.3,4%,32.52,,,22.3,36.6,25.0,2022
+1402,University of Marrakech Cadi Ayyad,105895,45.0,1%,32.51,,,25.7,35.9,39.7,2022
+1403,Matej Bel University,6712,14.7,7%,32.5,,,13.5,36.8,44.5,2022
+1404,Meiji University,33357,11.7,5%,32.49,,,7.8,36.6,28.3,2022
+1405,Meijo University,15374,31.3,1%,32.48,,,12.7,37.1,26.0,2022
+1406,Mendel University in Brno,8413,16.2,19%,32.48,,,11.9,36.6,49.1,2022
+1407,M’Hamed Bougara University of Boumerdès,32159,21.8,1%,32.47,,,16.1,34.8,30.5,2022
+1408,Universidad Michoacana de San Nicolás de Hidalgo,40012,27.9,1%,32.46,,,7.7,35.6,27.8,2022
+1409,Mie University,7237,8.4,4%,32.45,,,18.2,40.6,23.5,2022
+1410,Ming Chi University of Technology,4496,18.5,2%,32.44,,,25.8,49.5,22.8,2022
+1411,Ming Chuan University,18254,22.2,11%,32.44,,,13.4,35.3,32.8,2022
+1412,University of Miskolc,9069,16.3,4%,32.43,,,7.5,37.4,30.1,2022
+1413,University of Miyazaki,5444,7.4,3%,32.42,,,19.7,37.0,24.4,2022
+1414,University Mohamed Boudiaf of M’Sila,35290,23.9,0%,32.41,,,8.1,35.7,30.1,2022
+1415,Mohammed V University of Rabat,81649,39.9,3%,32.4,,,18.8,43.6,26.7,2022
+1416,University of Monastir,18762,9.4,2%,32.4,,,17.5,34.8,44.4,2022
+1417,University of Montenegro,17014,24.1,2%,32.39,,,14.2,34.9,45.0,2022
+1418,Multimedia University,8586,10.7,9%,32.38,,,24.2,38.9,37.2,2022
+1419,Muroran Institute of Technology,3381,19.7,5%,32.37,,,30.5,39.3,32.8,2022
+1420,Mustansiriyah University,39567,8.4,0%,32.36,,,18.7,34.9,20.4,2022
+1421,University of Mysore,7890,21.9,10%,32.35,,,12.9,35.2,33.1,2022
+1422,Universidad Nacional del Litoral,45337,32.8,0%,32.35,,,15.8,36.7,27.8,2022
+1423,Universidad Nacional Mayor de San Marcos,35437,22.8,1%,32.34,,,4.0,34.8,39.5,2022
+1424,Nagaoka University of Technology,2271,11.0,13%,32.33,,,10.4,45.5,35.5,2022
+1425,Nagoya City University,4471,7.4,2%,32.32,,,21.9,44.6,20.2,2022
+1426,Nagoya Institute of Technology,5735,16.4,4%,32.31,,,9.2,47.0,25.2,2022
+1427,Nara Medical University,1278,3.3,0%,32.31,,,22.3,46.4,16.3,2022
+1428,Naresuan University,19284,13.0,1%,32.3,,,14.1,35.9,34.0,2022
+1429,National Changhua University of Education,8385,23.2,10%,32.29,,,8.7,37.9,30.0,2022
+1430,National Chiayi University,12094,24.2,3%,32.28,,,12.1,65.0,18.8,2022
+1431,National Chi Nan University,5896,14.9,11%,32.27,,,5.9,49.0,30.3,2022
+1432,National Chin-Yi University of Technology,7342,24.5,5%,32.27,,,8.6,46.9,21.0,2022
+1433,National Chung Cheng University,11320,19.9,5%,32.26,,,12.8,46.3,23.6,2022
+1434,National Chung Hsing University,15043,16.3,6%,32.25,,,17.9,51.2,29.1,2022
+1435,National University of Córdoba,120292,18.7,2%,32.24,,,22.7,35.6,34.9,2022
+1436,National University of Cuyo,38389,7.7,3%,32.23,,,25.7,34.9,40.2,2022
+1437,National Ilan University,5419,23.2,3%,32.23,,,15.5,35.6,31.7,2022
+1438,National University of Kaohsiung,5663,23.8,4%,32.22,,,5.8,38.8,27.9,2022
+1439,National University of the South,28364,9.7,1%,32.21,,,7.6,34.8,28.6,2022
+1440,National Taipei University,8349,16.3,5%,32.2,,,24.9,36.1,28.0,2022
+1441,National Taiwan Ocean University,8838,21.2,8%,32.19,,,16.8,62.2,31.4,2022
+1442,National Technical University Kharkiv Polytechnic Institute,11403,8.0,10%,32.19,,,10.1,36.1,26.7,2022
+1443,National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,21170,8.0,3%,32.18,,,12.1,35.7,20.7,2022
+1444,National United University,7457,20.5,2%,32.17,,,15.0,39.8,18.8,2022
+1445,Necmettin Erbakan University,20399,9.9,4%,32.16,,,17.7,35.0,18.7,2022
+1446,University of Nigeria Nsukka,36223,12.2,1%,32.15,,,28.3,35.6,29.0,2022
+1447,Slovak University of Agriculture in Nitra,5326,12.7,3%,32.15,,,15.4,36.3,44.5,2022
+1448,University of North Carolina Wilmington,15498,19.5,2%,32.14,,,33.7,35.2,28.5,2022
+1449,"University of the North, Colombia",14690,19.5,2%,32.13,,,19.6,38.4,52.2,2022
+1450,Universidade Nove de Julho (Uninove),84156,21.1,1%,32.12,,,9.8,35.3,20.9,2022
+1451,University of Novi Sad,48529,16.3,2%,32.12,,,16.5,42.0,34.1,2022
+1452,Obafemi Awolowo University,32830,24.8,0%,32.11,,,18.4,34.8,33.2,2022
+1453,Ochanomizu University,2778,15.1,5%,32.1,,,11.1,38.0,24.7,2022
+1454,Oita University,5596,8.8,2%,32.09,,,19.8,39.6,18.9,2022
+1455,Oles Honchar Dnipro National University,9522,12.1,1%,32.08,,,9.4,35.1,21.5,2022
+1456,Ondokuz Mayis University,52874,25.3,10%,32.08,,,11.4,37.0,27.3,2022
+1457,University of Oradea,15088,17.2,7%,32.07,,,9.3,35.0,30.3,2022
+1458,Osaka City University,8141,8.4,3%,32.06,,,25.5,43.9,24.0,2022
+1459,Osaka Institute of Technology,7158,26.1,1%,32.05,,,19.1,36.9,21.4,2022
+1460,Osaka Medical College,1223,2.7,0%,32.04,,,14.3,37.3,16.2,2022
+1461,Osaka Prefecture University,7724,12.0,4%,32.04,,,14.3,45.2,22.6,2022
+1462,University of Ostrava,8570,16.8,10%,32.03,,,18.6,34.9,43.4,2022
+1463,Universitas Padjadjaran,37497,14.0,2%,32.02,,,15.2,39.5,26.7,2022
+1464,University of Pannonia,5890,16.9,9%,32.01,,,20.9,36.0,44.0,2022
+1465,University of Pardubice,7329,13.6,8%,32.01,,,6.6,35.9,33.7,2022
+1466,Paris Nanterre University,34252,37.1,17%,32.0,,,13.2,35.0,53.7,2022
+1467,University of Passo Fundo (UPF),12991,24.2,0%,31.99,,,21.0,34.8,22.2,2022
+1468,University of Pau and Pays de l’Adour,13620,15.1,15%,31.98,,,23.4,41.6,70.1,2022
+1469,University of Pernambuco,18556,17.2,0%,31.97,,,22.6,35.0,24.2,2022
+1470,Persian Gulf University,6689,29.3,1%,31.97,,,29.3,36.3,22.0,2022
+1471,PMAS Arid Agriculture University Rawalpindi,10924,43.7,0%,31.96,,,27.6,34.8,41.2,2022
+1472,Universidad Politécnica Salesiana,24420,28.2,1%,31.95,,,16.4,34.8,48.8,2022
+1473,Polytechnic University of Bucharest,29970,23.8,3%,31.94,,,11.5,35.3,22.2,2022
+1474,Polytechnic University of Timişoara,12715,20.2,2%,31.93,,,17.5,36.2,20.3,2022
+1475,Pontifical Catholic University of Minas Gerais,39904,31.2,1%,31.93,,,6.8,35.2,21.1,2022
+1476,Universidad Pontificia Bolivariana (UPB),12539,11.5,2%,31.92,,,7.3,38.5,36.4,2022
+1477,Port Said University,22163,24.9,0%,31.91,,,32.5,34.8,41.8,2022
+1478,Poznan University of Technology,15506,12.1,4%,31.9,,,29.0,39.9,21.5,2022
+1479,Prince of Songkla University,35735,14.3,2%,31.9,,,15.7,39.1,31.8,2022
+1480,PSG College of Technology,8734,14.3,0%,31.89,,,23.6,35.4,14.6,2022
+1481,Purdue University Northwest,8518,15.1,6%,31.88,,,23.9,34.8,34.6,2022
+1482,Qassim University,48543,11.7,5%,31.87,,,24.8,36.1,75.3,2022
+1483,Razi University,11711,25.6,2%,31.87,,,30.3,35.4,19.3,2022
+1484,Recep Tayyip Erdoğan University,13054,20.7,3%,31.86,,,10.0,34.9,18.4,2022
+1485,University of Rijeka,14423,17.3,1%,31.85,,,15.8,35.0,29.9,2022
+1486,Ritsumeikan University,34870,17.6,8%,31.84,,,17.1,37.2,37.7,2022
+1487,Ryukoku University,15907,27.7,2%,31.83,,,12.7,35.6,24.0,2022
+1488,University of the Ryukyus,7593,9.8,2%,31.83,,,15.2,43.9,31.2,2022
+1489,Rzeszów University of Technology,12417,14.7,1%,31.82,,,23.0,37.1,20.4,2022
+1490,University of La Sabana,11860,16.8,4%,31.81,,,7.6,36.7,42.5,2022
+1491,Saga University,6656,9.7,3%,31.8,,,18.2,48.4,23.5,2022
+1492,Saitama University,8453,15.1,6%,31.8,,,17.7,37.1,34.6,2022
+1493,Sakarya University,42557,27.0,6%,31.79,,,30.4,40.7,22.2,2022
+1494,San Sebastián University,19698,10.3,0%,31.78,,,8.8,34.8,43.6,2022
+1495,"University of Santiago, Chile (USACH)",25051,25.2,3%,31.77,,,12.7,37.2,47.0,2022
+1496,Sapporo Medical University,1281,3.2,0%,31.77,,,23.7,41.9,15.6,2022
+1497,Satbayev University,9558,14.6,2%,31.76,,,5.8,41.8,42.6,2022
+1498,Sathyabama Institute of Science and Technology,13024,12.3,2%,31.75,,,19.7,35.3,17.1,2022
+1499,University of Science and Technology of Oran Mohamed-Boudiaf,20966,12.5,1%,31.74,,,7.2,34.9,35.2,2022
+1500,Universitas Sebelas Maret,27681,18.7,1%,31.73,,,24.4,38.3,25.0,2022
+1501,Selçuk University,47190,18.1,4%,31.73,,,28.8,34.9,24.1,2022
+1502,Semnan University of Medical Sciences and Health Services,3139,9.0,6%,31.72,,,17.5,34.8,23.3,2022
+1503,Seoul National University of Science and Technology (SeoulTech),11495,19.5,8%,31.71,,,17.6,40.2,26.1,2022
+1504,University of Sfax,29452,12.6,2%,31.7,,,20.4,34.8,41.9,2022
+1505,Shahed University,5630,17.1,0%,31.7,,,15.7,34.8,15.3,2022
+1506,Shahid Bahonar University of Kerman,14423,22.0,0%,31.69,,,24.3,39.5,19.6,2022
+1507,Shahid Rajaee Teacher Training University,10247,47.7,0%,31.68,,,29.7,51.2,22.5,2022
+1508,University of Shanghai for Science and Technology,29817,11.4,2%,31.67,,,23.6,42.6,18.8,2022
+1509,Shibaura Institute of Technology,9041,28.0,6%,31.67,,,11.4,41.4,36.0,2022
+1510,Shimane University,6096,7.5,2%,31.66,,,18.5,37.9,24.2,2022
+1511,Shinshu University,10774,10.4,4%,31.65,,,25.8,41.9,26.8,2022
+1512,Shizuoka University,9960,14.3,4%,31.64,,,13.3,41.2,31.6,2022
+1513,University of Shizuoka,3100,11.5,3%,31.64,,,11.5,37.9,21.3,2022
+1514,Showa University,3690,1.9,0%,31.63,,,28.1,36.1,16.9,2022
+1515,Siksha ‘O’ Anusandhan,13738,9.9,1%,31.62,,,26.1,39.4,14.8,2022
+1516,Silesian University of Technology,18585,18.3,3%,31.61,,,21.8,41.4,19.7,2022
+1517,Silpakorn University,24465,22.2,1%,31.61,,,15.6,46.6,25.2,2022
+1518,University of Sistan and Baluchestan,10440,23.3,1%,31.6,,,14.3,35.9,17.5,2022
+1519,Sivas Cumhuriyet University,21059,16.9,2%,31.59,,,14.1,34.9,17.8,2022
+1520,Slovak University of Technology in Bratislava,10976,9.6,4%,31.58,,,8.1,38.3,30.0,2022
+1521,Sofia University,21332,6.2,7%,31.58,,,12.1,35.8,40.1,2022
+1522,University of Sonora,32790,23.8,1%,31.57,,,9.5,34.9,27.8,2022
+1523,Soonchunhyang University,11627,18.0,4%,31.56,,,23.8,36.1,27.8,2022
+1524,Soongsil University,16211,19.7,11%,31.55,,,12.3,36.5,31.7,2022
+1525,Sophia University,13517,11.6,12%,31.54,,,10.3,35.4,44.1,2022
+1526,University of Sousse,25385,11.5,2%,31.54,,,17.3,34.8,38.5,2022
+1527,University of South China,26710,7.4,2%,31.53,,,20.5,44.1,18.1,2022
+1528,Southwest Petroleum University,29397,15.7,2%,31.52,,,25.7,69.7,17.7,2022
+1529,Srinakharinwirot University,25349,19.2,0%,31.51,,,7.9,35.0,19.6,2022
+1530,SRM Institute of Science and Technology,52713,15.8,2%,31.51,,,28.1,34.9,20.7,2022
+1531,State University of Ponta Grossa,8576,9.1,0%,31.5,,,24.0,34.8,22.4,2022
+1532,State University of Santa Cruz,6622,8.5,1%,31.49,,,13.9,35.2,27.3,2022
+1533,Süleyman Demirel University,41272,35.7,5%,31.48,,,17.1,35.3,21.6,2022
+1534,Suranaree University of Technology,14247,29.3,1%,31.48,,,21.3,57.3,31.2,2022
+1535,Taif University,44494,20.7,2%,31.47,,,25.8,36.5,71.8,2022
+1536,University of Talca,11367,15.4,1%,31.46,,,25.5,36.0,52.9,2022
+1537,Tamil Nadu Agricultural University,6370,8.4,0%,31.46,,,2.1,40.9,14.9,2022
+1538,Tamkang University,23154,23.5,8%,31.45,,,17.5,35.7,35.6,2022
+1539,University of Tarapacá,9460,31.7,3%,31.44,,,17.8,34.9,51.4,2022
+1540,Taras Shevchenko National University of Kyiv,23708,10.2,5%,31.43,,,8.3,35.4,31.3,2022
+1541,Technical University of Cluj-Napoca,18618,20.3,2%,31.43,,,21.6,37.3,23.2,2022
+1542,Technical University of Košice,9325,12.3,18%,31.42,,,13.1,46.4,41.2,2022
+1543,Technical University of Liberec,5129,11.5,12%,31.41,,,6.1,41.9,40.5,2022
+1544,Technical University of Loja,55781,36.9,1%,31.4,,,13.1,35.0,47.4,2022
+1545,Technical University of Sofia,10560,13.1,7%,31.4,,,8.4,37.3,24.9,2022
+1546,Universidade Tecnológica Federal do Paraná (UTFPR),33994,13.1,1%,31.39,,,13.9,36.7,20.4,2022
+1547,Universiti Teknikal Malaysia Melaka,12869,14.6,6%,31.38,,,16.4,35.2,34.4,2022
+1548,Universiti Teknologi MARA,55792,14.7,0%,31.37,,,12.3,35.2,19.6,2022
+1549,Institut Teknologi Sepuluh Nopember,17028,12.8,4%,31.37,,,16.5,61.4,38.4,2022
+1550,Telkom University,18377,20.1,1%,31.36,,,31.0,35.3,15.9,2022
+1551,Thammasat University,28843,11.7,1%,31.35,,,11.5,39.2,32.4,2022
+1552,TOBB University of Economics and Technology,4777,13.5,1%,31.34,,,19.2,38.3,26.4,2022
+1553,Toho University,5320,13.3,0%,31.34,,,24.5,41.2,18.9,2022
+1554,Tokai University,28535,15.2,3%,31.33,,,17.9,37.8,25.5,2022
+1555,Tokat Gaziosmanpaşa University,17758,13.6,4%,31.32,,,23.7,34.9,20.5,2022
+1556,Tokushima University,7643,9.6,3%,31.31,,,15.0,62.8,24.3,2022
+1557,Tokyo University of Agriculture,12720,32.7,1%,31.31,,,15.4,37.1,19.8,2022
+1558,Tokyo City University,7426,14.8,1%,31.3,,,7.1,45.6,21.7,2022
+1559,Tokyo Denki University,9877,27.6,3%,31.29,,,2.5,40.1,18.5,2022
+1560,Tokyo University of Marine Science and Technology,2637,10.4,7%,31.28,,,11.4,50.9,35.1,2022
+1561,Tokyo University of Pharmacy and Life Sciences,3867,19.3,0%,31.28,,,13.0,36.7,17.2,2022
+1562,Tokyo University of Science,18298,25.0,3%,31.27,,,13.8,46.8,23.0,2022
+1563,Tomas Bata University in Zlín,8635,19.1,11%,31.26,,,13.7,40.1,49.1,2022
+1564,Tottori University,6025,7.8,2%,31.26,,,13.5,37.8,22.2,2022
+1565,University of Toyama,9125,11.9,4%,31.25,,,25.5,47.9,28.8,2022
+1566,Toyo University,30873,24.8,5%,31.24,,,8.8,35.7,28.6,2022
+1567,Toyohashi University of Technology (TUT),2015,10.3,12%,31.23,,,14.1,55.4,32.7,2022
+1568,Transilvania University of Brașov,18985,20.4,1%,31.23,,,33.2,35.2,29.8,2022
+1569,Tunghai University,15547,21.0,15%,31.22,,,15.9,38.8,44.0,2022
+1570,Tzu Chi University,3492,9.5,11%,31.21,,,9.3,48.1,27.5,2022
+1571,Unisinos University,11598,20.8,1%,31.2,,,23.1,51.3,22.8,2022
+1572,Universiti Malaysia Terengganu (UMT),9296,16.1,4%,31.2,,,17.9,35.3,36.3,2022
+1573,Universiti Tun Hussein Onn Malaysia (UTHM),15741,17.0,5%,31.19,,,20.3,34.9,35.2,2022
+1574,Utsunomiya University,4829,14.1,4%,31.18,,,4.1,38.6,24.8,2022
+1575,University of Valladolid,22023,11.4,8%,31.18,,,25.1,38.4,39.2,2022
+1576,University of Valparaíso,17089,19.0,3%,31.17,,,19.3,35.0,49.2,2022
+1577,"University of Veterinary and Animal Sciences, Lahore",6796,32.1,0%,31.16,,,22.9,35.2,45.1,2022
+1578,Vietnam National University (Ho Chi Minh City),75358,22.7,1%,31.15,,,23.9,40.8,39.5,2022
+1579,V.N. Karazin Kharkiv National University,17080,8.5,26%,31.15,,,6.5,35.0,46.0,2022
+1580,VSB - Technical University of Ostrava,10988,14.3,12%,31.14,,,8.4,43.3,40.5,2022
+1581,Vytautas Magnus University,7328,12.5,20%,31.13,,,11.2,34.9,76.2,2022
+1582,University of Warmia and Mazury in Olsztyn,18210,17.7,2%,31.12,,,14.6,37.1,20.0,2022
+1583,Warsaw University of Life Sciences – SGGW,16738,14.1,5%,31.12,,,24.0,38.6,25.0,2022
+1584,Warsaw University of Technology,25482,18.1,7%,31.11,,,19.0,39.1,28.2,2022
+1585,Western Kentucky University,14455,18.0,3%,31.1,,,13.9,34.9,23.6,2022
+1586,Western Michigan University,18211,20.1,8%,31.1,,,22.0,35.3,36.3,2022
+1587,West University of Timişoara,14329,22.7,6%,31.09,,,12.6,35.5,30.6,2022
+1588,Wrocław University of Environmental and Life Sciences,8359,19.2,5%,31.08,,,20.0,38.6,25.1,2022
+1589,Wrocław University of Science and Technology,24396,19.7,5%,31.07,,,16.2,45.4,25.0,2022
+1590,University of Wrocław,20366,11.2,7%,31.07,,,23.5,35.0,40.3,2022
+1591,Yamagata University,8846,8.5,2%,31.06,,,15.9,52.7,25.6,2022
+1592,Yamaguchi University,10739,10.8,6%,31.05,,,14.0,42.0,29.5,2022
+1593,University of Yamanashi,4679,6.1,4%,31.04,,,27.5,37.3,23.6,2022
+1594,Yanshan University,36050,16.4,1%,31.04,,,16.7,49.8,17.0,2022
+1595,Yarmouk University,34222,30.7,8%,31.03,,,19.7,36.0,47.6,2022
+1596,Yazd University,14112,29.5,2%,31.02,,,19.8,36.2,20.6,2022
+1597,Yeditepe University,17610,29.4,4%,31.02,,,10.4,74.3,23.6,2022
+1598,Yokohama National University,9805,12.6,8%,31.01,,,13.7,52.9,30.3,2022
+1599,Yuan Ze University,8017,19.9,7%,31.0,,,19.9,47.2,33.1,2022
+1600,Yuriy Fedkovych Chernivtsi National University,11981,10.6,1%,30.99,,,4.4,34.8,23.0,2022
+1601,Zonguldak Bülent Ecevit University,28710,22.4,6%,30.99,,,20.4,37.0,20.5,2022
+1602,Université 8 Mai 1945 Guelma,16105,18.4,1%,30.98,,,nan,nan,nan,2022
+1603,University Abdelhamid Ibn Badis Mostaganem,24635,19.3,1%,30.97,,,nan,nan,nan,2022
+1604,Abdullah Gül University,1958,14.0,9%,30.97,,,nan,nan,nan,2022
+1605,Abertay University,3915,21.2,21%,30.96,,,nan,nan,nan,2022
+1606,Ada Kent University,640,7.5,21%,30.95,,,nan,nan,nan,2022
+1607,Adelphi University,7148,12.0,7%,30.94,,,nan,nan,nan,2022
+1608,African School of Economics,158,3.2,4%,30.94,,,nan,nan,nan,2022
+1609,Ahl Al Bayt University,2500,13.8,1%,30.93,,,nan,nan,nan,2022
+1610,Aichi Prefectural University,3523,16.4,1%,30.92,,,nan,nan,nan,2022
+1611,Aichi Institute of Technology,6028,27.8,1%,30.92,,,nan,nan,nan,2022
+1612,Ajman University,5003,17.2,83%,30.91,,,nan,nan,nan,2022
+1613,Akita Prefectural University,1815,8.7,1%,30.9,,,nan,nan,nan,2022
+1614,Al Ahliyya Amman University,4108,12.9,57%,30.89,,,nan,nan,nan,2022
+1615,Al Ain University,2918,15.0,55%,30.89,,,nan,nan,nan,2022
+1616,Al-Furat Al-Awsat Technical University,4510,7.8,0%,30.88,,,nan,nan,nan,2022
+1617,University of Alkafeel,3770,25.1,0%,30.87,,,nan,nan,nan,2022
+1618,Al-Maarif University College,6000,17.6,1%,30.87,,,nan,nan,nan,2022
+1619,Al-Muthanna University,13729,20.4,0%,30.86,,,nan,nan,nan,2022
+1620,Al-Nahrain University,4745,4.6,0%,30.85,,,nan,nan,nan,2022
+1621,Al-Nisour University College,5500,15.1,0%,30.84,,,nan,nan,nan,2022
+1622,University of Al-Qadisiyah,24108,17.1,0%,30.84,,,nan,nan,nan,2022
+1623,Al-Quds University,10692,13.7,6%,30.83,,,nan,nan,nan,2022
+1624,Altınbaş University,6823,13.6,43%,30.82,,,nan,nan,nan,2022
+1625,Al-Zaytoonah University of Jordan,7658,26.1,29%,30.82,,,nan,nan,nan,2022
+1626,Anáhuac University,16494,6.6,3%,30.81,,,nan,nan,nan,2022
+1627,University of Anbar,26400,16.0,0%,30.8,,,nan,nan,nan,2022
+1628,Antonio Nariño University,14698,13.4,0%,30.8,,,nan,nan,nan,2022
+1629,Applied Science Private University,5489,23.5,34%,30.79,,,nan,nan,nan,2022
+1630,Arab American University,11043,31.6,44%,30.78,,,nan,nan,nan,2022
+1631,Arabian Gulf University,1470,7.0,68%,30.77,,,nan,nan,nan,2022
+1632,Armenian State University of Economics,4420,12.4,3%,30.77,,,nan,nan,nan,2022
+1633,Arts University Bournemouth,3250,14.1,20%,30.76,,,nan,nan,nan,2022
+1634,University of the Arts London,16935,12.8,57%,30.75,,,nan,nan,nan,2022
+1635,Arturo Prat University,12963,22.1,9%,30.75,,,nan,nan,nan,2022
+1636,Asahi University,2516,8.4,5%,30.74,,,nan,nan,nan,2022
+1637,Ashikaga University,1476,17.6,16%,30.73,,,nan,nan,nan,2022
+1638,Ateneo de Manila University,12742,10.6,4%,30.73,,,nan,nan,nan,2022
+1639,Austral University,4517,9.5,9%,30.72,,,nan,nan,nan,2022
+1640,Autonomous University of Chiapas,23275,29.1,0%,30.71,,,nan,nan,nan,2022
+1641,Azerbaijan State University of Economics,16737,12.2,2%,30.7,,,nan,nan,nan,2022
+1642,University of Babylon,24196,13.0,0%,30.7,,,nan,nan,nan,2022
+1643,Badr University in Cairo (BUC),12128,47.2,1%,30.69,,,nan,nan,nan,2022
+1644,University of Bahrain,18202,18.4,16%,30.68,,,nan,nan,nan,2022
+1645,Bahria University,19451,23.9,0%,30.68,,,nan,nan,nan,2022
+1646,Bakrie University,3219,33.9,0%,30.67,,,nan,nan,nan,2022
+1647,University of Balamand,5020,8.0,5%,30.66,,,nan,nan,nan,2022
+1648,University of Balochistan,15291,34.6,0%,30.66,,,nan,nan,nan,2022
+1649,Banking University,2536,8.8,7%,30.65,,,nan,nan,nan,2022
+1650,Basrah University College of Science and Technology,1320,20.0,0%,30.64,,,nan,nan,nan,2022
+1651,Bath Spa University,6735,17.3,12%,30.63,,,nan,nan,nan,2022
+1652,Beirut Arab University,6824,12.2,18%,30.63,,,nan,nan,nan,2022
+1653,Bernardo O’Higgins University,6984,18.1,2%,30.62,,,nan,nan,nan,2022
+1654,Bharath Institute of Higher Education and Research,15328,11.5,0%,30.61,,,nan,nan,nan,2022
+1655,Birzeit University,10730,16.5,5%,30.61,,,nan,nan,nan,2022
+1656,Bishop Grosseteste University,1990,19.9,4%,30.6,,,nan,nan,nan,2022
+1657,University of Bogotá Jorge Tadeo Lozano,7646,15.5,1%,30.59,,,nan,nan,nan,2022
+1658,University of Bolton,4900,14.4,29%,30.59,,,nan,nan,nan,2022
+1659,The British University in Egypt,11131,19.3,3%,30.58,,,nan,nan,nan,2022
+1660,B. S. Abdur Rahman Crescent Institute of Science and Technology,6186,14.8,1%,30.57,,,nan,nan,nan,2022
+1661,University of Buckingham,2530,18.7,34%,30.57,,,nan,nan,nan,2022
+1662,Buckinghamshire New University,5080,16.4,28%,30.56,,,nan,nan,nan,2022
+1663,Bukkyo University,6218,27.5,1%,30.55,,,nan,nan,nan,2022
+1664,Canadian International College (CIC) – Cairo,8974,26.6,2%,30.54,,,nan,nan,nan,2022
+1665,"Capital University of Science and Technology, Islamabad",4767,23.6,0%,30.54,,,nan,nan,nan,2022
+1666,Universidad Católica de la Santísima Concepción,9760,24.5,0%,30.53,,,nan,nan,nan,2022
+1667,CBS International Business School,1668,45.1,28%,30.52,,,nan,nan,nan,2022
+1668,University of Celaya,1951,13.0,2%,30.52,,,nan,nan,nan,2022
+1669,Central European University,1297,7.6,80%,30.51,,,nan,nan,nan,2022
+1670,CES University,6199,13.5,3%,30.5,,,nan,nan,nan,2022
+1671,CETYS Universidad,4905,8.8,14%,30.5,,,nan,nan,nan,2022
+1672,Chernihiv National University of Technology,5914,20.5,0%,30.49,,,nan,nan,nan,2022
+1673,University of Chichester,4310,14.1,6%,30.48,,,nan,nan,nan,2022
+1674,Chitkara University,12853,16.7,2%,30.48,,,nan,nan,nan,2022
+1675,Christ University Bengaluru India,22357,20.1,2%,30.47,,,nan,nan,nan,2022
+1676,University of Colima,13504,9.1,0%,30.46,,,nan,nan,nan,2022
+1677,Conservatoire for Dance and Drama,1380,9.9,34%,30.46,,,nan,nan,nan,2022
+1678,University of la Costa,12023,25.7,1%,30.45,,,nan,nan,nan,2022
+1679,Courtauld Institute of Art,465,13.3,50%,30.44,,,nan,nan,nan,2022
+1680,Cranfield University,3015,7.3,68%,30.43,,,nan,nan,nan,2022
+1681,University for the Creative Arts,5120,18.3,28%,30.43,,,nan,nan,nan,2022
+1682,University of Cumbria,5350,15.3,9%,30.42,,,nan,nan,nan,2022
+1683,University of Cyberjaya,3442,18.2,11%,30.41,,,nan,nan,nan,2022
+1684,Daffodil International University (DIU),16842,21.3,3%,30.41,,,nan,nan,nan,2022
+1685,Daito Bunka University,11653,30.9,2%,30.4,,,nan,nan,nan,2022
+1686,Damanhour University,53323,47.4,0%,30.39,,,nan,nan,nan,2022
+1687,Damietta University,29883,25.2,0%,30.39,,,nan,nan,nan,2022
+1688,Daneshpajoohan Pishro Higher Education Institute,2977,45.1,1%,30.38,,,nan,nan,nan,2022
+1689,Dawood University of Engineering and Technology,2220,11.6,1%,30.37,,,nan,nan,nan,2022
+1690,Deraya University,3846,21.4,0%,30.37,,,nan,nan,nan,2022
+1691,Dhofar University,3314,19.7,5%,30.36,,,nan,nan,nan,2022
+1692,University of Diyala,23250,17.7,0%,30.35,,,nan,nan,nan,2022
+1693,Don Bosco University,2188,12.3,1%,30.35,,,nan,nan,nan,2022
+1694,Donetsk National University of Economics and Trade named after Mykhailo Tuhan-Baranovsky (DonNUET),1484,23.9,1%,30.34,,,nan,nan,nan,2022
+1695,Dow University of Health Sciences,8313,8.2,2%,30.33,,,nan,nan,nan,2022
+1696,University of Duhok,19847,11.3,1%,30.33,,,nan,nan,nan,2022
+1697,École de Psychologues Praticiens,1037,25.9,1%,30.32,,,nan,nan,nan,2022
+1698,University of Economics in Bratislava,6981,15.1,3%,30.31,,,nan,nan,nan,2022
+1699,Academy of Economic Studies of Moldova,6295,28.2,1%,30.31,,,nan,nan,nan,2022
+1700,"University of Education, Lahore",26200,29.1,0%,30.3,,,nan,nan,nan,2022
+1701,Effat University,1625,11.7,16%,30.29,,,nan,nan,nan,2022
+1702,Egypt-Japan University of Science and Technology (E-JUST),499,7.8,3%,30.29,,,nan,nan,nan,2022
+1703,ESIC,5390,15.9,12%,30.28,,,nan,nan,nan,2022
+1704,Universidade do Estado do Amazonas,16879,15.7,0%,30.27,,,nan,nan,nan,2022
+1705,Universidade Estadual do Maranhão,17984,14.3,0%,30.27,,,nan,nan,nan,2022
+1706,Estonian Academy of Arts,1210,7.1,8%,30.26,,,nan,nan,nan,2022
+1707,Externado University of Colombia,12750,9.3,2%,30.25,,,nan,nan,nan,2022
+1708,University of Faisalabad,6748,21.0,2%,30.25,,,nan,nan,nan,2022
+1709,University of Fallujah,5766,29.4,0%,30.24,,,nan,nan,nan,2022
+1710,Falmouth University,5145,20.2,15%,30.23,,,nan,nan,nan,2022
+1711,Federal University of Alagoas,25425,15.6,%,30.23,,,nan,nan,nan,2022
+1712,Federal University of Paraí­ba (UFPB),30385,12.3,0%,30.22,,,nan,nan,nan,2022
+1713,Finis Terrae University,9683,8.2,2%,30.21,,,nan,nan,nan,2022
+1714,University of Franca,51473,137.3,0%,30.21,,,nan,nan,nan,2022
+1715,Fukushima University,3324,8.6,2%,30.2,,,nan,nan,nan,2022
+1716,Full Sail University,24451,40.9,3%,30.19,,,nan,nan,nan,2022
+1717,Future University in Egypt,9097,11.5,9%,30.19,,,nan,nan,nan,2022
+1718,Ghulam Ishaq Khan Institute of Engineering Sciences and Technology,2024,20.0,0%,30.18,,,nan,nan,nan,2022
+1719,Glasgow School of Art,2220,15.9,44%,30.17,,,nan,nan,nan,2022
+1720,University of Gloucestershire,6955,17.6,10%,30.17,,,nan,nan,nan,2022
+1721,Gomal University,9199,25.6,1%,30.16,,,nan,nan,nan,2022
+1722,Government College Women University Faisalabad,14633,61.2,0%,30.15,,,nan,nan,nan,2022
+1723,"Government College Women University, Sialkot",8094,49.4,0%,30.15,,,nan,nan,nan,2022
+1724,"The Graduate University for Advanced Studies, SOKENDAI",491,0.4,32%,30.14,,,nan,nan,nan,2022
+1725,Guildhall School of Music and Drama,1000,5.3,34%,30.13,,,nan,nan,nan,2022
+1726,Hagoromo University of International Studies,1121,23.9,21%,30.13,,,nan,nan,nan,2022
+1727,Hakuoh University,5159,41.9,0%,30.12,,,nan,nan,nan,2022
+1728,Häme University of Applied Sciences,6336,24.2,7%,30.11,,,nan,nan,nan,2022
+1729,Harper Adams University,2220,14.3,9%,30.11,,,nan,nan,nan,2022
+1730,Hawler Medical University,4015,6.9,2%,30.1,,,nan,nan,nan,2022
+1731,Health Sciences University of Hokkaido,3424,9.1,1%,30.09,,,nan,nan,nan,2022
+1732,"University of Health Sciences, Turkey",17322,7.4,4%,30.09,,,nan,nan,nan,2022
+1733,University of the Highlands and Islands,7140,142.8,12%,30.08,,,nan,nan,nan,2022
+1734,Hindustan Institute of Technology and Science,6174,16.1,0%,30.07,,,nan,nan,nan,2022
+1735,Hiroshima International University,3765,14.3,0%,30.07,,,nan,nan,nan,2022
+1736,Hiroshima Shudo University,4777,16.8,0%,30.06,,,nan,nan,nan,2022
+1737,Hiroshima Institute of Technology,4627,24.7,0%,30.05,,,nan,nan,nan,2022
+1738,Hitotsubashi University,6215,17.3,15%,30.05,,,nan,nan,nan,2022
+1739,Hokkaido University of Science,4529,19.8,0%,30.04,,,nan,nan,nan,2022
+1740,University of Human Development,2734,16.4,3%,30.03,,,nan,nan,nan,2022
+1741,Humanitas University,1038,13.7,19%,30.03,,,nan,nan,nan,2022
+1742,Humboldt State University,6658,16.7,1%,30.02,,,nan,nan,nan,2022
+1743,Hyogo University of Teacher Education,1193,7.6,2%,30.01,,,nan,nan,nan,2022
+1744,Icesi University,6486,8.2,2%,30.01,,,nan,nan,nan,2022
+1745,"The ICFAI University, Jharkhand",599,16.6,0%,30.0,,,nan,nan,nan,2022
+1746,IFHE Hyderabad,7140,22.0,0%,29.99,,,nan,nan,nan,2022
+1747,Ilam University of Medical Sciences,2502,12.6,3%,29.99,,,nan,nan,nan,2022
+1748,Ilma University,3727,20.6,0%,29.98,,,nan,nan,nan,2022
+1749,Imam Ja’afar Al-Sadiq University,11690,46.0,0%,29.97,,,nan,nan,nan,2022
+1750,Indira Gandhi Delhi Technical University for Women,2155,30.4,0%,29.97,,,nan,nan,nan,2022
+1751,Institute of Cancer Research,195,3.0,33%,29.96,,,nan,nan,nan,2022
+1752,Institute of Telecommunications and Informatics of Turkmenistan,2868,9.8,0%,29.95,,,nan,nan,nan,2022
+1753,International Christian University,2941,13.3,13%,29.95,,,nan,nan,nan,2022
+1754,Ion Mincu University of Architecture and Urbanism,2897,11.9,11%,29.94,,,nan,nan,nan,2022
+1755,Israel Technological University,2745,40.4,0%,29.93,,,nan,nan,nan,2022
+1756,Istanbul Aydın University,26421,27.4,12%,29.93,,,nan,nan,nan,2022
+1757,Istanbul Bilgi University,11904,15.9,8%,29.92,,,nan,nan,nan,2022
+1758,Ivano Frankivsk National Technical University of Oil and Gas,6078,9.8,4%,29.91,,,nan,nan,nan,2022
+1759,Jabir ibn Hayyan Medical University,1167,13.7,0%,29.91,,,nan,nan,nan,2022
+1760,Japan University of Economics,4916,26.4,70%,29.9,,,nan,nan,nan,2022
+1761,University of Jijel,25634,24.7,0%,29.9,,,nan,nan,nan,2022
+1762,Jinnah Sindh Medical University,3233,11.5,3%,29.89,,,nan,nan,nan,2022
+1763,Jouf University,22683,9.6,3%,29.88,,,nan,nan,nan,2022
+1764,Kadir Has University,4982,28.1,4%,29.88,,,nan,nan,nan,2022
+1765,Kamianets-Podіlskyi Ivan Ohiienko National University,3134,7.9,0%,29.87,,,nan,nan,nan,2022
+1766,Kastamonu University,18867,48.9,16%,29.86,,,nan,nan,nan,2022
+1767,Kathmandu University,4204,10.7,4%,29.86,,,nan,nan,nan,2022
+1768,Kazakh National Pedagogical University Abai,10434,9.2,4%,29.85,,,nan,nan,nan,2022
+1769,Keisen University,901,22.5,4%,29.84,,,nan,nan,nan,2022
+1770,Kenyatta University,42275,33.3,5%,29.84,,,nan,nan,nan,2022
+1771,University of Kerala,2642,13.1,1%,29.83,,,nan,nan,nan,2022
+1772,University of Kerbala,23317,18.9,0%,29.82,,,nan,nan,nan,2022
+1773,Kermanshah University of Technology,2258,13.7,0%,29.82,,,nan,nan,nan,2022
+1774,Khazar University,2224,9.9,8%,29.81,,,nan,nan,nan,2022
+1775,Khwaja Fareed University of Engineering and Information Technology,12540,16.6,0%,29.8,,,nan,nan,nan,2022
+1776,King Edward Medical University,3171,9.8,3%,29.8,,,nan,nan,nan,2022
+1777,University of Kirkuk,22827,25.3,0%,29.79,,,nan,nan,nan,2022
+1778,Kitami Institute of Technology,2008,14.4,5%,29.78,,,nan,nan,nan,2022
+1779,Kobe Gakuin University,11501,34.0,1%,29.78,,,nan,nan,nan,2022
+1780,Kobe International University,1718,31.8,29%,29.77,,,nan,nan,nan,2022
+1781,Kokugakuin University,10298,43.6,1%,29.77,,,nan,nan,nan,2022
+1782,Komazawa University,15521,18.8,2%,29.76,,,nan,nan,nan,2022
+1783,Konan University,9065,10.1,1%,29.75,,,nan,nan,nan,2022
+1784,Konan Women’s University,4225,24.0,1%,29.75,,,nan,nan,nan,2022
+1785,Konya Technical University,14015,34.4,4%,29.74,,,nan,nan,nan,2022
+1786,Korea Aerospace University,4442,18.4,2%,29.73,,,nan,nan,nan,2022
+1787,University of Kufa,28179,12.4,0%,29.73,,,nan,nan,nan,2022
+1788,Kütahya Health Sciences University,2443,7.5,0%,29.72,,,nan,nan,nan,2022
+1789,Kyiv National Economic University,10585,9.4,2%,29.71,,,nan,nan,nan,2022
+1790,Kyoai Gakuen University,1124,19.7,5%,29.71,,,nan,nan,nan,2022
+1791,Kyoto Notre Dame University,1209,11.6,3%,29.7,,,nan,nan,nan,2022
+1792,Kyoto Prefectural University,2090,14.2,1%,29.69,,,nan,nan,nan,2022
+1793,Lagos State University,26266,37.0,0%,29.69,,,nan,nan,nan,2022
+1794,La Salle University,11344,21.2,1%,29.68,,,nan,nan,nan,2022
+1795,University of Las Américas (UDLA),12033,13.3,1%,29.68,,,nan,nan,nan,2022
+1796,Leeds Arts University,1770,14.2,12%,29.67,,,nan,nan,nan,2022
+1797,Leeds Trinity University,3055,21.8,7%,29.66,,,nan,nan,nan,2022
+1798,Lesya Ukrainka Volyn National University,8454,11.9,0%,29.66,,,nan,nan,nan,2022
+1799,Lincoln University College,5737,15.5,49%,29.65,,,nan,nan,nan,2022
+1800,Liverpool Hope University,4385,15.9,13%,29.64,,,nan,nan,nan,2022
+1801,Liverpool Institute for Performing Arts,800,16.0,24%,29.64,,,nan,nan,nan,2022
+1802,The LNM Institute of Information Technology,1904,20.9,0%,29.63,,,nan,nan,nan,2022
+1803,London Business School,1780,15.5,91%,29.62,,,nan,nan,nan,2022
+1804,London Metropolitan University,7540,20.7,42%,29.62,,,nan,nan,nan,2022
+1805,London School of Hygiene and Tropical Medicine,855,1.8,61%,29.61,,,nan,nan,nan,2022
+1806,University of Los Lagos,5249,16.9,0%,29.61,,,nan,nan,nan,2022
+1807,Lusophone University of Humanities and Technologies,5717,10.2,24%,29.6,,,nan,nan,nan,2022
+1808,University of Macerata (UNIMC),10346,22.4,4%,29.59,,,nan,nan,nan,2022
+1809,Universiti Malaysia Kelantan,6596,18.0,1%,29.59,,,nan,nan,nan,2022
+1810,Management Development Institute (MDI),898,12.5,0%,29.58,,,nan,nan,nan,2022
+1811,Management & Science University (MSU),9196,10.1,18%,29.57,,,nan,nan,nan,2022
+1812,University of Management and Technology,22503,23.7,0%,29.57,,,nan,nan,nan,2022
+1813,Maritime University of Szczecin,2593,24.6,12%,29.56,,,nan,nan,nan,2022
+1814,Universidad Mayor,20649,9.7,2%,29.56,,,nan,nan,nan,2022
+1815,University of Medellín,10385,17.2,2%,29.55,,,nan,nan,nan,2022
+1816,Meiji Gakuin University,12316,33.6,2%,29.54,,,nan,nan,nan,2022
+1817,Meikai University,4075,16.3,16%,29.54,,,nan,nan,nan,2022
+1818,Middle Technical University,39336,29.4,0%,29.53,,,nan,nan,nan,2022
+1819,Mizoram University,2870,11.0,0%,29.52,,,nan,nan,nan,2022
+1820,"MNS University of Agriculture, Multan",3202,19.3,0%,29.52,,,nan,nan,nan,2022
+1821,Modern University for Business and Science,1733,13.9,10%,29.51,,,nan,nan,nan,2022
+1822,University of Monterrey,10125,29.8,1%,29.5,,,nan,nan,nan,2022
+1823,University of Mosul,48868,12.0,0%,29.5,,,nan,nan,nan,2022
+1824,October University for Modern Sciences and Arts (MSA),12202,14.2,3%,29.49,,,nan,nan,nan,2022
+1825,Mukogawa Women’s University,8440,27.0,0%,29.49,,,nan,nan,nan,2022
+1826,Musashino University,8867,30.4,7%,29.48,,,nan,nan,nan,2022
+1827,Mutah University,10993,15.7,17%,29.47,,,nan,nan,nan,2022
+1828,Universidad Nacional de Chimborazo,7235,13.1,1%,29.47,,,nan,nan,nan,2022
+1829,Nagoya University of Commerce & Business,3469,29.1,9%,29.46,,,nan,nan,nan,2022
+1830,Nakhchivan State University,6770,13.1,7%,29.45,,,nan,nan,nan,2022
+1831,Nakhon Ratchasima Rajabhat University,15126,24.7,1%,29.45,,,nan,nan,nan,2022
+1832,Nara Women’s University,2600,5.9,4%,29.44,,,nan,nan,nan,2022
+1833,National Agrarian University La Molina,7759,10.5,1%,29.44,,,nan,nan,nan,2022
+1834,National Aviation University,13351,9.8,6%,29.43,,,nan,nan,nan,2022
+1835,National Institute of Industrial Engineering,1046,16.1,0%,29.42,,,nan,nan,nan,2022
+1836,National University Odessa Law Academy,10830,19.1,1%,29.42,,,nan,nan,nan,2022
+1837,The National University of Ostroh Academy,3207,8.5,1%,29.41,,,nan,nan,nan,2022
+1838,National University of Quilmes,33979,27.9,2%,29.4,,,nan,nan,nan,2022
+1839,"National University of Science and Technology, Oman",3765,14.4,17%,29.4,,,nan,nan,nan,2022
+1840,National Transport University,7996,14.2,5%,29.39,,,nan,nan,nan,2022
+1841,National University of Mongolia,20177,27.9,2%,29.39,,,nan,nan,nan,2022
+1842,National University of Water and Environmental Engineering,4778,10.7,1%,29.38,,,nan,nan,nan,2022
+1843,National University “Yuri Kondrautyuk Poltava Polytechnic,5174,7.6,9%,29.37,,,nan,nan,nan,2022
+1844,NED University of Engineering and Technology,11962,22.2,0%,29.37,,,nan,nan,nan,2022
+1845,Newman University,2450,18.1,12%,29.36,,,nan,nan,nan,2022
+1846,Nihon Pharmaceutical University,1681,19.5,4%,29.35,,,nan,nan,nan,2022
+1847,Niigata University of Health and Welfare,4281,18.1,0%,29.35,,,nan,nan,nan,2022
+1848,University of Niigata Prefecture,1118,14.9,2%,29.34,,,nan,nan,nan,2022
+1849,University of Northampton,9620,16.4,29%,29.34,,,nan,nan,nan,2022
+1850,Northern Border University,15384,10.9,2%,29.33,,,nan,nan,nan,2022
+1851,Northern Technical University,19000,23.5,0%,29.32,,,nan,nan,nan,2022
+1852,Norwich University of the Arts,2230,15.4,13%,29.32,,,nan,nan,nan,2022
+1853,Notre Dame University Louaize,5054,12.4,12%,29.31,,,nan,nan,nan,2022
+1854,University of Nova Gorica,391,3.4,50%,29.3,,,nan,nan,nan,2022
+1855,Nueva Granada Military University,18541,10.2,0%,29.3,,,nan,nan,nan,2022
+1856,October 6 University,25910,20.0,2%,29.29,,,nan,nan,nan,2022
+1857,Okayama Prefectural University,1811,11.3,1%,29.29,,,nan,nan,nan,2022
+1858,Université d’Oran 2 Mohamed Ben Ahmed,26883,28.5,1%,29.28,,,nan,nan,nan,2022
+1859,ORT Uruguay University,4078,6.5,3%,29.27,,,nan,nan,nan,2022
+1860,Osaka University of Economics and Law,3146,35.9,19%,29.27,,,nan,nan,nan,2022
+1861,Osaka Ohtani University,3117,22.9,0%,29.26,,,nan,nan,nan,2022
+1862,Ostrogradsky National University of Kremenchuk,3668,11.8,0%,29.26,,,nan,nan,nan,2022
+1863,Universidad Panamericana (UP),14568,8.5,1%,29.25,,,nan,nan,nan,2022
+1864,Universidad Peruana de Ciencias Aplicadas (UPC),50501,19.7,1%,29.24,,,nan,nan,nan,2022
+1865,University of Petra,6828,22.8,30%,29.24,,,nan,nan,nan,2022
+1866,Plymouth Marjon University,1835,24.5,3%,29.23,,,nan,nan,nan,2022
+1867,Poltava V.G. Korolenko National Pedagogical University (PNPU),3812,5.8,0%,29.22,,,nan,nan,nan,2022
+1868,Polytechnic Institute of Setúbal,7346,16.8,7%,29.22,,,nan,nan,nan,2022
+1869,Pontificia Universidad Católica del Ecuador,23313,19.1,1%,29.21,,,nan,nan,nan,2022
+1870,Universidad Popular Autónoma del Estado de Puebla,12015,13.7,2%,29.21,,,nan,nan,nan,2022
+1871,Prefectural University of Hiroshima,2684,11.5,3%,29.2,,,nan,nan,nan,2022
+1872,Prince Mohammad Bin Fahd University,3267,14.1,12%,29.19,,,nan,nan,nan,2022
+1873,Princess Nourah bint Abdulrahman University,28535,12.3,15%,29.19,,,nan,nan,nan,2022
+1874,Prince Sultan University (PSU),4772,24.6,15%,29.18,,,nan,nan,nan,2022
+1875,"University of Professional Studies, Accra",13730,43.6,0%,29.18,,,nan,nan,nan,2022
+1876,Prydniprovska State Academy of Civil Engineering and Architecture,3133,6.1,5%,29.17,,,nan,nan,nan,2022
+1877,University of Puthisastra,1800,5.7,0%,29.16,,,nan,nan,nan,2022
+1878,Queen Margaret University,3885,19.9,32%,29.16,,,nan,nan,nan,2022
+1879,Rajamangala University of Technology Lanna,14151,12.3,1%,29.15,,,nan,nan,nan,2022
+1880,Ravensbourne,2415,24.2,27%,29.15,,,nan,nan,nan,2022
+1881,Rawalpindi Medical University,3004,9.3,2%,29.14,,,nan,nan,nan,2022
+1882,Ritsumeikan Asia Pacific University (APU),5403,24.9,52%,29.13,,,nan,nan,nan,2022
+1883,The Rockefeller University,239,2.0,33%,29.13,,,nan,nan,nan,2022
+1884,Rose Bruford College,665,22.2,19%,29.12,,,nan,nan,nan,2022
+1885,Royal Academy of Music,870,10.2,47%,29.11,,,nan,nan,nan,2022
+1886,Royal Agricultural University,1070,19.5,13%,29.11,,,nan,nan,nan,2022
+1887,"Royal Central School of Speech and Drama, University of London",990,16.5,35%,29.1,,,nan,nan,nan,2022
+1888,Royal College of Art,2160,24.0,73%,29.1,,,nan,nan,nan,2022
+1889,Royal College of Music,795,9.9,55%,29.09,,,nan,nan,nan,2022
+1890,Royal Conservatoire of Scotland,1190,10.3,37%,29.08,,,nan,nan,nan,2022
+1891,Royal Northern College of Music,860,11.5,31%,29.08,,,nan,nan,nan,2022
+1892,University of Sadat City,29872,34.4,4%,29.07,,,nan,nan,nan,2022
+1893,"Saint Thomas University, Colombia",30490,16.9,0%,29.07,,,nan,nan,nan,2022
+1894,Universidad San Ignacio de Loyola,21167,28.0,1%,29.06,,,nan,nan,nan,2022
+1895,University of San Martín de Porres,38212,21.7,0%,29.05,,,nan,nan,nan,2022
+1896,University of Santander,18384,21.3,0%,29.05,,,nan,nan,nan,2022
+1897,Sapporo Gakuin University,2334,21.2,1%,29.04,,,nan,nan,nan,2022
+1898,Sasin School of Management,284,10.5,5%,29.04,,,nan,nan,nan,2022
+1899,Satya Wacana Christian University,16522,29.5,0%,29.03,,,nan,nan,nan,2022
+1900,Saudi Electronic University,24538,33.8,5%,29.02,,,nan,nan,nan,2022
+1901,SBS Swiss Business School,1480,10.5,58%,29.02,,,nan,nan,nan,2022
+1902,Universidad Científica del Sur,10204,17.4,1%,29.01,,,nan,nan,nan,2022
+1903,Seinan Gakuin University,8337,39.0,1%,29.01,,,nan,nan,nan,2022
+1904,Seisa Dohto University,843,12.6,9%,29.0,,,nan,nan,nan,2022
+1905,Senshu University,21512,27.5,3%,28.99,,,nan,nan,nan,2022
+1906,University of La Serena,7778,21.6,1%,28.99,,,nan,nan,nan,2022
+1907,Setsunan University,8224,28.3,1%,28.98,,,nan,nan,nan,2022
+1908,SGH Warsaw School of Economics,10079,31.8,13%,28.98,,,nan,nan,nan,2022
+1909,The University of Shiga Prefecture,2825,13.8,1%,28.97,,,nan,nan,nan,2022
+1910,Shonan Institute of Technology,2188,28.8,9%,28.96,,,nan,nan,nan,2022
+1911,Shoolini University of Biotechnology and Management Sciences,3173,15.4,2%,28.96,,,nan,nan,nan,2022
+1912,Shri Mata Vaishno Devi University,1683,13.0,0%,28.95,,,nan,nan,nan,2022
+1913,Silesian University in Opava,5364,21.7,8%,28.95,,,nan,nan,nan,2022
+1914,Simón Bolívar University (Colombia),18351,19.5,1%,28.94,,,nan,nan,nan,2022
+1915,Sohar University,6025,27.0,2%,28.93,,,nan,nan,nan,2022
+1916,Soka University,6725,18.2,7%,28.93,,,nan,nan,nan,2022
+1917,"Solent University, Southampton",8835,15.8,26%,28.92,,,nan,nan,nan,2022
+1918,Soran University,4544,11.3,0%,28.92,,,nan,nan,nan,2022
+1919,University of South Santa Catarina (Unisul),15301,12.2,1%,28.91,,,nan,nan,nan,2022
+1920,Sri Lanka Institute of Information Technology,10272,40.6,0%,28.9,,,nan,nan,nan,2022
+1921,State University of Bahia,26691,12.6,0%,28.9,,,nan,nan,nan,2022
+1922,St Luke’s International University,716,8.2,2%,28.89,,,nan,nan,nan,2022
+1923,"St Mary’s University College, Belfast",935,23.4,45%,28.89,,,nan,nan,nan,2022
+1924,"St Mary’s University, Twickenham",4700,18.1,18%,28.88,,,nan,nan,nan,2022
+1925,Stranmillis University College,1360,30.2,18%,28.87,,,nan,nan,nan,2022
+1926,Suez University,16803,22.7,2%,28.87,,,nan,nan,nan,2022
+1927,University of Suffolk,3195,16.8,13%,28.86,,,nan,nan,nan,2022
+1928,Sugiyama Jogakuen University,6126,30.2,1%,28.86,,,nan,nan,nan,2022
+1929,Universitas Sumatera Utara,35678,34.5,1%,28.85,,,nan,nan,nan,2022
+1930,University of Sunderland,10810,15.9,34%,28.84,,,nan,nan,nan,2022
+1931,University of Taipei,7409,15.0,2%,28.84,,,nan,nan,nan,2022
+1932,Takushoku University,9564,13.7,11%,28.83,,,nan,nan,nan,2022
+1933,Tama Art University,4672,33.1,10%,28.83,,,nan,nan,nan,2022
+1934,Tarbiat Modares University,8761,11.3,1%,28.82,,,nan,nan,nan,2022
+1935,Tashkent Institute of Finance,4365,11.5,1%,28.81,,,nan,nan,nan,2022
+1936,Tashkent Institute of Irrigation and Agricultural Mechanisation,6022,9.7,4%,28.81,,,nan,nan,nan,2022
+1937,Tashkent Medical Academy,5589,6.0,3%,28.8,,,nan,nan,nan,2022
+1938,Tashkent Pediatric Medical Institute,4452,8.6,2%,28.8,,,nan,nan,nan,2022
+1939,Tashkent Pharmaceutical Institute,3141,10.3,14%,28.79,,,nan,nan,nan,2022
+1940,Tashkent State University of Economics,7952,16.7,0%,28.79,,,nan,nan,nan,2022
+1941,Tashkent State University of Law,4750,11.0,1%,28.78,,,nan,nan,nan,2022
+1942,Tata Institute of Fundamental Research,656,2.5,0%,28.77,,,nan,nan,nan,2022
+1943,Tatung University,4235,19.5,3%,28.77,,,nan,nan,nan,2022
+1944,Technological University of Pereira,17036,17.7,0%,28.76,,,nan,nan,nan,2022
+1945,Tecmilenio University,4665,23.1,2%,28.76,,,nan,nan,nan,2022
+1946,Universidad Tecnológica de Bolívar,6965,26.3,4%,28.75,,,nan,nan,nan,2022
+1947,Instituto Tecnológico de Buenos Aires (ITBA),3370,11.6,9%,28.74,,,nan,nan,nan,2022
+1948,Tecnológico de Costa Rica,10776,14.3,1%,28.74,,,nan,nan,nan,2022
+1949,Instituto Tecnológico Metropolitano,22998,26.3,1%,28.73,,,nan,nan,nan,2022
+1950,Teikyo Heisei University,10276,20.0,1%,28.73,,,nan,nan,nan,2022
+1951,Temuco Catholic University,10329,13.2,1%,28.72,,,nan,nan,nan,2022
+1952,Tenri University,3074,21.3,3%,28.71,,,nan,nan,nan,2022
+1953,Texas A&M University-Commerce,7751,21.2,6%,28.71,,,nan,nan,nan,2022
+1954,University of the Thai Chamber of Commerce,18754,31.4,7%,28.7,,,nan,nan,nan,2022
+1955,The University of Danang,47305,26.1,2%,28.7,,,nan,nan,nan,2022
+1956,Tikrit University,32275,11.7,0%,28.69,,,nan,nan,nan,2022
+1957,Tohoku Gakuin University,11321,36.3,0%,28.68,,,nan,nan,nan,2022
+1958,Tokyo University of Foreign Studies,4455,17.3,10%,28.68,,,nan,nan,nan,2022
+1959,Tokyo University of Technology,7836,31.8,4%,28.67,,,nan,nan,nan,2022
+1960,Torcuato Di Tella University,3852,20.6,5%,28.67,,,nan,nan,nan,2022
+1961,Toyama Prefectural University,1390,9.7,2%,28.66,,,nan,nan,nan,2022
+1962,Trinity Laban Conservatoire of Music and Dance,1120,9.3,30%,28.66,,,nan,nan,nan,2022
+1963,University of Tripoli,65583,20.1,2%,28.65,,,nan,nan,nan,2022
+1964,Tsuru University,3498,29.6,2%,28.64,,,nan,nan,nan,2022
+1965,Turin Polytechnic University in Tashkent,1622,23.9,1%,28.64,,,nan,nan,nan,2022
+1966,Ubon Ratchathani University,13018,18.1,0%,28.63,,,nan,nan,nan,2022
+1967,"UEES, Espiritu Santo University",3078,13.8,25%,28.63,,,nan,nan,nan,2022
+1968,Unichristus,5368,16.2,0%,28.62,,,nan,nan,nan,2022
+1969,United International University,4943,22.6,0%,28.61,,,nan,nan,nan,2022
+1970,Universidad del Pacífico Ecuador,575,13.4,3%,28.61,,,nan,nan,nan,2022
+1971,Universidade Federal de Jataí (UFJ),3954,11.8,0%,28.6,,,nan,nan,nan,2022
+1972,Universitas Negeri Surabaya,25446,28.2,0%,28.6,,,nan,nan,nan,2022
+1973,University of Mostar,10171,9.3,14%,28.59,,,nan,nan,nan,2022
+1974,University of Namibia,28970,22.2,4%,28.59,,,nan,nan,nan,2022
+1975,UNNOBA,8179,10.9,2%,28.58,,,nan,nan,nan,2022
+1976,Urgench State University,16650,17.6,6%,28.57,,,nan,nan,nan,2022
+1977,Uruk University,5021,21.2,0%,28.57,,,nan,nan,nan,2022
+1978,Uşak University,26008,45.8,12%,28.56,,,nan,nan,nan,2022
+1979,Üsküdar University,10768,32.6,6%,28.56,,,nan,nan,nan,2022
+1980,Universidad UTE,12757,19.8,1%,28.55,,,nan,nan,nan,2022
+1981,National University of Uzbekistan named after Mirzo Ulugbek,19298,15.4,1%,28.55,,,nan,nan,nan,2022
+1982,Uzhhorod National University,13918,10.3,11%,28.54,,,nan,nan,nan,2022
+1983,Valahia University of Targoviste,5224,19.1,1%,28.53,,,nan,nan,nan,2022
+1984,University of Vale do Itajaí,13881,22.6,1%,28.53,,,nan,nan,nan,2022
+1985,Varna University of Management,612,16.1,32%,28.52,,,nan,nan,nan,2022
+1986,Vila Velha University,4972,16.6,1%,28.52,,,nan,nan,nan,2022
+1987,Walailak University,8329,13.7,0%,28.51,,,nan,nan,nan,2022
+1988,University of Wales,5,0.3,28%,28.5,,,nan,nan,nan,2022
+1989,University of Wales Trinity Saint David,8050,16.8,16%,28.5,,,nan,nan,nan,2022
+1990,Western Caspian University,2996,10.8,3%,28.49,,,nan,nan,nan,2022
+1991,University of West London,8750,15.1,39%,28.49,,,nan,nan,nan,2022
+1992,West Ukrainian National University,9408,13.7,3%,28.48,,,nan,nan,nan,2022
+1993,WHU: Beisheim,1669,32.7,31%,28.48,,,nan,nan,nan,2022
+1994,University of Winchester,7010,15.9,10%,28.47,,,nan,nan,nan,2022
+1995,The Women University Multan,5055,27.5,0%,28.46,,,nan,nan,nan,2022
+1996,University of Worcester,7595,17.7,12%,28.46,,,nan,nan,nan,2022
+1997,World University of Bangladesh (WUB),6673,29.8,0%,28.45,,,nan,nan,nan,2022
+1998,Wrexham Glyndwr University,3170,18.6,16%,28.45,,,nan,nan,nan,2022
+1999,Writtle University College,665,7.8,11%,28.44,,,nan,nan,nan,2022
+2000,WSB Academy,4137,6.4,33%,28.44,,,nan,nan,nan,2022
+2001,Yamaguchi Prefectural University,1404,13.0,1%,28.43,,,nan,nan,nan,2022
+2002,Yamanashi Gakuin University,3678,23.4,8%,28.42,,,nan,nan,nan,2022
+2003,Yaşar University,6847,13.0,2%,28.42,,,nan,nan,nan,2022
+2004,Yenepoya University,3104,6.1,0%,28.41,,,nan,nan,nan,2022
+2005,Yogyakarta State University,24988,20.3,1%,28.41,,,nan,nan,nan,2022
+2006,York St John University,6030,18.0,8%,28.4,,,nan,nan,nan,2022
+2007,Ziauddin University,4018,9.3,1%,28.4,,,nan,nan,nan,2022
